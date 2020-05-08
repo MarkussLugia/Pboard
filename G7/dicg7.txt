@@ -95,7 +95,6 @@ rockruff	岩狗狗	zh-CN
 iwanko	岩狗狗	zh-CN	
 zongyanlangren	鬃岩狼人	zh-CN	
 zylr	鬃岩狼人	zh-CN	
-zongyanlangren	鬃岩狼人	zh-CN	
 lycanroc	鬃岩狼人	zh-CN	
 rugarugan	鬃岩狼人	zh-CN	
 ruodingyu	弱丁鱼	zh-CN	

@@ -480,7 +480,6 @@ tattu	墨海马	zh-CN
 haicilong	海刺龙	zh-CN	
 hcl	海刺龙	zh-CN	
 seadra	海刺龙	zh-CN	
-seadra	海刺龙	zh-CN	
 jiaojinyu	角金鱼	zh-CN	
 jjy	角金鱼	zh-CN	
 goldeen	角金鱼	zh-CN	

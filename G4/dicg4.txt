@@ -81,7 +81,6 @@ kolink	小猫怪	zh-CN
 lekemao	勒克猫	zh-CN	
 lkm	勒克猫	zh-CN	
 luxio	勒克猫	zh-CN	
-luxio	勒克猫	zh-CN	
 lunqinmao	伦琴猫	zh-CN	
 lqm	伦琴猫	zh-CN	
 luxray	伦琴猫	zh-CN	
@@ -132,7 +131,6 @@ beequen	蜂女王	zh-CN
 paqilizi	帕奇利兹	zh-CN	
 pqlz	帕奇利兹	zh-CN	
 baiseemo	帕奇利兹	zh-CN	
-pachirisu	帕奇利兹	zh-CN	
 pachirisu	帕奇利兹	zh-CN	
 yongquanyou	泳圈鼬	zh-CN	
 yqy	泳圈鼬	zh-CN	
@@ -247,7 +245,6 @@ fukamaru	圆陆鲨	zh-CN
 jiayalusha	尖牙陆鲨	zh-CN	
 jyls	尖牙陆鲨	zh-CN	
 gabite	尖牙陆鲨	zh-CN	
-gabite	尖牙陆鲨	zh-CN	
 lieyaolusha	烈咬陆鲨	zh-CN	
 lyls	烈咬陆鲨	zh-CN	
 dilong	烈咬陆鲨	zh-CN	
@@ -268,7 +265,6 @@ bodao	路卡利欧	zh-CN
 lucario	路卡利欧	zh-CN	
 shahema	沙河马	zh-CN	
 shm	沙河马	zh-CN	
-hippopotas	沙河马	zh-CN	
 hippopotas	沙河马	zh-CN	
 hemashou	河马兽	zh-CN	
 hms	河马兽	zh-CN	
