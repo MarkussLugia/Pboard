@@ -288,7 +288,6 @@ abagoura	肋骨海龟	zh-CN
 shizuxiaoniao	始祖小鸟	zh-CN	
 szxn	始祖小鸟	zh-CN	
 archen	始祖小鸟	zh-CN	
-archen	始祖小鸟	zh-CN	
 shizudaniao	始祖大鸟	zh-CN	
 szdn	始祖大鸟	zh-CN	
 archeops	始祖大鸟	zh-CN	
@@ -306,7 +305,6 @@ zorua	索罗亚	zh-CN
 zoura	索罗亚	zh-CN	
 suoluoyake	索罗亚克	zh-CN	
 slyk	索罗亚克	zh-CN	
-zoroark	索罗亚克	zh-CN	
 zoroark	索罗亚克	zh-CN	
 paomolishu	泡沫栗鼠	zh-CN	
 pmls	泡沫栗鼠	zh-CN	
@@ -346,7 +344,6 @@ ducklett	鸭宝宝	zh-CN
 koaruhie	鸭宝宝	zh-CN	
 wutiane	舞天鹅	zh-CN	
 wte	舞天鹅	zh-CN	
-swanna	舞天鹅	zh-CN	
 swanna	舞天鹅	zh-CN	
 minibing	迷你冰	zh-CN	
 mnb	迷你冰	zh-CN	
@@ -581,7 +578,6 @@ bilijiweng	毕力吉翁	zh-CN
 bljw	毕力吉翁	zh-CN	
 virizion	毕力吉翁	zh-CN	
 viridium	毕力吉翁	zh-CN	
-virizion	毕力吉翁	zh-CN	
 longjuanyun	龙卷云	zh-CN	
 ljy	龙卷云	zh-CN	
 tornadus	龙卷云	zh-CN	
@@ -611,7 +607,6 @@ kldo	凯路迪欧	zh-CN
 keldeo	凯路迪欧	zh-CN	
 meiluoyeta	美洛耶塔	zh-CN	
 mlyt	美洛耶塔	zh-CN	
-meloetta	美洛耶塔	zh-CN	
 meloetta	美洛耶塔	zh-CN	
 gainuoshakete	盖诺赛克特	zh-CN	
 gnskt	盖诺赛克特	zh-CN	
