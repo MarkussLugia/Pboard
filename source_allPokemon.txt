@@ -1334,11 +1334,11 @@
 <START>tiaotiaozhu<MID>跳跳猪<END>
 <START>ttz<MID>跳跳猪<END>
 <START>spoink<MID>跳跳猪<END>
-<START>banebū<MID>跳跳猪<END>
+<START>banebu<MID>跳跳猪<END>
 <START>pupuzhu<MID>噗噗猪<END>
 <START>ppz<MID>噗噗猪<END>
 <START>grumpig<MID>噗噗猪<END>
-<START>būpig<MID>噗噗猪<END>
+<START>bupig<MID>噗噗猪<END>
 <START>huanghuangban<MID>晃晃斑<END>
 <START>hhb<MID>晃晃斑<END>
 <START>spinda<MID>晃晃斑<END>
@@ -1581,7 +1581,7 @@
 <START>waixingren<MID>代欧奇希斯<END>
 <START>dna<MID>代欧奇希斯<END>
 <START>deoxys<MID>代欧奇希斯<END>
-<START>​caomiaogui<MID>草苗龟<END>
+<START>caomiaogui<MID>草苗龟<END>
 <START>cmg<MID>草苗龟<END>
 <START>nenmiaogui<MID>草苗龟<END>
 <START>turtwig<MID>草苗龟<END>
@@ -2938,7 +2938,7 @@
 <START>boerkainien<MID>波尔凯尼恩<END>
 <START>bekne<MID>波尔凯尼恩<END>
 <START>volcanion<MID>波尔凯尼恩<END>
-<START>​mumuxiao<MID>木木枭<END>
+<START>mumuxiao<MID>木木枭<END>
 <START>mmx<MID>木木枭<END>
 <START>rowlet<MID>木木枭<END>
 <START>mokuro<MID>木木枭<END>
