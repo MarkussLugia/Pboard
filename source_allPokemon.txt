@@ -1142,7 +1142,7 @@
 <START>ohsubame<MID>大王燕<END>
 <START>changchiou<MID>长翅鸥<END>
 <START>cco<MID>长翅鸥<END>
-<START>Wingull<MID>长翅鸥<END>
+<START>wingull<MID>长翅鸥<END>
 <START>camome<MID>长翅鸥<END>
 <START>dazuiou<MID>大嘴鸥<END>
 <START>dzo<MID>大嘴鸥<END>
@@ -1717,8 +1717,8 @@
 <START>yongquanyou<MID>泳圈鼬<END>
 <START>yqy<MID>泳圈鼬<END>
 <START>yongqiyou<MID>泳圈鼬<END>
-<START>Buizel<MID>泳圈鼬<END>
-<START>Buoysel<MID>泳圈鼬<END>
+<START>buizel<MID>泳圈鼬<END>
+<START>buoysel<MID>泳圈鼬<END>
 <START>fuqianyou<MID>浮潜鼬<END>
 <START>fqy<MID>浮潜鼬<END>
 <START>floatzel<MID>浮潜鼬<END>
@@ -1984,8 +1984,8 @@
 <START>aimuliduo<MID>艾姆利多<END>
 <START>amld<MID>艾姆利多<END>
 <START>hongshenggu<MID>艾姆利多<END>
-<START>Mesprit<MID>艾姆利多<END>
-<START>Emrit<MID>艾姆利多<END>
+<START>mesprit<MID>艾姆利多<END>
+<START>emrit<MID>艾姆利多<END>
 <START>yakenuomu<MID>亚克诺姆<END>
 <START>yknm<MID>亚克诺姆<END>
 <START>lanshenggu<MID>亚克诺姆<END>
@@ -2021,7 +2021,7 @@
 <START>crecelia<MID>克雷色利亚<END>
 <START>feiouna<MID>霏欧纳<END>
 <START>fon<MID>霏欧纳<END>
-<START>Phione<MID>霏欧纳<END>
+<START>phione<MID>霏欧纳<END>
 <START>manafei<MID>玛纳霏<END>
 <START>mnf<MID>玛纳霏<END>
 <START>manaphy<MID>玛纳霏<END>
