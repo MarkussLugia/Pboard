@@ -2452,6 +2452,8 @@
 <STSRT>tesseed<MID>种子铁球<END>
 <STSRT>jianguoyaling<MID>坚果哑铃<END>
 <STSRT>jgyl<MID>坚果哑铃<END>
+<STSRT>caogang<MID>坚果哑铃<END>
+<STSRT>liulian<MID>坚果哑铃<END>
 <STSRT>ferrothorn<MID>坚果哑铃<END>
 <STSRT>nutrey<MID>坚果哑铃<END>
 <STSRT>chiluner<MID>齿轮儿<END>
