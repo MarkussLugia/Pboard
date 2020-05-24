@@ -35,7 +35,7 @@
 <START>sjg<MID>水箭龟<END>
 <START>blastoise<MID>水箭龟<END>
 <START>kamekkusu<MID>水箭龟<END>
-<START>lumaochong<MID>绿毛虫<END>
+<START>lvmaochong<MID>绿毛虫<END>
 <START>lmc<MID>绿毛虫<END>
 <START>caterpie<MID>绿毛虫<END>
 <START>kyatapi<MID>绿毛虫<END>
@@ -2476,7 +2476,7 @@
 <START>jellicent<MID>胖嘟嘟<END>
 <START>burungel<MID>胖嘟嘟<END>
 <START>baomumanbo<MID>保姆曼波<END>
-<START>bbmb<MID>保姆曼波<END>
+<START>bmmb<MID>保姆曼波<END>
 <START>alomomola<MID>保姆曼波<END>
 <START>mamanbou<MID>保姆曼波<END>
 <START>diandianchong<MID>电电虫<END>
@@ -3108,7 +3108,7 @@
 <START>chx<MID>超坏星<END>
 <START>toxapex<MID>超坏星<END>
 <START>dohidoide<MID>超坏星<END>
-<START>niluzai<MID>泥驴仔<END>
+<START>nilvzai<MID>泥驴仔<END>
 <START>nlz<MID>泥驴仔<END>
 <START>mudbray<MID>泥驴仔<END>
 <START>dorobanko<MID>泥驴仔<END>
@@ -3199,8 +3199,8 @@
 <START>ssby<MID>噬沙堡爷<END>
 <START>palossand<MID>噬沙堡爷<END>
 <START>shirodesuna<MID>噬沙堡爷<END>
-<START>quanhaican<MID>拳海参<END>
-<START>qhc<MID>拳海参<END>
+<START>quanhaishen<MID>拳海参<END>
+<START>qhs<MID>拳海参<END>
 <START>pyukumuku<MID>拳海参<END>
 <START>namakobushi<MID>拳海参<END>
 <START>shuxingkong<MID>属性：空<END>
@@ -3378,7 +3378,7 @@
 <START>thwackey<MID>啪咚猴<END>
 <START>bachinki<MID>啪咚猴<END>
 <START>hongleijingangxing<MID>轰擂金刚猩<END>
-<START>hljgs<MID>轰擂金刚猩<END>
+<START>hljgx<MID>轰擂金刚猩<END>
 <START>rillaboom<MID>轰擂金刚猩<END>
 <START>goriranda<MID>轰擂金刚猩<END>
 <START>yantuer<MID>炎兔儿<END>
@@ -3387,6 +3387,7 @@
 <START>hibani<MID>炎兔儿<END>
 <START>tengcuxiaojiang<MID>腾蹴小将<END>
 <START>tcxg<MID>腾蹴小将<END>
+<START>tangcujiang<MID>腾蹴小将<END>
 <START>raboot<MID>腾蹴小将<END>
 <START>rabifutto<MID>腾蹴小将<END>
 <START>shanyanwangpai<MID>闪焰王牌<END>
@@ -3632,7 +3633,7 @@
 <START>syhs<MID>鳃鱼海兽<END>
 <START>arctovish<MID>鳃鱼海兽<END>
 <START>uonochirudon<MID>鳃鱼海兽<END>
-<START>luganglong<MID>铝钢龙<END>
+<START>lvganglong<MID>铝钢龙<END>
 <START>lgl<MID>铝钢龙<END>
 <START>duraludon<MID>铝钢龙<END>
 <START>jurarudon<MID>铝钢龙<END>
