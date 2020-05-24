@@ -231,6 +231,7 @@
 <START>gadi<MID>卡蒂狗<END>
 <START>fengsugou<MID>风速狗<END>
 <START>fsg<MID>风速狗<END>
+<START>fenggou<MID>风速狗<END>
 <START>arcanine<MID>风速狗<END>
 <START>uindi<MID>风速狗<END>
 <START>wenxiangkedou<MID>蚊香蝌蚪<END>
@@ -244,6 +245,7 @@
 <START>nyorozo<MID>蚊香君<END>
 <START>wenxiangyongshi<MID>蚊香泳士<END>
 <START>wxys<MID>蚊香泳士<END>
+<START>kuaiyongwa<MID>蚊香泳士<END>
 <START>poliwrath<MID>蚊香泳士<END>
 <START>nyorobon<MID>蚊香泳士<END>
 <START>kaixi<MID>凯西<END>
@@ -470,6 +472,7 @@
 <START>monjara<MID>蔓藤怪<END>
 <START>daishou<MID>袋兽<END>
 <START>ds<MID>袋兽<END>
+<START>laoda<MID>袋兽<END>
 <START>kangaskhan<MID>袋兽<END>
 <START>garura<MID>袋兽<END>
 <START>mohaima<MID>墨海马<END>
@@ -547,14 +550,18 @@
 <START>eievui<MID>伊布<END>
 <START>shuiyibu<MID>水伊布<END>
 <START>syb<MID>水伊布<END>
+<START>shuijingling<MID>水伊布<END>
 <START>vaporeon<MID>水伊布<END>
 <START>showers<MID>水伊布<END>
 <START>leiyibu<MID>雷伊布<END>
 <START>lyb<MID>雷伊布<END>
+<START>leijingling<MID>雷伊布<END>
 <START>jolteon<MID>雷伊布<END>
 <START>thunders<MID>雷伊布<END>
 <START>huoyibu<MID>火伊布<END>
 <START>hyb<MID>火伊布<END>
+<START>huojingling<MID>火伊布<END>
+<START>weiyiwang<MID>火伊布<END>
 <START>flareon<MID>火伊布<END>
 <START>booster<MID>火伊布<END>
 <START>duobianshou<MID>多边兽<END>
@@ -732,10 +739,6 @@
 <START>dl<MID>电龙<END>
 <START>ampharos<MID>电龙<END>
 <START>denryu<MID>电龙<END>
-<START>astalos<MID>电龙<END>
-<START>raizekusu<MID>电龙<END>
-<START>qingdianzhu<MID>青电主<END>
-<START>boltreaver<MID>青电主<END>
 <START>meilihua<MID>美丽花<END>
 <START>mlh<MID>美丽花<END>
 <START>bellossom<MID>美丽花<END>
@@ -747,6 +750,7 @@
 <START>maril<MID>玛力露<END>
 <START>maliluli<MID>玛力露丽<END>
 <START>mlll<MID>玛力露丽<END>
+<START>tulongyongshi<MID>玛力露丽<END>
 <START>azumarill<MID>玛力露丽<END>
 <START>marilli<MID>玛力露丽<END>
 <START>shucaiguai<MID>树才怪<END>
@@ -756,6 +760,7 @@
 <START>usokkie<MID>树才怪<END>
 <START>wenxiangwahuang<MID>蚊香蛙皇<END>
 <START>wxwh<MID>蚊香蛙皇<END>
+<START>wahuang<MID>蚊香蛙皇<END>
 <START>nyorotono<MID>蚊香蛙皇<END>
 <START>politoed<MID>蚊香蛙皇<END>
 <START>jianzicao<MID>毽子草<END>
@@ -797,6 +802,7 @@
 <START>taiyangyibu<MID>太阳伊布<END>
 <START>tyyb<MID>太阳伊布<END>
 <START>taiyangjingling<MID>太阳伊布<END>
+<START>guangbu<MID>太阳伊布<END>
 <START>riyibu<MID>太阳伊布<END>
 <START>rijingling<MID>太阳伊布<END>
 <START>espeon<MID>太阳伊布<END>
@@ -804,8 +810,9 @@
 <START>yueliangyibu<MID>月亮伊布<END>
 <START>ylyb<MID>月亮伊布<END>
 <START>yueliangjingling<MID>月亮伊布<END>
-<START>yuejingling<MID>月亮伊布<END>
+<START>yuebu<MID>月亮伊布<END>
 <START>yueyibu<MID>月亮伊布<END>
+<START>yuejingling<MID>月亮伊布<END>
 <START>umbreon<MID>月亮伊布<END>
 <START>blacky<MID>月亮伊布<END>
 <START>heianya<MID>黑暗鸦<END>
@@ -826,6 +833,7 @@
 <START>unown<MID>未知图腾<END>
 <START>guoranweng<MID>果然翁<END>
 <START>grw<MID>果然翁<END>
+<START>guoshen<MID>果然翁<END>
 <START>wobbuffet<MID>果然翁<END>
 <START>sonansu<MID>果然翁<END>
 <START>qilinqi<MID>麒麟奇<END>
@@ -1001,6 +1009,7 @@
 <START>raikou<MID>雷公<END>
 <START>yandi<MID>炎帝<END>
 <START>yd<MID>炎帝<END>
+<START>weiyishen<MID>炎帝<END>
 <START>entei<MID>炎帝<END>
 <START>shuijun<MID>水君<END>
 <START>sj<MID>水君<END>
@@ -1016,8 +1025,9 @@
 <START>pupitar<MID>沙基拉斯<END>
 <START>sanagiras<MID>沙基拉斯<END>
 <START>banjilasi<MID>班基拉斯<END>
-<START>bkls<MID>班基拉斯<END>
+<START>bjls<MID>班基拉斯<END>
 <START>banjila<MID>班基拉斯<END>
+<START>laoban<MID>班基拉斯<END>
 <START>tyranitar<MID>班基拉斯<END>
 <START>bangiras<MID>班基拉斯<END>
 <START>luoqiya<MID>洛奇亚<END>
@@ -1115,8 +1125,8 @@
 <START>lmxt<MID>莲帽小童<END>
 <START>lombre<MID>莲帽小童<END>
 <START>hasubrero<MID>莲帽小童<END>
-<START>yetianhetong<MID>乐天河童<END>
-<START>ytht<MID>乐天河童<END>
+<START>letianhetong<MID>乐天河童<END>
+<START>ltht<MID>乐天河童<END>
 <START>yashen<MID>乐天河童<END>
 <START>ludicolo<MID>乐天河童<END>
 <START>runpappa<MID>乐天河童<END>
@@ -1463,6 +1473,7 @@
 <START>tropius<MID>热带龙<END>
 <START>abosuolu<MID>阿勃梭鲁<END>
 <START>absl<MID>阿勃梭鲁<END>
+<START>zaishou<MID>阿勃梭鲁<END>
 <START>absol<MID>阿勃梭鲁<END>
 <START>xiaoguoran<MID>小果然<END>
 <START>xgr<MID>小果然<END>
@@ -1552,11 +1563,13 @@
 <START>ldys<MID>拉帝亚斯<END>
 <START>hongshuidu<MID>拉帝亚斯<END>
 <START>hongfeiji<MID>拉帝亚斯<END>
+<START>meimei<MID>拉帝亚斯<END>
 <START>latias<MID>拉帝亚斯<END>
 <START>ladiousi<MID>拉帝欧斯<END>
 <START>ldos<MID>拉帝欧斯<END>
 <START>lanshuidu<MID>拉帝欧斯<END>
 <START>lanfeiji<MID>拉帝欧斯<END>
+<START>gege<MID>拉帝欧斯<END>
 <START>latios<MID>拉帝欧斯<END>
 <START>gaiouka<MID>盖欧卡<END>
 <START>gok<MID>盖欧卡<END>
@@ -1638,6 +1651,7 @@
 <START>mukeying<MID>姆克鹰<END>
 <START>mky<MID>姆克鹰<END>
 <START>liangying<MID>姆克鹰<END>
+<START>faxingniao<MID>姆克鹰<END>
 <START>staraptor<MID>姆克鹰<END>
 <START>mukuhawk<MID>姆克鹰<END>
 <START>dayali<MID>大牙狸<END>
@@ -1737,6 +1751,7 @@
 <START>karanakushi<MID>无壳海兔<END>
 <START>haitushou<MID>海兔兽<END>
 <START>hts<MID>海兔兽<END>
+<START>haitu<MID>海兔兽<END>
 <START>hainiushou<MID>海兔兽<END>
 <START>gastrodon<MID>海兔兽<END>
 <START>tritodon<MID>海兔兽<END>
@@ -1795,6 +1810,7 @@
 <START>dohmirror<MID>铜镜怪<END>
 <START>qingtongzhong<MID>青铜钟<END>
 <START>qtz<MID>青铜钟<END>
+<START>gangzhong<MID>青铜钟<END>
 <START>bronzong<MID>青铜钟<END>
 <START>dohtakun<MID>青铜钟<END>
 <START>pencaiguai<MID>盆才怪<END>
@@ -1835,6 +1851,8 @@
 <START>gaburias<MID>烈咬陆鲨<END>
 <START>xiaokabishou<MID>小卡比兽<END>
 <START>xkbs<MID>小卡比兽<END>
+<START>gangbishou<MID>小卡比兽<END>
+<START>gangbi<MID>小卡比兽<END>
 <START>munchlax<MID>小卡比兽<END>
 <START>gonbe<MID>小卡比兽<END>
 <START>lioulu<MID>利欧路<END>
@@ -1843,6 +1861,7 @@
 <START>riolu<MID>利欧路<END>
 <START>lukaliou<MID>路卡利欧<END>
 <START>lklo<MID>路卡利欧<END>
+<START>luka<MID>路卡利欧<END>
 <START>bodao<MID>路卡利欧<END>
 <START>lucario<MID>路卡利欧<END>
 <START>shahema<MID>沙河马<END>
@@ -1907,6 +1926,9 @@
 <START>berobelt<MID>大舌舔<END>
 <START>chaojiakuangxi<MID>超甲狂犀<END>
 <START>cjkx<MID>超甲狂犀<END>
+<START>zhongjiabaolong<MID>超甲狂犀<END>
+<START>chaojia<MID>超甲狂犀<END>
+<START>zhongbao<MID>超甲狂犀<END>
 <START>rhyperior<MID>超甲狂犀<END>
 <START>dosidon<MID>超甲狂犀<END>
 <START>jumanteng<MID>巨蔓藤<END>
@@ -1936,10 +1958,14 @@
 <START>megayanma<MID>远古巨蜓<END>
 <START>yeyibu<MID>叶伊布<END>
 <START>yyb<MID>叶伊布<END>
+<START>yejingling<MID>叶伊布<END>
+<START>caoyibu<MID>叶伊布<END>
 <START>leafeon<MID>叶伊布<END>
 <START>leafia<MID>叶伊布<END>
 <START>bingyibu<MID>冰伊布<END>
 <START>byb<MID>冰伊布<END>
+<START>bingjingling<MID>冰伊布<END>
+<START>bingbu<MID>冰伊布<END>
 <START>glaceon<MID>冰伊布<END>
 <START>glacia<MID>冰伊布<END>
 <START>tianxiewang<MID>天蝎王<END>
@@ -1975,6 +2001,11 @@
 <START>luotuomu<MID>洛托姆<END>
 <START>ltm<MID>洛托姆<END>
 <START>diangui<MID>洛托姆<END>
+<START>xiyiji<MID>清洗洛托姆<END>
+<START>huoyiji<MID>加热洛托姆<END>
+<START>caoyiji<MID>切割洛托姆<END>
+<START>feiyiji<MID>旋转洛托姆<END>
+<START>bingyiji<MID>结冰洛托姆<END>
 <START>rotom<MID>洛托姆<END>
 <START>youkexi<MID>由克希<END>
 <START>ykx<MID>由克希<END>
@@ -1996,11 +2027,13 @@
 <START>diyalujia<MID>帝牙卢卡<END>
 <START>ganglong<MID>帝牙卢卡<END>
 <START>shijianlong<MID>帝牙卢卡<END>
+<START>shijianshen<MID>帝牙卢卡<END>
 <START>zuanshi<MID>帝牙卢卡<END>
 <START>dialga<MID>帝牙卢卡<END>
 <START>paluqiya<MID>帕路奇亚<END>
 <START>plqy<MID>帕路奇亚<END>
 <START>kongjianlong<MID>帕路奇亚<END>
+<START>kongjianshen<MID>帕路奇亚<END>
 <START>zhenzhu<MID>帕路奇亚<END>
 <START>palkia<MID>帕路奇亚<END>
 <START>xiduolanen<MID>席多蓝恩<END>
@@ -2017,6 +2050,7 @@
 <START>giratina<MID>骑拉帝纳<END>
 <START>keleiseliya<MID>克雷色利亚<END>
 <START>klsly<MID>克雷色利亚<END>
+<START>meimengshen<MID>克雷色利亚<END>
 <START>cresselia<MID>克雷色利亚<END>
 <START>crecelia<MID>克雷色利亚<END>
 <START>feiouna<MID>霏欧纳<END>
@@ -2027,6 +2061,7 @@
 <START>manaphy<MID>玛纳霏<END>
 <START>dakelaiyi<MID>达克莱伊<END>
 <START>dkly<MID>达克莱伊<END>
+<START>emengshen<MID>达克莱伊<END>
 <START>darkrai<MID>达克莱伊<END>
 <START>xiemi<MID>谢米<END>
 <START>xm<MID>谢米<END>
@@ -2065,6 +2100,7 @@
 <START>chaoboo<MID>炒炒猪<END>
 <START>yanwuwang<MID>炎武王<END>
 <START>yww<MID>炎武王<END>
+<START>ershixiong<MID>炎武王<END>
 <START>emboar<MID>炎武王<END>
 <START>enbuoh<MID>炎武王<END>
 <START>shuishuita<MID>水水獭<END>
@@ -2252,6 +2288,7 @@
 <START>monmen<MID>木棉球<END>
 <START>fengyaojing<MID>风妖精<END>
 <START>fyj<MID>风妖精<END>
+<START>heixinmian<MID>风妖精<END>
 <START>whimsicott<MID>风妖精<END>
 <START>elfuun<MID>风妖精<END>
 <START>baihegenwawa<MID>百合根娃娃<END>
@@ -2304,6 +2341,8 @@
 <START>zuruggu<MID>滑滑小子<END>
 <START>toujinhunhun<MID>头巾混混<END>
 <START>tjhh<MID>头巾混混<END>
+<START>chengguanxi<MID>头巾混混<END>
+<START>guanxi<MID>头巾混混<END>
 <START>scrafty<MID>头巾混混<END>
 <START>zuruzukin<MID>头巾混混<END>
 <START>xiangzhengniao<MID>象征鸟<END>
@@ -2365,6 +2404,7 @@
 <START>gothimiru<MID>歌德小童<END>
 <START>gedexiaojie<MID>歌德小姐<END>
 <START>gdxj<MID>歌德小姐<END>
+<START>yima<MID>歌德小姐<END>
 <START>gothitelle<MID>歌德小姐<END>
 <START>gothiruselle<MID>歌德小姐<END>
 <START>danluanxibaoqiu<MID>单卵细胞球<END>
@@ -2424,6 +2464,7 @@
 <START>tamagetake<MID>哎呀球菇<END>
 <START>bailuqiugu<MID>败露球菇<END>
 <START>blqg<MID>败露球菇<END>
+<START>dungu<MID>败露球菇<END>
 <START>amoonguss<MID>败露球菇<END>
 <START>morobareru<MID>败露球菇<END>
 <START>qingpiaopiao<MID>轻飘飘<END>
@@ -2498,6 +2539,7 @@
 <START>lampler<MID>灯火幽灵<END>
 <START>shuijingdenghuoling<MID>水晶灯火灵<END>
 <START>sjdhl<MID>水晶灯火灵<END>
+<START>guideng<MID>水晶灯火灵<END>
 <START>chandelure<MID>水晶灯火灵<END>
 <START>chandela<MID>水晶灯火灵<END>
 <START>yaya<MID>牙牙<END>
@@ -2561,6 +2603,7 @@
 <START>komatana<MID>驹刀小兵<END>
 <START>pizhansiling<MID>劈斩司令<END>
 <START>pzsl<MID>劈斩司令<END>
+<START>gangbing<MID>劈斩司令<END>
 <START>bisharp<MID>劈斩司令<END>
 <START>kirikizan<MID>劈斩司令<END>
 <START>baozhatoushuiniu<MID>爆炸头水牛<END>
@@ -2600,6 +2643,7 @@
 <START>dihead<MID>双首暴龙<END>
 <START>sanshouelong<MID>三首恶龙<END>
 <START>ssel<MID>三首恶龙<END>
+<START>elong<MID>三首恶龙<END>
 <START>hydreigon<MID>三首恶龙<END>
 <START>sazandora<MID>三首恶龙<END>
 <START>ranshaochong<MID>燃烧虫<END>
@@ -2608,6 +2652,7 @@
 <START>merlarva<MID>燃烧虫<END>
 <START>huoshene<MID>火神蛾<END>
 <START>hse<MID>火神蛾<END>
+<START>huoshenchong<MID>火神蛾<END>
 <START>volcarona<MID>火神蛾<END>
 <START>ulgamoth<MID>火神蛾<END>
 <START>goupaluweng<MID>勾帕路翁<END>
@@ -2616,6 +2661,7 @@
 <START>cobalon<MID>勾帕路翁<END>
 <START>dailajiweng<MID>代拉基翁<END>
 <START>dljw<MID>代拉基翁<END>
+<START>yanniu<MID>代拉基翁<END>
 <START>terrakion<MID>代拉基翁<END>
 <START>bilijiweng<MID>毕力吉翁<END>
 <START>bljw<MID>毕力吉翁<END>
@@ -2653,6 +2699,7 @@
 <START>meloetta<MID>美洛耶塔<END>
 <START>gainuoshakete<MID>盖诺赛克特<END>
 <START>gnskt<MID>盖诺赛克特<END>
+<START>mieshichong<MID>盖诺赛克特<END>
 <START>genesect<MID>盖诺赛克特<END>
 <START>halili<MID>哈力栗<END>
 <START>hll<MID>哈力栗<END>
@@ -2690,6 +2737,7 @@
 <START>jiaherenwa<MID>甲贺忍蛙<END>
 <START>jhrw<MID>甲贺忍蛙<END>
 <START>renwa<MID>甲贺忍蛙<END>
+<START>zhiwa<MID>小智版甲贺忍蛙<END>
 <START>greninja<MID>甲贺忍蛙<END>
 <START>gekkouga<MID>甲贺忍蛙<END>
 <START>juejuetu<MID>掘掘兔<END>
@@ -2857,10 +2905,13 @@
 <START>xianziyibu<MID>仙子伊布<END>
 <START>xzyb<MID>仙子伊布<END>
 <START>xianzijingling<MID>仙子伊布<END>
+<START>xianbu<MID>仙子伊布<END>
 <START>sylveon<MID>仙子伊布<END>
 <START>nymphia<MID>仙子伊布<END>
 <START>shuaijiaoyingren<MID>摔角鹰人<END>
 <START>sjyr<MID>摔角鹰人<END>
+<START>zhandoufeiniao<MID>摔角鹰人<END>
+<START>jilaoying<MID>摔角鹰人<END>
 <START>hawlucha<MID>摔角鹰人<END>
 <START>ruchaburu<MID>摔角鹰人<END>
 <START>dongdongshu<MID>咚咚鼠<END>
@@ -2881,6 +2932,7 @@
 <START>nianmeilong<MID>黏美龙<END>
 <START>nml<MID>黏美龙<END>
 <START>nianmeilulong<MID>黏美龙<END>
+<START>nianlong<MID>黏美龙<END>
 <START>goodra<MID>黏美龙<END>
 <START>numerugon<MID>黏美龙<END>
 <START>yuequaner<MID>钥圈儿<END>
@@ -2921,12 +2973,18 @@
 <START>onvern<MID>音波龙<END>
 <START>zheerniyasi<MID>哲尔尼亚斯<END>
 <START>zenys<MID>哲尔尼亚斯<END>
+<START>xshen<MID>哲尔尼亚斯<END>
+<START>xlu<MID>哲尔尼亚斯<END>
 <START>xerneas<MID>哲尔尼亚斯<END>
 <START>yipeiertaer<MID>伊裴尔塔尔<END>
 <START>ypete<MID>伊裴尔塔尔<END>
+<START>yshen<MID>伊裴尔塔尔<END>
+<START>yniao<MID>伊裴尔塔尔<END>
 <START>yveltal<MID>伊裴尔塔尔<END>
 <START>jigeerde<MID>基格尔德<END>
 <START>jged<MID>基格尔德<END>
+<START>zshen<MID>基格尔德<END>
+<START>zshe<MID>基格尔德<END>
 <START>zygarde<MID>基格尔德<END>
 <START>dianxi<MID>蒂安希<END>
 <START>dax<MID>蒂安希<END>
@@ -2972,6 +3030,8 @@
 <START>oshamari<MID>花漾海狮<END>
 <START>xishihairen<MID>西狮海壬<END>
 <START>xshr<MID>西狮海壬<END>
+<START>haishi<MID>西狮海壬<END>
+<START>weinianghaishi<MID>西狮海壬<END>
 <START>primarina<MID>西狮海壬<END>
 <START>ashirenu<MID>西狮海壬<END>
 <START>xiaoduer<MID>小笃儿<END>
@@ -3054,6 +3114,7 @@
 <START>dorobanko<MID>泥驴仔<END>
 <START>zhongniwanma<MID>重泥挽马<END>
 <START>znwm<MID>重泥挽马<END>
+<START>nima<MID>重泥挽马<END>
 <START>mudsdale<MID>重泥挽马<END>
 <START>banbadoro<MID>重泥挽马<END>
 <START>dizhu<MID>滴蛛<END>
@@ -3094,6 +3155,7 @@
 <START>nuikoguma<MID>童偶熊<END>
 <START>chuanzhuoxiong<MID>穿着熊<END>
 <START>czx<MID>穿着熊<END>
+<START>xiongshen<MID>穿着熊<END>
 <START>chuanzhexiong<MID>穿着熊<END>
 <START>bewear<MID>穿着熊<END>
 <START>kiteruguma<MID>穿着熊<END>
@@ -3146,6 +3208,7 @@
 <START>typenull<MID>属性：空<END>
 <START>yinbanzhanshou<MID>银伴战兽<END>
 <START>ybzs<MID>银伴战兽<END>
+<START>xiaoyangtuo<MID>银伴战兽<END>
 <START>silvally<MID>银伴战兽<END>
 <START>shiruvadi<MID>银伴战兽<END>
 <START>xiaoyunxing<MID>小陨星<END>
@@ -3164,8 +3227,9 @@
 <START>tgdme<MID>托戈德玛尔<END>
 <START>togedemaru<MID>托戈德玛尔<END>
 <START>miniqiu<MID>谜拟丘<END>
-<START>miniq<MID>谜拟丘<END>
 <START>mnq<MID>谜拟丘<END>
+<START>miniq<MID>谜拟丘<END>
+<START>koukou<MID>谜拟丘<END>
 <START>mimikyu<MID>谜拟丘<END>
 <START>mimikkyu<MID>谜拟丘<END>
 <START>moyacaipiyu<MID>磨牙彩皮鱼<END>
@@ -3190,6 +3254,7 @@
 <START>jarango<MID>鳞甲龙<END>
 <START>zhangweilinjialong<MID>杖尾鳞甲龙<END>
 <START>zwljl<MID>杖尾鳞甲龙<END>
+<START>doulong<MID>杖尾鳞甲龙<END>
 <START>kommo<MID>杖尾鳞甲龙<END>
 <START>jararanga<MID>杖尾鳞甲龙<END>
 <START>kapumingming<MID>卡璞•鸣鸣<END>
@@ -3225,11 +3290,13 @@
 <START>suoerjialeiou<MID>索尔迦雷欧<END>
 <START>sejlo<MID>索尔迦雷欧<END>
 <START>taiyang<MID>索尔迦雷欧<END>
+<START>rishen<MID>索尔迦雷欧<END>
 <START>rishi<MID>索尔迦雷欧<END>
 <START>solgaleo<MID>索尔迦雷欧<END>
 <START>lunaiyala<MID>露奈雅拉<END>
 <START>lnyl<MID>露奈雅拉<END>
 <START>yueliang<MID>露奈雅拉<END>
+<START>yueshen<MID>露奈雅拉<END>
 <START>yuefu<MID>露奈雅拉<END>
 <START>lunala<MID>露奈雅拉<END>
 <START>xuwuyide<MID>虚吾伊德<END>
@@ -3250,6 +3317,7 @@
 <START>denjumoku<MID>电束木<END>
 <START>tiehuohuiye<MID>铁火辉夜<END>
 <START>thhy<MID>铁火辉夜<END>
+<START>huiye<MID>铁火辉夜<END>
 <START>celesteela<MID>铁火辉夜<END>
 <START>tekkaguya<MID>铁火辉夜<END>
 <START>zhiyujian<MID>纸御剑<END>
@@ -3471,7 +3539,10 @@
 <START>zhm<MID>诈唬魔<END>
 <START>morgrem<MID>诈唬魔<END>
 <START>changmaojumo<MID>长毛巨魔<END>
+<START>changmaojvmo<MID>长毛巨魔<END>
 <START>cmjm<MID>长毛巨魔<END>
+<START>jumo<MID>长毛巨魔<END>
+<START>jvmo<MID>长毛巨魔<END>
 <START>grimmsnarl<MID>长毛巨魔<END>
 <START>oronge<MID>长毛巨魔<END>
 <START>dulanxiong<MID>堵拦熊<END>
