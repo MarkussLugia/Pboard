@@ -1619,6 +1619,8 @@
 <START>ljlk<MID>雷吉洛克<END>
 <START>shishenzhu<MID>雷吉洛克<END>
 <START>shimatong<MID>雷吉洛克<END>
+<START>yanshenzhu<MID>雷吉洛克<END>
+<START>yanmatong<MID>雷吉洛克<END>
 <START>regirock<MID>雷吉洛克<END>
 <START>leijiaisi<MID>雷吉艾斯<END>
 <START>ljas<MID>雷吉艾斯<END>
@@ -2136,6 +2138,7 @@
 <START>heatran<MID>席多蓝恩<END>
 <START>leijiqikasi<MID>雷吉奇卡斯<END>
 <START>ljqks<MID>雷吉奇卡斯<END>
+<START>shenzhuwang<MID>雷吉奇卡斯<END>
 <START>matongwang<MID>雷吉奇卡斯<END>
 <START>regigigas<MID>雷吉奇卡斯<END>
 <START>qiladina<MID>骑拉帝纳<END>
@@ -3846,9 +3849,13 @@
 <START>zarude<MID>萨戮德<END>
 <START>leijiaileqi<MID>雷吉艾勒奇<END>
 <START>ljalq<MID>雷吉艾勒奇<END>
+<START>dianshenzhu<MID>雷吉艾勒奇<END>
+<START>dianmatong<MID>雷吉艾勒奇<END>
 <START>regieleki<MID>雷吉艾勒奇<END>
 <START>rejiereki<MID>雷吉艾勒奇<END>
 <START>leijiduolage<MID>雷吉铎拉戈<END>
 <START>ljdlg<MID>雷吉铎拉戈<END>
+<START>longshenzhu<MID>雷吉铎拉戈<END>
+<START>longmatong<MID>雷吉铎拉戈<END>
 <START>regidrago<MID>雷吉铎拉戈<END>
 <START>rejidorago<MID>雷吉铎拉戈<END>
