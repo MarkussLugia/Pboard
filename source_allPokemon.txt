@@ -575,6 +575,9 @@
 <START>booster<MID>火伊布<END>
 <START>duobianshou<MID>多边兽<END>
 <START>dbs<MID>多边兽<END>
+<START>sandlong<MID>多边兽<END>
+<START>sdl<MID>多边兽<END>
+<START>edl<MID>多边兽<END>
 <START>porygon<MID>多边兽<END>
 <START>jushishou<MID>菊石兽<END>
 <START>jvshishou<MID>菊石兽<END>
@@ -989,7 +992,17 @@
 <START>duobianshouerxing<MID>多边兽2型<END>
 <START>dbse<MID>多边兽2型<END>
 <START>dbsex<MID>多边兽2型<END>
-<START>porygon<MID>多边兽2型<END>
+<START>dbswx<MID>多边兽2型<END>
+<START>duobianshouii<MID>多边兽2型<END>
+<START>duobianshouw<MID>多边兽2型<END>
+<START>sandlonger<MID>多边兽2型<END>
+<START>sandlongii<MID>多边兽2型<END>
+<START>sdle<MID>多边兽2型<END>
+<START>sdlw<MID>多边兽2型<END>
+<START>edle<MID>多边兽2型<END>
+<START>edlw<MID>多边兽2型<END>
+<START>porygonii<MID>多边兽2型<END>
+<START>porygontwo<MID>多边兽2型<END>
 <START>jingjiaolu<MID>惊角鹿<END>
 <START>jjl<MID>惊角鹿<END>
 <START>stantler<MID>惊角鹿<END>
@@ -1766,6 +1779,7 @@
 <START>bastiodon<MID>护城龙<END>
 <START>torideps<MID>护城龙<END>
 <START>jiecaoer<MID>结草儿<END>
+<START>jce<MID>结草儿<END>
 <START>jcer<MID>结草儿<END>
 <START>burmy<MID>结草儿<END>
 <START>minomutchi<MID>结草儿<END>
@@ -1804,6 +1818,7 @@
 <START>cherubi<MID>樱花宝<END>
 <START>cherinbo<MID>樱花宝<END>
 <START>yinghuaer<MID>樱花儿<END>
+<START>yhe<MID>樱花儿<END>
 <START>yher<MID>樱花儿<END>
 <START>cherrim<MID>樱花儿<END>
 <START>wukehaitu<MID>无壳海兔<END>
@@ -1834,6 +1849,7 @@
 <START>juanjvaner<MID>卷卷耳<END>
 <START>jvanjuaner<MID>卷卷耳<END>
 <START>jvanjvaner<MID>卷卷耳<END>
+<START>jje<MID>卷卷耳<END>
 <START>jjer<MID>卷卷耳<END>
 <START>buneary<MID>卷卷耳<END>
 <START>mimirol<MID>卷卷耳<END>
@@ -2054,7 +2070,9 @@
 <START>dbsyx<MID>多边兽乙型<END>
 <START>duobianshouz<MID>多边兽乙型<END>
 <START>dbsz<MID>多边兽乙型<END>
-<START>sand<MID>多边兽乙型<END>
+<START>sandlongz<MID>多边兽乙型<END>
+<START>sdlz<MID>多边兽乙型<END>
+<START>edlz<MID>多边兽乙型<END>
 <START>porygonz<MID>多边兽乙型<END>
 <START>ailuleiduo<MID>艾路雷朵<END>
 <START>alld<MID>艾路雷朵<END>
@@ -2589,6 +2607,7 @@
 <START>nutrey<MID>坚果哑铃<END>
 <START>chiluner<MID>齿轮儿<END>
 <START>cle<MID>齿轮儿<END>
+<START>cler<MID>齿轮儿<END>
 <START>klink<MID>齿轮儿<END>
 <START>giaru<MID>齿轮儿<END>
 <START>chilunzhu<MID>齿轮组<END>
@@ -2675,7 +2694,7 @@
 <START>stunfisk<MID>泥巴鱼<END>
 <START>maggyo<MID>泥巴鱼<END>
 <START>gongfuyou<MID>功夫鼬<END>
-<START>gfyb<MID>功夫鼬<END>
+<START>gfy<MID>功夫鼬<END>
 <START>mienfoo<MID>功夫鼬<END>
 <START>shifuyou<MID>师傅鼬<END>
 <START>sfy<MID>师傅鼬<END>
@@ -3041,6 +3060,7 @@
 <START>numera<MID>黏黏宝<END>
 <START>nianmeier<MID>黏美儿<END>
 <START>nme<MID>黏美儿<END>
+<START>nmer<MID>黏美儿<END>
 <START>sliggoo<MID>黏美儿<END>
 <START>numeiru<MID>黏美儿<END>
 <START>nianmeilong<MID>黏美龙<END>
@@ -3056,6 +3076,7 @@
 <START>yvequaner<MID>钥圈儿<END>
 <START>yveqvaner<MID>钥圈儿<END>
 <START>yqe<MID>钥圈儿<END>
+<START>yqer<MID>钥圈儿<END>
 <START>klefki<MID>钥圈儿<END>
 <START>cleffy<MID>钥圈儿<END>
 <START>xiaomuling<MID>小木灵<END>
@@ -3157,6 +3178,7 @@
 <START>ashirenu<MID>西狮海壬<END>
 <START>xiaoduer<MID>小笃儿<END>
 <START>xde<MID>小笃儿<END>
+<START>xder<MID>小笃儿<END>
 <START>pikipek<MID>小笃儿<END>
 <START>tsutsukera<MID>小笃儿<END>
 <START>labazhuoniao<MID>喇叭啄鸟<END>
@@ -3513,6 +3535,7 @@
 <START>goriranda<MID>轰擂金刚猩<END>
 <START>yantuer<MID>炎兔儿<END>
 <START>yte<MID>炎兔儿<END>
+<START>yter<MID>炎兔儿<END>
 <START>scorbunny<MID>炎兔儿<END>
 <START>hibani<MID>炎兔儿<END>
 <START>tengcuxiaojiang<MID>腾蹴小将<END>
@@ -3821,3 +3844,11 @@
 <START>salude<MID>萨戮德<END>
 <START>sld<MID>萨戮德<END>
 <START>zarude<MID>萨戮德<END>
+<START>leijiaileqi<MID>雷吉艾勒奇<END>
+<START>ljalq<MID>雷吉艾勒奇<END>
+<START>regieleki<MID>雷吉艾勒奇<END>
+<START>rejiereki<MID>雷吉艾勒奇<END>
+<START>leijiduolage<MID>雷吉铎拉戈<END>
+<START>ljdlg<MID>雷吉铎拉戈<END>
+<START>regidrago<MID>雷吉铎拉戈<END>
+<START>rejidorago<MID>雷吉铎拉戈<END>
