@@ -91,10 +91,12 @@
 <START>fearow<MID>大嘴雀<END>
 <START>onidoriru<MID>大嘴雀<END>
 <START>aboshe<MID>阿柏蛇<END>
+<START>abaishe<MID>阿柏蛇<END>
 <START>abs<MID>阿柏蛇<END>
 <START>ekans<MID>阿柏蛇<END>
 <START>abo<MID>阿柏蛇<END>
 <START>aboguai<MID>阿柏怪<END>
+<START>abaiguai<MID>阿柏怪<END>
 <START>abg<MID>阿柏怪<END>
 <START>arbok<MID>阿柏怪<END>
 <START>abokku<MID>阿柏怪<END>
@@ -1330,6 +1332,7 @@
 <START>asanan<MID>玛沙那<END>
 <START>qialeimu<MID>恰雷姆<END>
 <START>qlm<MID>恰雷姆<END>
+<START>asan<MID>超级恰雷姆<END>
 <START>medicham<MID>恰雷姆<END>
 <START>charem<MID>恰雷姆<END>
 <START>luoleishou<MID>落雷兽<END>
@@ -2811,10 +2814,13 @@
 <START>tudiyun<MID>土地云<END>
 <START>tudiyvn<MID>土地云<END>
 <START>tdy<MID>土地云<END>
+<START>tumao<MID>土地云<END>
 <START>landorus<MID>土地云<END>
 <START>landios<MID>土地云<END>
 <START>qiuleimu<MID>酋雷姆<END>
 <START>qlm<MID>酋雷姆<END>
+<START>heibing<MID>闇黑酋雷姆<END>
+<START>baibing<MID>焰白酋雷姆<END>
 <START>kyurem<MID>酋雷姆<END>
 <START>kailudiou<MID>凯路迪欧<END>
 <START>kldo<MID>凯路迪欧<END>
