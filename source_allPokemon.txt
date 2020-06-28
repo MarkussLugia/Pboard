@@ -1912,8 +1912,8 @@
 <START>xfd<MID>小福蛋<END>
 <START>happiny<MID>小福蛋<END>
 <START>pinpuku<MID>小福蛋<END>
-<START>kuozaoniao<MID>聒噪鸟<END>
-<START>kzn<MID>聒噪鸟<END>
+<START>guozaoniao<MID>聒噪鸟<END>
+<START>gzn<MID>聒噪鸟<END>
 <START>yinfuyingwu<MID>聒噪鸟<END>
 <START>chatot<MID>聒噪鸟<END>
 <START>perap<MID>聒噪鸟<END>
