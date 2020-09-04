@@ -2358,10 +2358,10 @@
 <START>ccw<MID>蟾蜍王<END>
 <START>seismitoad<MID>蟾蜍王<END>
 <START>gamageroge<MID>蟾蜍王<END>
-<START>touzhigui<MID>投掷鬼<END>
-<START>tzg<MID>投掷鬼<END>
-<START>throh<MID>投掷鬼<END>
-<START>nageki<MID>投掷鬼<END>
+<START>toushuaigui<MID>投摔鬼<END>
+<START>tsg<MID>投摔鬼<END>
+<START>throh<MID>投摔鬼<END>
+<START>nageki<MID>投摔鬼<END>
 <START>dajigui<MID>打击鬼<END>
 <START>djg<MID>打击鬼<END>
 <START>sawk<MID>打击鬼<END>
