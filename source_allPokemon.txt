@@ -3852,6 +3852,15 @@
 <START>wdxs<MID>武道熊师<END>
 <START>urshifu<MID>武道熊师<END>
 <START>uraosu<MID>武道熊师<END>
+<START>xuebaoma<MID>雪暴马<END>
+<START>xvebaoma<MID>雪暴马<END>
+<START>xbm<MID>雪暴马<END>
+<START>glastrier<MID>雪暴马<END>
+<START>burizaposu<MID>雪暴马<END>
+<START>lingyouma<MID>灵幽马<END>
+<START>lym<MID>灵幽马<END>
+<START>spectrier<MID>灵幽马<END>
+<START>reisuposu<MID>灵幽马<END>
 <START>leiguanwang<MID>蕾冠王<END>
 <START>lgw<MID>蕾冠王<END>
 <START>calyrex<MID>蕾冠王<END>
