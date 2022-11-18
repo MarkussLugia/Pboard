@@ -578,8 +578,6 @@ booster<MID>火伊布
 duobianshou<MID>多边兽
 dbs<MID>多边兽
 sandlong<MID>多边兽
-sdl<MID>多边兽
-edl<MID>多边兽
 porygon<MID>多边兽
 jushishou<MID>菊石兽
 jvshishou<MID>菊石兽
@@ -603,7 +601,6 @@ aerodactyl<MID>化石翼龙
 ptera<MID>化石翼龙
 kabishou<MID>卡比兽
 kbs<MID>卡比兽
-kabi<MID>卡比兽
 snorlax<MID>卡比兽
 kabigon<MID>卡比兽
 jidongniao<MID>急冻鸟
@@ -671,7 +668,6 @@ xje<MID>小锯鳄
 totodile<MID>小锯鳄
 waninoko<MID>小锯鳄
 lane<MID>蓝鳄
-le<MID>蓝鳄
 croconaw<MID>蓝鳄
 alligates<MID>蓝鳄
 dalie<MID>大力鳄
@@ -1639,13 +1635,11 @@ ladiyasi<MID>拉帝亚斯
 ldys<MID>拉帝亚斯
 hongshuidu<MID>拉帝亚斯
 hongfeiji<MID>拉帝亚斯
-meimei<MID>拉帝亚斯
 latias<MID>拉帝亚斯
 ladiousi<MID>拉帝欧斯
 ldos<MID>拉帝欧斯
 lanshuidu<MID>拉帝欧斯
 lanfeiji<MID>拉帝欧斯
-gege<MID>拉帝欧斯
 latios<MID>拉帝欧斯
 gaiouka<MID>盖欧卡
 gok<MID>盖欧卡
