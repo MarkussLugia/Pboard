@@ -14,16 +14,16 @@
 * QQ输入法
 
 我要如何使用呢？
-===
+---
 [Wiki页面](https://github.com/MarkussLugia/Pboard/wiki)有详细的步骤指南。   
 **还有疑问？有个讨论用的QQ群：[830318808](https://jq.qq.com/?_wv=1027&k=yJ8r3TwW)**  
 
 <br>   
 
 致谢
-===
-协助完成词库
 ---
+### 协助完成词库   
+
 **Nfortoln**   
 完成第一/三世代的宝可梦词库。 
 
@@ -45,8 +45,8 @@
 **[Snowz666](https://github.com/Snowz666)**  
 新增角色、地点与物品的词库。   
 
-其他
----
+### 其他   
+
 **[神奇宝贝百科](https://wiki.52poke.com)的贡献者们**  
 提供宝可梦相关名词的汇总数据。
 
