@@ -1,0 +1,3235 @@
+[
+    {
+        "phrase": "速速肥",
+        "input": [
+            "susufei",
+            "ssf"
+        ]
+    },
+    {
+        "phrase": "湿湿肥",
+        "input": [
+            "shishifei",
+            "ssf"
+        ]
+    },
+    {
+        "phrase": "久久肥",
+        "input": [
+            "jiujiufei",
+            "jjf"
+        ]
+    },
+    {
+        "phrase": "粘粘肥",
+        "input": [
+            "zhanzhanfei",
+            "zzf"
+        ]
+    },
+    {
+        "phrase": "硕果肥",
+        "input": [
+            "shuoguofei",
+            "sgf"
+        ]
+    },
+    {
+        "phrase": "吃惊肥",
+        "input": [
+            "chijingfei",
+            "cjf"
+        ]
+    },
+    {
+        "phrase": "劲劲肥",
+        "input": [
+            "jinjinfei",
+            "jjf"
+        ]
+    },
+    {
+        "phrase": "超效肥",
+        "input": [
+            "chaoxiaofei",
+            "cxf"
+        ]
+    },
+    {
+        "phrase": "树叶信",
+        "input": [
+            "shuyexin",
+            "syx"
+        ]
+    },
+    {
+        "phrase": "小小花束",
+        "input": [
+            "xiaoxiaohuashu",
+            "xxhs"
+        ]
+    },
+    {
+        "phrase": "引虫香水",
+        "input": [
+            "yinchongxiangshui",
+            "ycxs"
+        ]
+    },
+    {
+        "phrase": "许愿星碎片",
+        "input": [
+            "xuyuanxingsuipian",
+            "xvyuanxingsuipian",
+            "xyxsp"
+        ]
+    },
+    {
+        "phrase": "许愿星块",
+        "input": [
+            "xuyuanxingkuai",
+            "xvyuanxingkuai",
+            "xyxk"
+        ]
+    },
+    {
+        "phrase": "极巨结晶",
+        "input": [
+            "jijujiejing",
+            "jijvjiejing",
+            "jjjj"
+        ]
+    },
+    {
+        "phrase": "匿声喷雾",
+        "input": [
+            "nishengpenwu",
+            "nspw"
+        ]
+    },
+    {
+        "phrase": "晶晶蜜",
+        "input": [
+            "jingjingmi",
+            "jjm"
+        ]
+    },
+    {
+        "phrase": "旺旺谷",
+        "input": [
+            "wangwanggu",
+            "wwg"
+        ]
+    },
+    {
+        "phrase": "滚滚豆",
+        "input": [
+            "gungundou",
+            "ggd"
+        ]
+    },
+    {
+        "phrase": "糯糯菇",
+        "input": [
+            "nuonuogu",
+            "nng"
+        ]
+    },
+    {
+        "phrase": "坚坚矿",
+        "input": [
+            "jianjiankuang",
+            "jjk"
+        ]
+    },
+    {
+        "phrase": "蛀球果",
+        "input": [
+            "zhuqiuguo",
+            "zqg"
+        ]
+    },
+    {
+        "phrase": "雪丸",
+        "input": [
+            "xuewan",
+            "xw"
+        ]
+    },
+    {
+        "phrase": "黏丸",
+        "input": [
+            "nianwan",
+            "nw"
+        ]
+    },
+    {
+        "phrase": "声弹",
+        "input": [
+            "shengdan",
+            "sd"
+        ]
+    },
+    {
+        "phrase": "烟弹",
+        "input": [
+            "yandan",
+            "yd"
+        ]
+    },
+    {
+        "phrase": "蜜诱团",
+        "input": [
+            "miyoutuan",
+            "myt"
+        ]
+    },
+    {
+        "phrase": "谷诱团",
+        "input": [
+            "guyoutuan",
+            "gyt"
+        ]
+    },
+    {
+        "phrase": "豆诱团",
+        "input": [
+            "douyoutuan",
+            "dyt"
+        ]
+    },
+    {
+        "phrase": "菇诱团",
+        "input": [
+            "guyoutuan",
+            "gyt"
+        ]
+    },
+    {
+        "phrase": "矿诱团",
+        "input": [
+            "kuangyoutuan",
+            "kyt"
+        ]
+    },
+    {
+        "phrase": "特性胶囊",
+        "input": [
+            "texingjiaonang",
+            "txjn"
+        ]
+    },
+    {
+        "phrase": "特性膏药",
+        "input": [
+            "texinggaoyao",
+            "txgy"
+        ]
+    },
+    {
+        "phrase": "甜甜苹果",
+        "input": [
+            "tiantianpingguo",
+            "ttpg"
+        ]
+    },
+    {
+        "phrase": "酸酸苹果",
+        "input": [
+            "suansuanpingguo",
+            "sspg"
+        ]
+    },
+    {
+        "phrase": "伽勒豆蔻手环",
+        "input": [
+            "galeidoukoushouhuan",
+            "gldksh"
+        ]
+    },
+    {
+        "phrase": "伽勒豆蔻花圈",
+        "input": [
+            "galeidoukouhuaquan",
+            "gldkhq"
+        ]
+    },
+    {
+        "phrase": "联系绳",
+        "input": [
+            "lianxisheng",
+            "lxs"
+        ]
+    },
+    {
+        "phrase": "黑奇石",
+        "input": [
+            "heiqishi",
+            "hqs"
+        ]
+    },
+    {
+        "phrase": "泥炭块",
+        "input": [
+            "nitankuai",
+            "ntk"
+        ]
+    },
+    {
+        "phrase": "庆祝之铠",
+        "input": [
+            "qingzhuzhikai",
+            "qzzk"
+        ]
+    },
+    {
+        "phrase": "咒术之铠",
+        "input": [
+            "zhoushuzhikai",
+            "zszk"
+        ]
+    },
+    {
+        "phrase": "浅滩海盐",
+        "input": [
+            "qiantanhaiyan",
+            "qthy"
+        ]
+    },
+    {
+        "phrase": "浅滩贝壳",
+        "input": [
+            "qiantanbeike",
+            "qtbk"
+        ]
+    },
+    {
+        "phrase": "心之鳞片",
+        "input": [
+            "xinzhilinpian",
+            "xzlp"
+        ]
+    },
+    {
+        "phrase": "释出之玉",
+        "input": [
+            "shichuzhiyu",
+            "sczy"
+        ]
+    },
+    {
+        "phrase": "圆庆票",
+        "input": [
+            "yuanqingpiao",
+            "yqp"
+        ]
+    },
+    {
+        "phrase": "伽勒豆蔻枝",
+        "input": [
+            "galeidoukouzhi",
+            "gldkz"
+        ]
+    },
+    {
+        "phrase": "铠甲矿石",
+        "input": [
+            "kaijiakuangshi",
+            "kjks"
+        ]
+    },
+    {
+        "phrase": "极矿石",
+        "input": [
+            "jikuangshi",
+            "jks"
+        ]
+    },
+    {
+        "phrase": "谜之碎片",
+        "input": [
+            "mizhisuipian",
+            "mzsp"
+        ]
+    },
+    {
+        "phrase": "精通种子",
+        "input": [
+            "jingtongzhongzi",
+            "jtzz"
+        ]
+    },
+    {
+        "phrase": "太晶碎块",
+        "input": [
+            "taijingsuikuai",
+            "tjsk"
+        ]
+    },
+    {
+        "phrase": "光粉",
+        "input": [
+            "guangfen",
+            "gf"
+        ]
+    },
+    {
+        "phrase": "先制之爪",
+        "input": [
+            "xianzhizhizhao",
+            "xzzz"
+        ]
+    },
+    {
+        "phrase": "王者之证",
+        "input": [
+            "wangzhezhizheng",
+            "wzzz"
+        ]
+    },
+    {
+        "phrase": "护符金币",
+        "input": [
+            "hufujinbi",
+            "hfjb"
+        ]
+    },
+    {
+        "phrase": "洁净之符",
+        "input": [
+            "jiejingzhifu",
+            "jjzf"
+        ]
+    },
+    {
+        "phrase": "烟雾球",
+        "input": [
+            "yanwuqiu",
+            "ywq"
+        ]
+    },
+    {
+        "phrase": "不变之石",
+        "input": [
+            "bubianzhishi",
+            "bbzs"
+        ]
+    },
+    {
+        "phrase": "气势头带",
+        "input": [
+            "qishitoudai",
+            "qstd"
+        ]
+    },
+    {
+        "phrase": "幸运蛋",
+        "input": [
+            "xingyundan",
+            "xyd"
+        ]
+    },
+    {
+        "phrase": "焦点镜",
+        "input": [
+            "jiaodianjing",
+            "jdj"
+        ]
+    },
+    {
+        "phrase": "金属膜",
+        "input": [
+            "jinshumo",
+            "jsm"
+        ]
+    },
+    {
+        "phrase": "龙之鳞片",
+        "input": [
+            "longzhilinpian",
+            "lzlp"
+        ]
+    },
+    {
+        "phrase": "电气球",
+        "input": [
+            "dianqiqiu",
+            "dqq"
+        ]
+    },
+    {
+        "phrase": "黑色眼镜",
+        "input": [
+            "heiseyanjing",
+            "hsyj"
+        ]
+    },
+    {
+        "phrase": "神秘水滴",
+        "input": [
+            "shenmishuidi",
+            "smsd"
+        ]
+    },
+    {
+        "phrase": "锐利鸟嘴",
+        "input": [
+            "ruiliniaozui",
+            "rlnz"
+        ]
+    },
+    {
+        "phrase": "不融冰",
+        "input": [
+            "burongbing",
+            "brb"
+        ]
+    },
+    {
+        "phrase": "诅咒之符",
+        "input": [
+            "zuzhouzhifu",
+            "zzzf"
+        ]
+    },
+    {
+        "phrase": "弯曲的汤匙",
+        "input": [
+            "wanqudetangchi",
+            "wqdtc"
+        ]
+    },
+    {
+        "phrase": "龙之牙",
+        "input": [
+            "longzhiya",
+            "lzy"
+        ]
+    },
+    {
+        "phrase": "水玉色之带",
+        "input": [
+            "shuiyusezhidai",
+            "syszd"
+        ]
+    },
+    {
+        "phrase": "破坏基因",
+        "input": [
+            "pohuaijiyin",
+            "phjy"
+        ]
+    },
+    {
+        "phrase": "吉利拳",
+        "input": [
+            "jiliquan",
+            "jlq"
+        ]
+    },
+    {
+        "phrase": "速度粉",
+        "input": [
+            "sudufen",
+            "sdf"
+        ]
+    },
+    {
+        "phrase": "心灵香草",
+        "input": [
+            "xinlingxiangcao",
+            "xlxc"
+        ]
+    },
+    {
+        "phrase": "强力香草",
+        "input": [
+            "qianglixiangcao",
+            "qlxc"
+        ]
+    },
+    {
+        "phrase": "强制锻炼器",
+        "input": [
+            "qiangzhiduanlianqi",
+            "qzdlq"
+        ]
+    },
+    {
+        "phrase": "安抚之铃",
+        "input": [
+            "anfuzhiling",
+            "afzl"
+        ]
+    },
+    {
+        "phrase": "讲究头带",
+        "input": [
+            "jiangjiutoudai",
+            "jjtd"
+        ]
+    },
+    {
+        "phrase": "讲究眼镜",
+        "input": [
+            "jiangjiuyanjing",
+            "jjyj"
+        ]
+    },
+    {
+        "phrase": "讲究围巾",
+        "input": [
+            "jiangjiuweijin",
+            "jjwj"
+        ]
+    },
+    {
+        "phrase": "心之水滴",
+        "input": [
+            "xinzhishuidi",
+            "xzsd"
+        ]
+    },
+    {
+        "phrase": "深海之牙",
+        "input": [
+            "shenhaizhiya",
+            "shzy"
+        ]
+    },
+    {
+        "phrase": "深海鳞片",
+        "input": [
+            "shenhailinpian",
+            "shlp"
+        ]
+    },
+    {
+        "phrase": "贝壳之铃",
+        "input": [
+            "beikezhiling",
+            "bkzl"
+        ]
+    },
+    {
+        "phrase": "恶颜石板",
+        "input": [
+            "eyanshiban",
+            "eysb"
+        ]
+    },
+    {
+        "phrase": "浑圆之石",
+        "input": [
+            "hunyuanzhishi",
+            "hyzs"
+        ]
+    },
+    {
+        "phrase": "电力增幅器",
+        "input": [
+            "dianlizengfuqi",
+            "dlzfq"
+        ]
+    },
+    {
+        "phrase": "熔岩增幅器",
+        "input": [
+            "rongyanzengfuqi",
+            "ryzfq"
+        ]
+    },
+    {
+        "phrase": "可疑补丁",
+        "input": [
+            "keyibuding",
+            "kybd"
+        ]
+    },
+    {
+        "phrase": "灵界之布",
+        "input": [
+            "lingjiezhibu",
+            "ljzb"
+        ]
+    },
+    {
+        "phrase": "锐利之爪",
+        "input": [
+            "ruilizhizhao",
+            "rlzz"
+        ]
+    },
+    {
+        "phrase": "锐利之牙",
+        "input": [
+            "ruilizhiya",
+            "rlzy"
+        ]
+    },
+    {
+        "phrase": "广角镜",
+        "input": [
+            "guangjiaojing",
+            "gjj"
+        ]
+    },
+    {
+        "phrase": "力量头带",
+        "input": [
+            "liliangtoudai",
+            "lltd"
+        ]
+    },
+    {
+        "phrase": "博识眼镜",
+        "input": [
+            "boshiyanjing",
+            "bsyj"
+        ]
+    },
+    {
+        "phrase": "达人带",
+        "input": [
+            "darendai",
+            "drd"
+        ]
+    },
+    {
+        "phrase": "光之黏土",
+        "input": [
+            "guangzhiniantu",
+            "gznt"
+        ]
+    },
+    {
+        "phrase": "气势披带",
+        "input": [
+            "qishipidai",
+            "qspd"
+        ]
+    },
+    {
+        "phrase": "对焦镜",
+        "input": [
+            "duijiaojing",
+            "djj"
+        ]
+    },
+    {
+        "phrase": "节拍器",
+        "input": [
+            "jiepaiqi",
+            "jpq"
+        ]
+    },
+    {
+        "phrase": "黑色铁球",
+        "input": [
+            "heisetieqiu",
+            "hstq"
+        ]
+    },
+    {
+        "phrase": "后攻之尾",
+        "input": [
+            "hougongzhiwei",
+            "hgzw"
+        ]
+    },
+    {
+        "phrase": "黑色污泥",
+        "input": [
+            "heisewuni",
+            "hswn"
+        ]
+    },
+    {
+        "phrase": "紧缠钩爪",
+        "input": [
+            "jinchangouzhao",
+            "jcgz"
+        ]
+    },
+    {
+        "phrase": "附着针",
+        "input": [
+            "fuzhuozhen",
+            "fzz"
+        ]
+    },
+    {
+        "phrase": "力量护腕",
+        "input": [
+            "lilianghuwan",
+            "llhw"
+        ]
+    },
+    {
+        "phrase": "力量腰带",
+        "input": [
+            "liliangyaodai",
+            "llyd"
+        ]
+    },
+    {
+        "phrase": "力量镜",
+        "input": [
+            "liliangjing",
+            "llj"
+        ]
+    },
+    {
+        "phrase": "力量束带",
+        "input": [
+            "liliangshudai",
+            "llsd"
+        ]
+    },
+    {
+        "phrase": "力量护踝",
+        "input": [
+            "lilianghuhuai",
+            "llhh"
+        ]
+    },
+    {
+        "phrase": "力量负重",
+        "input": [
+            "liliangfuzhong",
+            "llfz"
+        ]
+    },
+    {
+        "phrase": "美丽空壳",
+        "input": [
+            "meilikongke",
+            "mlkk"
+        ]
+    },
+    {
+        "phrase": "大根茎",
+        "input": [
+            "dagenjing",
+            "dgj"
+        ]
+    },
+    {
+        "phrase": "美丽鳞片",
+        "input": [
+            "meililinpian",
+            "mllp"
+        ]
+    },
+    {
+        "phrase": "进化奇石",
+        "input": [
+            "jinhuaqishi",
+            "jhqs"
+        ]
+    },
+    {
+        "phrase": "轻石",
+        "input": [
+            "qingshi",
+            "qs"
+        ]
+    },
+    {
+        "phrase": "凸凸头盔",
+        "input": [
+            "tututoukui",
+            "tttk"
+        ]
+    },
+    {
+        "phrase": "紧绑束带",
+        "input": [
+            "jinbangshudai",
+            "jbsd"
+        ]
+    },
+    {
+        "phrase": "球根",
+        "input": [
+            "qiugen",
+            "qg"
+        ]
+    },
+    {
+        "phrase": "充电电池",
+        "input": [
+            "chongdiandianchi",
+            "cddc"
+        ]
+    },
+    {
+        "phrase": "逃脱按键",
+        "input": [
+            "taotuoanjian",
+            "ttaj"
+        ]
+    },
+    {
+        "phrase": "弱点保险",
+        "input": [
+            "ruodianbaoxian",
+            "rdbx"
+        ]
+    },
+    {
+        "phrase": "打空保险",
+        "input": [
+            "dakongbaoxian",
+            "dkbx"
+        ]
+    },
+    {
+        "phrase": "突击背心",
+        "input": [
+            "tujibeixin",
+            "tjbx"
+        ]
+    },
+    {
+        "phrase": "泡沫奶油",
+        "input": [
+            "paomonaiyou",
+            "pmny"
+        ]
+    },
+    {
+        "phrase": "光苔",
+        "input": [
+            "guangtai",
+            "gt"
+        ]
+    },
+    {
+        "phrase": "防尘护目镜",
+        "input": [
+            "fangchenhumujing",
+            "fchmj"
+        ]
+    },
+    {
+        "phrase": "胆怯球",
+        "input": [
+            "danqieqiu",
+            "dqq"
+        ]
+    },
+    {
+        "phrase": "大地膜",
+        "input": [
+            "dadimo",
+            "ddm"
+        ]
+    },
+    {
+        "phrase": "部位护具",
+        "input": [
+            "buweihuju",
+            "buweihujv",
+            "bwhj"
+        ]
+    },
+    {
+        "phrase": "电气种子",
+        "input": [
+            "dianqizhongzi",
+            "dqzz"
+        ]
+    },
+    {
+        "phrase": "精神种子",
+        "input": [
+            "jingshenzhongzi",
+            "jszz"
+        ]
+    },
+    {
+        "phrase": "薄雾种子",
+        "input": [
+            "bowuzhongzi",
+            "bwzz"
+        ]
+    },
+    {
+        "phrase": "爽喉喷雾",
+        "input": [
+            "shuanghoupenwu",
+            "shpw"
+        ]
+    },
+    {
+        "phrase": "万能伞",
+        "input": [
+            "wannengsan",
+            "wns"
+        ]
+    },
+    {
+        "phrase": "大金刚宝玉",
+        "input": [
+            "dajingangbaoyu",
+            "djgby"
+        ]
+    },
+    {
+        "phrase": "大白宝玉",
+        "input": [
+            "dabaibaoyu",
+            "dbby"
+        ]
+    },
+    {
+        "phrase": "大白金宝玉",
+        "input": [
+            "dabaijinbaoyu",
+            "dbjby"
+        ]
+    },
+    {
+        "phrase": "驱劲能量",
+        "input": [
+            "qujinnengliang",
+            "qjnl"
+        ]
+    },
+    {
+        "phrase": "特性护具",
+        "input": [
+            "texinghuju",
+            "texinghujv",
+            "txhj"
+        ]
+    },
+    {
+        "phrase": "清净坠饰",
+        "input": [
+            "qingjingzhuishi",
+            "qjzs"
+        ]
+    },
+    {
+        "phrase": "模仿香草",
+        "input": [
+            "mofangxiangcao",
+            "mfxc"
+        ]
+    },
+    {
+        "phrase": "拳击手套",
+        "input": [
+            "quanjishoutao",
+            "qjst"
+        ]
+    },
+    {
+        "phrase": "密探斗篷",
+        "input": [
+            "mitandoupeng",
+            "mtdp"
+        ]
+    },
+    {
+        "phrase": "机变骰子",
+        "input": [
+            "jibiantouzi",
+            "jbtz"
+        ]
+    },
+    {
+        "phrase": "头领凭证",
+        "input": [
+            "toulingpingzheng",
+            "tlpz"
+        ]
+    },
+    {
+        "phrase": "极巨糖果",
+        "input": [
+            "jijutangguo",
+            "jijvtangguo",
+            "jjtg"
+        ]
+    },
+    {
+        "phrase": "替身护符",
+        "input": [
+            "tishenhufu",
+            "tshf"
+        ]
+    },
+    {
+        "phrase": "球果果",
+        "input": [
+            "qiuguoguo",
+            "qgg"
+        ]
+    },
+    {
+        "phrase": "弹子萁",
+        "input": [
+            "danziqi",
+            "dzq"
+        ]
+    },
+    {
+        "phrase": "皇叶",
+        "input": [
+            "huangye",
+            "hy"
+        ]
+    },
+    {
+        "phrase": "除虫草",
+        "input": [
+            "chuchongcao",
+            "ccc"
+        ]
+    },
+    {
+        "phrase": "黑玉石",
+        "input": [
+            "heiyushi",
+            "hys"
+        ]
+    },
+    {
+        "phrase": "天蓝玉石",
+        "input": [
+            "tianlanyushi",
+            "tlys"
+        ]
+    },
+    {
+        "phrase": "惊声藻",
+        "input": [
+            "jingshengzao",
+            "jsz"
+        ]
+    },
+    {
+        "phrase": "烟芋",
+        "input": [
+            "yanyu",
+            "yy"
+        ]
+    },
+    {
+        "phrase": "疗草",
+        "input": [
+            "liaocao",
+            "lc"
+        ]
+    },
+    {
+        "phrase": "活力蕾",
+        "input": [
+            "huolilei",
+            "hll"
+        ]
+    },
+    {
+        "phrase": "剑舞菇",
+        "input": [
+            "jianwugu",
+            "jwg"
+        ]
+    },
+    {
+        "phrase": "铁壁木耳",
+        "input": [
+            "tiebimuer",
+            "tbme"
+        ]
+    },
+    {
+        "phrase": "影分菇",
+        "input": [
+            "yingfengu",
+            "yfg"
+        ]
+    },
+    {
+        "phrase": "要害松露",
+        "input": [
+            "yaohaisonglu",
+            "yhsl"
+        ]
+    },
+    {
+        "phrase": "沙滩萝卜",
+        "input": [
+            "shatanluobo",
+            "stlb"
+        ]
+    },
+    {
+        "phrase": "甜松露",
+        "input": [
+            "tiansonglu",
+            "tsl"
+        ]
+    },
+    {
+        "phrase": "诱团原料",
+        "input": [
+            "youtuanyuanliao",
+            "ytyl"
+        ]
+    },
+    {
+        "phrase": "精灵球",
+        "input": [
+            "jinglingqiu",
+            "jlq"
+        ]
+    },
+    {
+        "phrase": "超级球",
+        "input": [
+            "chaojiqiu",
+            "cjq"
+        ]
+    },
+    {
+        "phrase": "高级球",
+        "input": [
+            "gaojiqiu",
+            "gjq"
+        ]
+    },
+    {
+        "phrase": "狩猎球",
+        "input": [
+            "shoulieqiu",
+            "slq"
+        ]
+    },
+    {
+        "phrase": "大师球",
+        "input": [
+            "dashiqiu",
+            "dsq"
+        ]
+    },
+    {
+        "phrase": "速度球",
+        "input": [
+            "suduqiu",
+            "sdq"
+        ]
+    },
+    {
+        "phrase": "等级球",
+        "input": [
+            "dengjiqiu",
+            "djq"
+        ]
+    },
+    {
+        "phrase": "诱饵球",
+        "input": [
+            "youerqiu",
+            "yeq"
+        ]
+    },
+    {
+        "phrase": "甜蜜球",
+        "input": [
+            "tianmiqiu",
+            "tmq"
+        ]
+    },
+    {
+        "phrase": "友友球",
+        "input": [
+            "youyouqiu",
+            "yyq"
+        ]
+    },
+    {
+        "phrase": "月亮球",
+        "input": [
+            "yueliangqiu",
+            "ylq"
+        ]
+    },
+    {
+        "phrase": "沉重球",
+        "input": [
+            "chenzhongqiu",
+            "czq"
+        ]
+    },
+    {
+        "phrase": "超重球",
+        "input": [
+            "chaozhongqiu",
+            "czq"
+        ]
+    },
+    {
+        "phrase": "巨重球",
+        "input": [
+            "juzhongqiu",
+            "jvzhongqiu",
+            "jzq"
+        ]
+    },
+    {
+        "phrase": "竞赛球",
+        "input": [
+            "jingsaiqiu",
+            "jsq"
+        ]
+    },
+    {
+        "phrase": "公园球",
+        "input": [
+            "gongyuanqiu",
+            "gyq"
+        ]
+    },
+    {
+        "phrase": "捕网球",
+        "input": [
+            "buwangqiu",
+            "bwq"
+        ]
+    },
+    {
+        "phrase": "潜水球",
+        "input": [
+            "qianshuiqiu",
+            "qsq"
+        ]
+    },
+    {
+        "phrase": "巢穴球",
+        "input": [
+            "chaoxueqiu",
+            "cxq"
+        ]
+    },
+    {
+        "phrase": "重复球",
+        "input": [
+            "chongfuqiu",
+            "cfq"
+        ]
+    },
+    {
+        "phrase": "计时球",
+        "input": [
+            "jishiqiu",
+            "jsq"
+        ]
+    },
+    {
+        "phrase": "豪华球",
+        "input": [
+            "haohuaqiu",
+            "hhq"
+        ]
+    },
+    {
+        "phrase": "纪念球",
+        "input": [
+            "jinianqiu",
+            "jnq"
+        ]
+    },
+    {
+        "phrase": "黑暗球",
+        "input": [
+            "heianqiu",
+            "haq"
+        ]
+    },
+    {
+        "phrase": "治愈球",
+        "input": [
+            "zhiyuqiu",
+            "zyq"
+        ]
+    },
+    {
+        "phrase": "先机球",
+        "input": [
+            "xianjiqiu",
+            "xjq"
+        ]
+    },
+    {
+        "phrase": "贵重球",
+        "input": [
+            "guizhongqiu",
+            "gzq"
+        ]
+    },
+    {
+        "phrase": "梦境球",
+        "input": [
+            "mengjingqiu",
+            "mjq"
+        ]
+    },
+    {
+        "phrase": "究极球",
+        "input": [
+            "jiujiqiu",
+            "jjq"
+        ]
+    },
+    {
+        "phrase": "飞羽球",
+        "input": [
+            "feiyuqiu",
+            "fyq"
+        ]
+    },
+    {
+        "phrase": "飞翼球",
+        "input": [
+            "feiyiqiu",
+            "fyq"
+        ]
+    },
+    {
+        "phrase": "飞梭球",
+        "input": [
+            "feisuoqiu",
+            "fsq"
+        ]
+    },
+    {
+        "phrase": "奇异球",
+        "input": [
+            "qiyiqiu",
+            "qyq"
+        ]
+    },
+    {
+        "phrase": "挖洞钻",
+        "input": [
+            "wadongzuan",
+            "wdz"
+        ]
+    },
+    {
+        "phrase": "芳香蘑菇",
+        "input": [
+            "fangxiangmogu",
+            "fxmg"
+        ]
+    },
+    {
+        "phrase": "丸子珍珠",
+        "input": [
+            "wanzizhenzhu",
+            "wzzz"
+        ]
+    },
+    {
+        "phrase": "星星沙子",
+        "input": [
+            "xingxingshazi",
+            "xxsz"
+        ]
+    },
+    {
+        "phrase": "星星碎片",
+        "input": [
+            "xingxingsuipian",
+            "xxsp"
+        ]
+    },
+    {
+        "phrase": "彗星碎片",
+        "input": [
+            "huixingsuipian",
+            "hxsp"
+        ]
+    },
+    {
+        "phrase": "巨大金珠",
+        "input": [
+            "judajinzhu",
+            "jvdajinzhu",
+            "jdjz"
+        ]
+    },
+    {
+        "phrase": "砖瓦碎片",
+        "input": [
+            "zhuanwasuipian",
+            "zwsp"
+        ]
+    },
+    {
+        "phrase": "贵重骨头",
+        "input": [
+            "guizhonggutou",
+            "gzgt"
+        ]
+    },
+    {
+        "phrase": "甜甜蜜",
+        "input": [
+            "tiantianmi",
+            "ttm"
+        ]
+    },
+    {
+        "phrase": "美丽之羽",
+        "input": [
+            "meilizhiyu",
+            "mlzy"
+        ]
+    },
+    {
+        "phrase": "神秘摆设",
+        "input": [
+            "shenmibaishe",
+            "smbs"
+        ]
+    },
+    {
+        "phrase": "松掉的弹簧",
+        "input": [
+            "songdiaodetanhuang",
+            "sddth"
+        ]
+    },
+    {
+        "phrase": "粉笔石",
+        "input": [
+            "fenbishi",
+            "fbs"
+        ]
+    },
+    {
+        "phrase": "一边的耳环",
+        "input": [
+            "yibiandeerhuan",
+            "ybdeh"
+        ]
+    },
+    {
+        "phrase": "海边的玻璃",
+        "input": [
+            "haibiandeboli",
+            "hbdbl"
+        ]
+    },
+    {
+        "phrase": "光滑泥球",
+        "input": [
+            "guanghuaniqiu",
+            "ghnq"
+        ]
+    },
+    {
+        "phrase": "南国贝壳",
+        "input": [
+            "nanguobeike",
+            "ngbk"
+        ]
+    },
+    {
+        "phrase": "宝可梦木娃娃",
+        "input": [
+            "baokemengmuwawa",
+            "bkmmww"
+        ]
+    },
+    {
+        "phrase": "秘密琥珀",
+        "input": [
+            "mimihupo",
+            "mmhp"
+        ]
+    },
+    {
+        "phrase": "化石海兽",
+        "input": [
+            "huashihaishou",
+            "hshs"
+        ]
+    },
+    {
+        "phrase": "宝可尾草",
+        "input": [
+            "baokeweicao",
+            "bkwc"
+        ]
+    },
+    {
+        "phrase": "极巨菇菇",
+        "input": [
+            "jijugugu",
+            "jijvgugu",
+            "jjgg"
+        ]
+    },
+    {
+        "phrase": "讲究粽",
+        "input": [
+            "jiangjiuzong",
+            "jjz"
+        ]
+    },
+    {
+        "phrase": "双倍腌菜",
+        "input": [
+            "shuangbeiyancai",
+            "sbyc"
+        ]
+    },
+    {
+        "phrase": "颠倒烧",
+        "input": [
+            "diandaoshao",
+            "dds"
+        ]
+    },
+    {
+        "phrase": "招式学习器",
+        "input": [
+            "zhaoshixuexiqi",
+            "zsxxq"
+        ]
+    },
+    {
+        "phrase": "秘传学习器",
+        "input": [
+            "michuanxuexiqi",
+            "mizhuanxuexiqi",
+            "mcxxq"
+        ]
+    },
+    {
+        "phrase": "伤药",
+        "input": [
+            "shangyao",
+            "sy"
+        ]
+    },
+    {
+        "phrase": "好伤药",
+        "input": [
+            "haoshangyao",
+            "hsy"
+        ]
+    },
+    {
+        "phrase": "厉害伤药",
+        "input": [
+            "lihaishangyao",
+            "lhsy"
+        ]
+    },
+    {
+        "phrase": "全满药",
+        "input": [
+            "quanmanyao",
+            "qmy"
+        ]
+    },
+    {
+        "phrase": "全复药",
+        "input": [
+            "quanfuyao",
+            "qfy"
+        ]
+    },
+    {
+        "phrase": "解毒药",
+        "input": [
+            "jieduyao",
+            "jdy"
+        ]
+    },
+    {
+        "phrase": "灼伤药",
+        "input": [
+            "zhuoshangyao",
+            "zsy"
+        ]
+    },
+    {
+        "phrase": "解冻药",
+        "input": [
+            "jiedongyao",
+            "jdy"
+        ]
+    },
+    {
+        "phrase": "解眠药",
+        "input": [
+            "jiemianyao",
+            "jmy"
+        ]
+    },
+    {
+        "phrase": "解麻药",
+        "input": [
+            "jiemayao",
+            "jmy"
+        ]
+    },
+    {
+        "phrase": "万灵药",
+        "input": [
+            "wanlingyao",
+            "wly"
+        ]
+    },
+    {
+        "phrase": "活力碎片",
+        "input": [
+            "huolisuipian",
+            "hlsp"
+        ]
+    },
+    {
+        "phrase": "活力块",
+        "input": [
+            "huolikuai",
+            "hlk"
+        ]
+    },
+    {
+        "phrase": "美味之水",
+        "input": [
+            "meiweizhishui",
+            "mwzs"
+        ]
+    },
+    {
+        "phrase": "劲爽汽水",
+        "input": [
+            "jinshuangqishui",
+            "jsqs"
+        ]
+    },
+    {
+        "phrase": "果汁牛奶",
+        "input": [
+            "guozhiniunai",
+            "gznn"
+        ]
+    },
+    {
+        "phrase": "哞哞鲜奶",
+        "input": [
+            "moumouxiannai",
+            "mmxn"
+        ]
+    },
+    {
+        "phrase": "元气粉",
+        "input": [
+            "yuanqifen",
+            "yqf"
+        ]
+    },
+    {
+        "phrase": "元气根",
+        "input": [
+            "yuanqigen",
+            "yqg"
+        ]
+    },
+    {
+        "phrase": "万能粉",
+        "input": [
+            "wannengfen",
+            "wnf"
+        ]
+    },
+    {
+        "phrase": "复活草",
+        "input": [
+            "fuhuocao",
+            "fhc"
+        ]
+    },
+    {
+        "phrase": "单项小补剂",
+        "input": [
+            "danxiangxiaobuji",
+            "dxxbj"
+        ]
+    },
+    {
+        "phrase": "单项全补剂",
+        "input": [
+            "danxiangquanbuji",
+            "dxqbj"
+        ]
+    },
+    {
+        "phrase": "多项小补剂",
+        "input": [
+            "duoxiangxiaobuji",
+            "dxxbj"
+        ]
+    },
+    {
+        "phrase": "多项全补剂",
+        "input": [
+            "duoxiangquanbuji",
+            "dxqbj"
+        ]
+    },
+    {
+        "phrase": "愤怒馒头",
+        "input": [
+            "fennumantou",
+            "fnmt"
+        ]
+    },
+    {
+        "phrase": "釜炎仙贝",
+        "input": [
+            "fuyanxianbei",
+            "fyxb"
+        ]
+    },
+    {
+        "phrase": "森之羊羹",
+        "input": [
+            "senzhiyanggeng",
+            "szyg"
+        ]
+    },
+    {
+        "phrase": "飞云冰淇淋",
+        "input": [
+            "feiyunbingqilin",
+            "fybql"
+        ]
+    },
+    {
+        "phrase": "密阿雷格雷派饼",
+        "input": [
+            "mialeigeleipaibing",
+            "malglpb"
+        ]
+    },
+    {
+        "phrase": "娑罗沙布蕾",
+        "input": [
+            "suoluoshabulei",
+            "slsbl"
+        ]
+    },
+    {
+        "phrase": "大马拉萨达",
+        "input": [
+            "damalasada",
+            "dmlsd"
+        ]
+    },
+    {
+        "phrase": "深灰米果",
+        "input": [
+            "shenhuimiguo",
+            "shmg"
+        ]
+    },
+    {
+        "phrase": "祝庆玛芬",
+        "input": [
+            "zhuqingmafen",
+            "zqmf"
+        ]
+    },
+    {
+        "phrase": "树果汁",
+        "input": [
+            "shuguozhi",
+            "sgz"
+        ]
+    },
+    {
+        "phrase": "心形甜点",
+        "input": [
+            "xinxingtiandian",
+            "xxtd"
+        ]
+    },
+    {
+        "phrase": "圣灰",
+        "input": [
+            "shenghui",
+            "sh"
+        ]
+    },
+    {
+        "phrase": "极巨甜蜜",
+        "input": [
+            "jijutianmi",
+            "jijvtianmi",
+            "jjtm"
+        ]
+    },
+    {
+        "phrase": "好中药",
+        "input": [
+            "haozhongyao",
+            "hzy"
+        ]
+    },
+    {
+        "phrase": "厉害中药",
+        "input": [
+            "lihaizhongyao",
+            "lhzy"
+        ]
+    },
+    {
+        "phrase": "材料单",
+        "input": [
+            "cailiaodan",
+            "cld"
+        ]
+    },
+    {
+        "phrase": "甜味料",
+        "input": [
+            "tianweiliao",
+            "twl"
+        ]
+    },
+    {
+        "phrase": "咸味料",
+        "input": [
+            "xianweiliao",
+            "xwl"
+        ]
+    },
+    {
+        "phrase": "酸味料",
+        "input": [
+            "suanweiliao",
+            "swl"
+        ]
+    },
+    {
+        "phrase": "苦味料",
+        "input": [
+            "kuweiliao",
+            "kwl"
+        ]
+    },
+    {
+        "phrase": "辣味料",
+        "input": [
+            "laweiliao",
+            "lwl"
+        ]
+    },
+    {
+        "phrase": "野餐组合",
+        "input": [
+            "yecanzuhe",
+            "yczh"
+        ]
+    },
+    {
+        "phrase": "粗绞肉香肠",
+        "input": [
+            "cujiaorouxiangchang",
+            "cjrxc"
+        ]
+    },
+    {
+        "phrase": "饱伯罐头",
+        "input": [
+            "baoboguantou",
+            "bbgt"
+        ]
+    },
+    {
+        "phrase": "巴哈罐头",
+        "input": [
+            "bahaguantou",
+            "bhgt"
+        ]
+    },
+    {
+        "phrase": "袋装蕈菇",
+        "input": [
+            "daizhuangxungu",
+            "dzxg"
+        ]
+    },
+    {
+        "phrase": "烟熏尾巴",
+        "input": [
+            "yanxunweiba",
+            "yxwb"
+        ]
+    },
+    {
+        "phrase": "粗枝大葱",
+        "input": [
+            "cuzhidacong",
+            "czdc"
+        ]
+    },
+    {
+        "phrase": "特选苹果",
+        "input": [
+            "texuanpingguo",
+            "txpg"
+        ]
+    },
+    {
+        "phrase": "细骨",
+        "input": [
+            "xigu",
+            "xg"
+        ]
+    },
+    {
+        "phrase": "水边香草",
+        "input": [
+            "shuibianxiangcao",
+            "sbxc"
+        ]
+    },
+    {
+        "phrase": "哞哞乳酪",
+        "input": [
+            "moumourulao",
+            "mmrl"
+        ]
+    },
+    {
+        "phrase": "香料组合",
+        "input": [
+            "xiangliaozuhe",
+            "xlzh"
+        ]
+    },
+    {
+        "phrase": "鲜鲜奶油",
+        "input": [
+            "xianxiannaiyou",
+            "xxny"
+        ]
+    },
+    {
+        "phrase": "超极粉",
+        "input": [
+            "chaojifen",
+            "cjf"
+        ]
+    },
+    {
+        "phrase": "酸黄瓜片",
+        "input": [
+            "suanhuangguapian",
+            "shgp"
+        ]
+    },
+    {
+        "phrase": "煎辣香肠",
+        "input": [
+            "jianlaxiangchang",
+            "jlxc"
+        ]
+    },
+    {
+        "phrase": "香草香肠",
+        "input": [
+            "xiangcaoxiangchang",
+            "xcxc"
+        ]
+    },
+    {
+        "phrase": "樱子果",
+        "input": [
+            "yingziguo",
+            "yzg"
+        ]
+    },
+    {
+        "phrase": "零余果",
+        "input": [
+            "lingyuguo",
+            "lyg"
+        ]
+    },
+    {
+        "phrase": "桃桃果",
+        "input": [
+            "taotaoguo",
+            "ttg"
+        ]
+    },
+    {
+        "phrase": "莓莓果",
+        "input": [
+            "meimeiguo",
+            "mmg"
+        ]
+    },
+    {
+        "phrase": "利木果",
+        "input": [
+            "limuguo",
+            "lmg"
+        ]
+    },
+    {
+        "phrase": "苹野果",
+        "input": [
+            "pingyeguo",
+            "pyg"
+        ]
+    },
+    {
+        "phrase": "橙橙果",
+        "input": [
+            "chengchengguo",
+            "ccg"
+        ]
+    },
+    {
+        "phrase": "柿仔果",
+        "input": [
+            "shizaiguo",
+            "szg"
+        ]
+    },
+    {
+        "phrase": "木子果",
+        "input": [
+            "muziguo",
+            "mzg"
+        ]
+    },
+    {
+        "phrase": "文柚果",
+        "input": [
+            "wenyouguo",
+            "wyg"
+        ]
+    },
+    {
+        "phrase": "勿花果",
+        "input": [
+            "wuhuaguo",
+            "whg"
+        ]
+    },
+    {
+        "phrase": "异奇果",
+        "input": [
+            "yiqiguo",
+            "yqg"
+        ]
+    },
+    {
+        "phrase": "芒芒果",
+        "input": [
+            "mangmangguo",
+            "mmg"
+        ]
+    },
+    {
+        "phrase": "乐芭果",
+        "input": [
+            "lebaguo",
+            "lbg"
+        ]
+    },
+    {
+        "phrase": "芭亚果",
+        "input": [
+            "bayaguo",
+            "byg"
+        ]
+    },
+    {
+        "phrase": "蔓莓果",
+        "input": [
+            "manmeiguo",
+            "mmg"
+        ]
+    },
+    {
+        "phrase": "墨莓果",
+        "input": [
+            "momeiguo",
+            "mmg"
+        ]
+    },
+    {
+        "phrase": "蕉香果",
+        "input": [
+            "jiaoxiangguo",
+            "jxg"
+        ]
+    },
+    {
+        "phrase": "西梨果",
+        "input": [
+            "xiliguo",
+            "xlg"
+        ]
+    },
+    {
+        "phrase": "凰梨果",
+        "input": [
+            "huangliguo",
+            "hlg"
+        ]
+    },
+    {
+        "phrase": "榴石果",
+        "input": [
+            "liushiguo",
+            "lsg"
+        ]
+    },
+    {
+        "phrase": "藻根果",
+        "input": [
+            "zaogenguo",
+            "zgg"
+        ]
+    },
+    {
+        "phrase": "比巴果",
+        "input": [
+            "bibaguo",
+            "bbg"
+        ]
+    },
+    {
+        "phrase": "哈密果",
+        "input": [
+            "hamiguo",
+            "hmg"
+        ]
+    },
+    {
+        "phrase": "萄葡果",
+        "input": [
+            "taopuguo",
+            "tpg"
+        ]
+    },
+    {
+        "phrase": "茄番果",
+        "input": [
+            "jiafanguo",
+            "jfg"
+        ]
+    },
+    {
+        "phrase": "玉黍果",
+        "input": [
+            "yushuguo",
+            "ysg"
+        ]
+    },
+    {
+        "phrase": "岳竹果",
+        "input": [
+            "yuezhuguo",
+            "yzg"
+        ]
+    },
+    {
+        "phrase": "茸丹果",
+        "input": [
+            "rongdanguo",
+            "rdg"
+        ]
+    },
+    {
+        "phrase": "檬柠果",
+        "input": [
+            "mengningguo",
+            "mng"
+        ]
+    },
+    {
+        "phrase": "刺角果",
+        "input": [
+            "cijiaoguo",
+            "cjg"
+        ]
+    },
+    {
+        "phrase": "椰木果",
+        "input": [
+            "yemuguo",
+            "ymg"
+        ]
+    },
+    {
+        "phrase": "瓜西果",
+        "input": [
+            "guaxiguo",
+            "gxg"
+        ]
+    },
+    {
+        "phrase": "金枕果",
+        "input": [
+            "jinzhenguo",
+            "jzg"
+        ]
+    },
+    {
+        "phrase": "靛莓果",
+        "input": [
+            "dianmeiguo",
+            "dmg"
+        ]
+    },
+    {
+        "phrase": "巧可果",
+        "input": [
+            "qiaokeguo",
+            "qkg"
+        ]
+    },
+    {
+        "phrase": "千香果",
+        "input": [
+            "qianxiangguo",
+            "qxg"
+        ]
+    },
+    {
+        "phrase": "烛木果",
+        "input": [
+            "zhumuguo",
+            "zmg"
+        ]
+    },
+    {
+        "phrase": "罗子果",
+        "input": [
+            "luoziguo",
+            "lzg"
+        ]
+    },
+    {
+        "phrase": "番荔果",
+        "input": [
+            "fanliguo",
+            "flg"
+        ]
+    },
+    {
+        "phrase": "莲蒲果",
+        "input": [
+            "lianpuguo",
+            "lpg"
+        ]
+    },
+    {
+        "phrase": "通通果",
+        "input": [
+            "tongtongguo",
+            "ttg"
+        ]
+    },
+    {
+        "phrase": "腰木果",
+        "input": [
+            "yaomuguo",
+            "ymg"
+        ]
+    },
+    {
+        "phrase": "棱瓜果",
+        "input": [
+            "lengguaguo",
+            "lgg"
+        ]
+    },
+    {
+        "phrase": "福禄果",
+        "input": [
+            "fuluguo",
+            "flg"
+        ]
+    },
+    {
+        "phrase": "扁樱果",
+        "input": [
+            "bianyingguo",
+            "byg"
+        ]
+    },
+    {
+        "phrase": "草蚕果",
+        "input": [
+            "caocanguo",
+            "ccg"
+        ]
+    },
+    {
+        "phrase": "佛柑果",
+        "input": [
+            "fuganguo",
+            "fgg"
+        ]
+    },
+    {
+        "phrase": "莓榴果",
+        "input": [
+            "meiliuguo",
+            "mlg"
+        ]
+    },
+    {
+        "phrase": "刺耳果",
+        "input": [
+            "cierguo",
+            "ceg"
+        ]
+    },
+    {
+        "phrase": "霹霹果",
+        "input": [
+            "pipiguo",
+            "ppg"
+        ]
+    },
+    {
+        "phrase": "灯浆果",
+        "input": [
+            "dengjiangguo",
+            "djg"
+        ]
+    },
+    {
+        "phrase": "枝荔果",
+        "input": [
+            "zhiliguo",
+            "zlg"
+        ]
+    },
+    {
+        "phrase": "龙睛果",
+        "input": [
+            "longjingguo",
+            "ljg"
+        ]
+    },
+    {
+        "phrase": "沙鳞果",
+        "input": [
+            "shalinguo",
+            "slg"
+        ]
+    },
+    {
+        "phrase": "龙火果",
+        "input": [
+            "longhuoguo",
+            "lhg"
+        ]
+    },
+    {
+        "phrase": "杏仔果",
+        "input": [
+            "xingzaiguo",
+            "xzg"
+        ]
+    },
+    {
+        "phrase": "兰萨果",
+        "input": [
+            "lansaguo",
+            "lsg"
+        ]
+    },
+    {
+        "phrase": "星桃果",
+        "input": [
+            "xingtaoguo",
+            "xtg"
+        ]
+    },
+    {
+        "phrase": "谜芝果",
+        "input": [
+            "mizhiguo",
+            "mzg"
+        ]
+    },
+    {
+        "phrase": "瓜南果",
+        "input": [
+            "guananguo",
+            "gng"
+        ]
+    },
+    {
+        "phrase": "无青果",
+        "input": [
+            "wuqingguo",
+            "wqg"
+        ]
+    },
+    {
+        "phrase": "子茄果",
+        "input": [
+            "zijiaguo",
+            "zjg"
+        ]
+    },
+    {
+        "phrase": "宛豆果",
+        "input": [
+            "wandouguo",
+            "wdg"
+        ]
+    },
+    {
+        "phrase": "泥豆果",
+        "input": [
+            "nidouguo",
+            "ndg"
+        ]
+    },
+    {
+        "phrase": "葱首果",
+        "input": [
+            "congshouguo",
+            "csg"
+        ]
+    },
+    {
+        "phrase": "角豆果",
+        "input": [
+            "jiaodouguo",
+            "jdg"
+        ]
+    },
+    {
+        "phrase": "菩达果",
+        "input": [
+            "pudaguo",
+            "pdg"
+        ]
+    },
+    {
+        "phrase": "辛子果",
+        "input": [
+            "xinziguo",
+            "xzg"
+        ]
+    },
+    {
+        "phrase": "蒜蒜果",
+        "input": [
+            "suansuanguo",
+            "ssg"
+        ]
+    },
+    {
+        "phrase": "薯薯果",
+        "input": [
+            "shushuguo",
+            "ssg"
+        ]
+    },
+    {
+        "phrase": "奇秘果",
+        "input": [
+            "qimiguo",
+            "qmg"
+        ]
+    },
+    {
+        "phrase": "释陀果",
+        "input": [
+            "shituoguo",
+            "stg"
+        ]
+    },
+    {
+        "phrase": "嘉珍果",
+        "input": [
+            "jiazhenguo",
+            "jzg"
+        ]
+    },
+    {
+        "phrase": "雾莲果",
+        "input": [
+            "wulianguo",
+            "wlg"
+        ]
+    },
+    {
+        "phrase": "洛玫果",
+        "input": [
+            "luomeiguo",
+            "lmg"
+        ]
+    },
+    {
+        "phrase": "亚开果",
+        "input": [
+            "yakaiguo",
+            "ykg"
+        ]
+    },
+    {
+        "phrase": "香罗果",
+        "input": [
+            "xiangluoguo",
+            "xlg"
+        ]
+    },
+    {
+        "phrase": "花啤果",
+        "input": [
+            "huapiguo",
+            "hpg"
+        ]
+    },
+    {
+        "phrase": "代币盒",
+        "input": [
+            "daibihe",
+            "dbh"
+        ]
+    },
+    {
+        "phrase": "宝可梦之笛",
+        "input": [
+            "baokemengzhidi",
+            "bkmzd"
+        ]
+    },
+    {
+        "phrase": "金假牙",
+        "input": [
+            "jinjiaya",
+            "jjy"
+        ]
+    },
+    {
+        "phrase": "西尔佛检视镜",
+        "input": [
+            "xierfujianshijing",
+            "xefjsj"
+        ]
+    },
+    {
+        "phrase": "学习装置",
+        "input": [
+            "xuexizhuangzhi",
+            "xxzz"
+        ]
+    },
+    {
+        "phrase": "定期月票",
+        "input": [
+            "dingqiyuepiao",
+            "dqyp"
+        ]
+    },
+    {
+        "phrase": "神奇蛋",
+        "input": [
+            "shenqidan",
+            "sqd"
+        ]
+    },
+    {
+        "phrase": "秘传之药",
+        "input": [
+            "michuanzhiyao",
+            "mczy"
+        ]
+    },
+    {
+        "phrase": "宝可梦的蛋兑换券",
+        "input": [
+            "baokemengdedanduihuanquan",
+            "bkmdddhq"
+        ]
+    },
+    {
+        "phrase": "透明铃铛",
+        "input": [
+            "touminglingdang",
+            "tmld"
+        ]
+    },
+    {
+        "phrase": "华丽大赛参加证",
+        "input": [
+            "hualidasaicanjiazheng",
+            "hldscjz"
+        ]
+    },
+    {
+        "phrase": "得文的物品",
+        "input": [
+            "dewendewupin",
+            "dwdwp"
+        ]
+    },
+    {
+        "phrase": "集灰袋",
+        "input": [
+            "jihuidai",
+            "jhd"
+        ]
+    },
+    {
+        "phrase": "宝可方块盒",
+        "input": [
+            "baokefangkuaihe",
+            "bkfkh"
+        ]
+    },
+    {
+        "phrase": "给大吾的信",
+        "input": [
+            "geidawudexin",
+            "gdwdx"
+        ]
+    },
+    {
+        "phrase": "无限船票",
+        "input": [
+            "wuxianchuanpiao",
+            "wxcp"
+        ]
+    },
+    {
+        "phrase": "得文侦测镜",
+        "input": [
+            "dewenzhencejing",
+            "dwzcj"
+        ]
+    },
+    {
+        "phrase": "对战搜寻器",
+        "input": [
+            "duizhansouxunqi",
+            "dzsxq"
+        ]
+    },
+    {
+        "phrase": "声音记录器",
+        "input": [
+            "shengyinjiluqi",
+            "syjlq"
+        ]
+    },
+    {
+        "phrase": "招式学习器盒",
+        "input": [
+            "zhaoshixuexiqihe",
+            "zsxxqh"
+        ]
+    },
+    {
+        "phrase": "树果袋",
+        "input": [
+            "shuguodai",
+            "sgd"
+        ]
+    },
+    {
+        "phrase": "粉末收集瓶",
+        "input": [
+            "fenmoshoujiping",
+            "fmsjp"
+        ]
+    },
+    {
+        "phrase": "熔岩标志",
+        "input": [
+            "rongyanbiaozhi",
+            "rybz"
+        ]
+    },
+    {
+        "phrase": "宝可追踪",
+        "input": [
+            "baokezhuizong",
+            "bkzz"
+        ]
+    },
+    {
+        "phrase": "朋友手册",
+        "input": [
+            "pengyoushouce",
+            "pysc"
+        ]
+    },
+    {
+        "phrase": "古代护符",
+        "input": [
+            "gudaihufu",
+            "gdhf"
+        ]
+    },
+    {
+        "phrase": "宝芬盒",
+        "input": [
+            "baofenhe",
+            "bfh"
+        ]
+    },
+    {
+        "phrase": "大木的信",
+        "input": [
+            "damudexin",
+            "dmdx"
+        ]
+    },
+    {
+        "phrase": "新月之羽",
+        "input": [
+            "xinyuezhiyu",
+            "xyzy"
+        ]
+    },
+    {
+        "phrase": "天界之笛",
+        "input": [
+            "tianjiezhidi",
+            "tjzd"
+        ]
+    },
+    {
+        "phrase": "火山镇石",
+        "input": [
+            "huoshanzhenshi",
+            "hszs"
+        ]
+    },
+    {
+        "phrase": "对战记录器",
+        "input": [
+            "duizhanjiluqi",
+            "dzjlq"
+        ]
+    },
+    {
+        "phrase": "葛拉西蒂亚花",
+        "input": [
+            "gelaxidiyahua",
+            "glxdyh"
+        ]
+    },
+    {
+        "phrase": "球果盒",
+        "input": [
+            "qiuguohe",
+            "qgh"
+        ]
+    },
+    {
+        "phrase": "树果种植盆",
+        "input": [
+            "shuguozhongzhipen",
+            "sgzzp"
+        ]
+    },
+    {
+        "phrase": "美味尾巴",
+        "input": [
+            "meiweiweiba",
+            "mwwb"
+        ]
+    },
+    {
+        "phrase": "磁浮列车自由票",
+        "input": [
+            "cifuliecheziyoupiao",
+            "cflczyp"
+        ]
+    },
+    {
+        "phrase": "海声铃铛",
+        "input": [
+            "haishenglingdang",
+            "hsld"
+        ]
+    },
+    {
+        "phrase": "草绿色宝珠",
+        "input": [
+            "caolvsebaozhu",
+            "caolusebaozhu",
+            "clsbz"
+        ]
+    },
+    {
+        "phrase": "上锁的容器",
+        "input": [
+            "shangsuoderongqi",
+            "ssdrq"
+        ]
+    },
+    {
+        "phrase": "谜之水晶",
+        "input": [
+            "mizhishuijing",
+            "mzsj"
+        ]
+    },
+    {
+        "phrase": "龙之骨",
+        "input": [
+            "longzhigu",
+            "lzg"
+        ]
+    },
+    {
+        "phrase": "基因之楔",
+        "input": [
+            "jiyinzhixie",
+            "jyzx"
+        ]
+    },
+    {
+        "phrase": "圆形护符",
+        "input": [
+            "yuanxinghufu",
+            "yxhf"
+        ]
+    },
+    {
+        "phrase": "闪耀护符",
+        "input": [
+            "shanyaohufu",
+            "syhf"
+        ]
+    },
+    {
+        "phrase": "等离子卡",
+        "input": [
+            "denglizika",
+            "dlzk"
+        ]
+    },
+    {
+        "phrase": "阿克罗玛机器",
+        "input": [
+            "akeluomajiqi",
+            "aklmjq"
+        ]
+    },
+    {
+        "phrase": "现形镜",
+        "input": [
+            "xianxingjing",
+            "xxj"
+        ]
+    },
+    {
+        "phrase": "全息影像通讯器",
+        "input": [
+            "quanxiyingxiangtongxunqi",
+            "qxyxtxq"
+        ]
+    },
+    {
+        "phrase": "似珍石",
+        "input": [
+            "shizhenshi",
+            "szs"
+        ]
+    },
+    {
+        "phrase": "常见石",
+        "input": [
+            "changjianshi",
+            "cjs"
+        ]
+    },
+    {
+        "phrase": "卡洛斯勋章",
+        "input": [
+            "kaluosixunzhang",
+            "klsxz"
+        ]
+    },
+    {
+        "phrase": "帅哥券",
+        "input": [
+            "shuaigequan",
+            "sgq"
+        ]
+    },
+    {
+        "phrase": "宝可方块套装",
+        "input": [
+            "baokefangkuaitaozhuang",
+            "bkfktz"
+        ]
+    },
+    {
+        "phrase": "得文潜水装备",
+        "input": [
+            "dewenqianshuizhuangbei",
+            "dwqszb"
+        ]
+    },
+    {
+        "phrase": "钥石",
+        "input": [
+            "yaoshi",
+            "ys"
+        ]
+    },
+    {
+        "phrase": "无限之笛",
+        "input": [
+            "wuxianzhidi",
+            "wxzd"
+        ]
+    },
+    {
+        "phrase": "惩戒之壶",
+        "input": [
+            "chengjiezhihu",
+            "cjzh"
+        ]
+    },
+    {
+        "phrase": "光辉石",
+        "input": [
+            "guanghuishi",
+            "ghs"
+        ]
+    },
+    {
+        "phrase": "奇异卡片",
+        "input": [
+            "qiyikapian",
+            "qykp"
+        ]
+    },
+    {
+        "phrase": "虹色之花",
+        "input": [
+            "hongsezhihua",
+            "hszh"
+        ]
+    },
+    {
+        "phrase": "奈克洛索尔合体器",
+        "input": [
+            "naikeluosuoerhetiqi",
+            "nklsehtq"
+        ]
+    },
+    {
+        "phrase": "奈克洛露奈合体器",
+        "input": [
+            "naikeluolunaihetiqi",
+            "nkllnhtq"
+        ]
+    },
+    {
+        "phrase": "极巨腕带",
+        "input": [
+            "jijuwandai",
+            "jijvwandai",
+            "jjwd"
+        ]
+    },
+    {
+        "phrase": "厉害耳塞",
+        "input": [
+            "lihaiersai",
+            "lhes"
+        ]
+    },
+    {
+        "phrase": "陈旧的信",
+        "input": [
+            "chenjiudexin",
+            "cjdx"
+        ]
+    },
+    {
+        "phrase": "乐队的签名",
+        "input": [
+            "yueduideqianming",
+            "yddqm"
+        ]
+    },
+    {
+        "phrase": "防晃护符",
+        "input": [
+            "fanghuanghufu",
+            "fhhf"
+        ]
+    },
+    {
+        "phrase": "铠甲车票",
+        "input": [
+            "kaijiachepiao",
+            "kjcp"
+        ]
+    },
+    {
+        "phrase": "时尚名人卡",
+        "input": [
+            "shishangmingrenka",
+            "ssmrk"
+        ]
+    },
+    {
+        "phrase": "王冠车票",
+        "input": [
+            "wangguanchepiao",
+            "wgcp"
+        ]
+    },
+    {
+        "phrase": "传说笔记",
+        "input": [
+            "chuanshuobiji",
+            "csbj"
+        ]
+    },
+    {
+        "phrase": "光辉花瓣",
+        "input": [
+            "guanghuihuaban",
+            "ghhb"
+        ]
+    },
+    {
+        "phrase": "牵绊缰绳",
+        "input": [
+            "qianbanjiangsheng",
+            "qbjs"
+        ]
+    },
+    {
+        "phrase": "镇宝",
+        "input": [
+            "zhenbao",
+            "zb"
+        ]
+    },
+    {
+        "phrase": "家乡玛芬",
+        "input": [
+            "jiaxiangmafen",
+            "jxmf"
+        ]
+    },
+    {
+        "phrase": "神阖之笛",
+        "input": [
+            "shenhezhidi",
+            "shzd"
+        ]
+    },
+    {
+        "phrase": "破损日记",
+        "input": [
+            "posunriji",
+            "psrj"
+        ]
+    },
+    {
+        "phrase": "石板碎块",
+        "input": [
+            "shibansuikuai",
+            "sbsk"
+        ]
+    },
+    {
+        "phrase": "古老日记",
+        "input": [
+            "gulaoriji",
+            "glrj"
+        ]
+    },
+    {
+        "phrase": "起源球",
+        "input": [
+            "qiyuanqiu",
+            "qyq"
+        ]
+    },
+    {
+        "phrase": "起源矿石",
+        "input": [
+            "qiyuankuangshi",
+            "qyks"
+        ]
+    },
+    {
+        "phrase": "净空石板",
+        "input": [
+            "jingkongshiban",
+            "jksb"
+        ]
+    },
+    {
+        "phrase": "工艺套组",
+        "input": [
+            "gongyitaozu",
+            "gytz"
+        ]
+    },
+    {
+        "phrase": "古老诗文",
+        "input": [
+            "gulaoshiwen",
+            "glsw"
+        ]
+    },
+    {
+        "phrase": "传说石板",
+        "input": [
+            "chuanshuoshiban",
+            "cssb"
+        ]
+    },
+    {
+        "phrase": "太晶珠",
+        "input": [
+            "taijingzhu",
+            "tjz"
+        ]
+    },
+    {
+        "phrase": "恶之挂轴",
+        "input": [
+            "ezhiguazhou",
+            "ezgz"
+        ]
+    },
+    {
+        "phrase": "水之挂轴",
+        "input": [
+            "shuizhiguazhou",
+            "szgz"
+        ]
+    }
+]

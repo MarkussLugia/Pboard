@@ -1,0 +1,22 @@
+[
+  {
+    "source": "source_all_pokemon.json",
+    "prefix": "Pboard_allPokemon",
+    "title": "Pboard-宝可梦名称"
+  },
+  {
+    "source": "source_all_place.json",
+    "prefix": "Pboard_allPlace",
+    "title": "Pboard-地点名称"
+  },
+  {
+    "source": "source_all_item.json",
+    "prefix": "Pboard_allItem",
+    "title": "Pboard-物品名称"
+  },
+  {
+    "source": "source_all_character.json",
+    "prefix": "Pboard_allCharacter",
+    "title": "Pboard-人物角色名称"
+  }
+]

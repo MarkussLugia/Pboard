@@ -1,0 +1,9411 @@
+[
+    {
+        "phrase": "妙蛙种子",
+        "input": [
+            "miaowazhongzi",
+            "mwzz",
+            "bulbasaur",
+            "fushigidane"
+        ]
+    },
+    {
+        "phrase": "妙蛙草",
+        "input": [
+            "miaowacao",
+            "mwc",
+            "ivysaur",
+            "fushigisou"
+        ]
+    },
+    {
+        "phrase": "妙蛙花",
+        "input": [
+            "miaowahua",
+            "mwh",
+            "venusaur",
+            "fushigibana"
+        ]
+    },
+    {
+        "phrase": "小火龙",
+        "input": [
+            "xiaohuolong",
+            "xhl",
+            "charmander",
+            "hitokage"
+        ]
+    },
+    {
+        "phrase": "火恐龙",
+        "input": [
+            "huokonglong",
+            "hkl",
+            "charmeleon",
+            "rizado"
+        ]
+    },
+    {
+        "phrase": "喷火龙",
+        "input": [
+            "penhuolong",
+            "phl",
+            "laopen",
+            "charizard",
+            "rizadon"
+        ]
+    },
+    {
+        "phrase": "杰尼龟",
+        "input": [
+            "jienigui",
+            "jng",
+            "squirtle",
+            "zenigame"
+        ]
+    },
+    {
+        "phrase": "卡咪龟",
+        "input": [
+            "kamigui",
+            "kmg",
+            "wartortle",
+            "kameru"
+        ]
+    },
+    {
+        "phrase": "水箭龟",
+        "input": [
+            "shuijiangui",
+            "sjg",
+            "blastoise",
+            "kamekkusu"
+        ]
+    },
+    {
+        "phrase": "绿毛虫",
+        "input": [
+            "lvmaochong",
+            "lmc",
+            "caterpie",
+            "kyatapi"
+        ]
+    },
+    {
+        "phrase": "铁甲蛹",
+        "input": [
+            "tiejiayong",
+            "tjy",
+            "metapod",
+            "toranseru"
+        ]
+    },
+    {
+        "phrase": "巴大蝶",
+        "input": [
+            "badadie",
+            "bdd",
+            "badahu",
+            "butterfree"
+        ]
+    },
+    {
+        "phrase": "独角虫",
+        "input": [
+            "dujiaochong",
+            "djc",
+            "weedle",
+            "bidoru"
+        ]
+    },
+    {
+        "phrase": "铁壳蛹",
+        "input": [
+            "tiekeyong",
+            "tky",
+            "kakuna",
+            "kokun"
+        ]
+    },
+    {
+        "phrase": "大针蜂",
+        "input": [
+            "dazhenfeng",
+            "dzf",
+            "beedrill",
+            "supia"
+        ]
+    },
+    {
+        "phrase": "波波",
+        "input": [
+            "bobo",
+            "bb",
+            "pidgey",
+            "poppo"
+        ]
+    },
+    {
+        "phrase": "比比鸟",
+        "input": [
+            "bibiniao",
+            "bbn",
+            "pidgeotto",
+            "pijon"
+        ]
+    },
+    {
+        "phrase": "大比鸟",
+        "input": [
+            "dabiniao",
+            "dbn",
+            "bidiao",
+            "pidgeot",
+            "pijotto"
+        ]
+    },
+    {
+        "phrase": "小拉达",
+        "input": [
+            "xiaolada",
+            "xld",
+            "rattata",
+            "koratta"
+        ]
+    },
+    {
+        "phrase": "拉达",
+        "input": [
+            "lada",
+            "ld",
+            "raticate",
+            "ratta"
+        ]
+    },
+    {
+        "phrase": "烈雀",
+        "input": [
+            "lieque",
+            "lieqve",
+            "lq",
+            "spearow",
+            "onisuzume"
+        ]
+    },
+    {
+        "phrase": "大嘴雀",
+        "input": [
+            "dazuique",
+            "dazuiqve",
+            "dzq",
+            "fearow",
+            "onidoriru"
+        ]
+    },
+    {
+        "phrase": "阿柏蛇",
+        "input": [
+            "aboshe",
+            "abaishe",
+            "abs",
+            "ekans",
+            "abo"
+        ]
+    },
+    {
+        "phrase": "阿柏怪",
+        "input": [
+            "aboguai",
+            "abaiguai",
+            "abg",
+            "arbok",
+            "abokku"
+        ]
+    },
+    {
+        "phrase": "皮卡丘",
+        "input": [
+            "pikaqiu",
+            "piq",
+            "pikachu",
+            "pikachuu"
+        ]
+    },
+    {
+        "phrase": "雷丘",
+        "input": [
+            "leiqiu",
+            "lq",
+            "raichu",
+            "raichuu"
+        ]
+    },
+    {
+        "phrase": "穿山鼠",
+        "input": [
+            "chuanshanshu",
+            "css",
+            "sandshrew",
+            "sando"
+        ]
+    },
+    {
+        "phrase": "穿山王",
+        "input": [
+            "chuanshanwang",
+            "csw",
+            "sandslash",
+            "sandopan"
+        ]
+    },
+    {
+        "phrase": "尼多兰",
+        "input": [
+            "niduolan",
+            "ndl",
+            "nidoran"
+        ]
+    },
+    {
+        "phrase": "尼多娜",
+        "input": [
+            "niduona",
+            "ndn",
+            "nidorina"
+        ]
+    },
+    {
+        "phrase": "尼多后",
+        "input": [
+            "niduohuo",
+            "ndh",
+            "nidoqueen",
+            "nidokuin"
+        ]
+    },
+    {
+        "phrase": "尼多朗",
+        "input": [
+            "niduolan",
+            "ndl",
+            "nidoran"
+        ]
+    },
+    {
+        "phrase": "尼多力诺",
+        "input": [
+            "niduolinuo",
+            "ndln",
+            "nidorino"
+        ]
+    },
+    {
+        "phrase": "尼多王",
+        "input": [
+            "niduowang",
+            "ndw",
+            "nidoking",
+            "nidokingu"
+        ]
+    },
+    {
+        "phrase": "皮皮",
+        "input": [
+            "pipi",
+            "pp",
+            "clefairy",
+            "pippi"
+        ]
+    },
+    {
+        "phrase": "皮可西",
+        "input": [
+            "pikexi",
+            "pkx",
+            "clefable",
+            "pikushi"
+        ]
+    },
+    {
+        "phrase": "六尾",
+        "input": [
+            "liuwei",
+            "lw",
+            "vulpix",
+            "rokon"
+        ]
+    },
+    {
+        "phrase": "九尾",
+        "input": [
+            "jiuwei",
+            "jw",
+            "ninetales",
+            "kyuukon"
+        ]
+    },
+    {
+        "phrase": "胖丁",
+        "input": [
+            "pangding",
+            "pd",
+            "jigglypuff",
+            "purin"
+        ]
+    },
+    {
+        "phrase": "胖可丁",
+        "input": [
+            "pangkeding",
+            "pkd",
+            "wigglytuff",
+            "pukurin"
+        ]
+    },
+    {
+        "phrase": "超音蝠",
+        "input": [
+            "chaoyinfu",
+            "cyf",
+            "zubat",
+            "zubatto"
+        ]
+    },
+    {
+        "phrase": "大嘴蝠",
+        "input": [
+            "dazuifu",
+            "dzf",
+            "golbat",
+            "gorubatto"
+        ]
+    },
+    {
+        "phrase": "走路草",
+        "input": [
+            "zoulucao",
+            "zlc",
+            "oddish",
+            "nazonokusa"
+        ]
+    },
+    {
+        "phrase": "臭臭花",
+        "input": [
+            "chouchouhua",
+            "cch",
+            "gloom",
+            "kusaihana"
+        ]
+    },
+    {
+        "phrase": "霸王花",
+        "input": [
+            "bawanghua",
+            "bwh",
+            "vileplume",
+            "rafureshia"
+        ]
+    },
+    {
+        "phrase": "派拉斯",
+        "input": [
+            "pailasi",
+            "pls",
+            "paras",
+            "parasu"
+        ]
+    },
+    {
+        "phrase": "派拉斯特",
+        "input": [
+            "pailasite",
+            "plst",
+            "parasect",
+            "parasekuto"
+        ]
+    },
+    {
+        "phrase": "毛球",
+        "input": [
+            "maoqiu",
+            "mq",
+            "venonat",
+            "konpan"
+        ]
+    },
+    {
+        "phrase": "摩鲁蛾",
+        "input": [
+            "molue",
+            "mle",
+            "morue",
+            "venomoth",
+            "morufon"
+        ]
+    },
+    {
+        "phrase": "地鼠",
+        "input": [
+            "dishu",
+            "ds",
+            "diglett",
+            "diguda"
+        ]
+    },
+    {
+        "phrase": "三地鼠",
+        "input": [
+            "sandishu",
+            "sds",
+            "dugtrio",
+            "dagutorio"
+        ]
+    },
+    {
+        "phrase": "喵喵",
+        "input": [
+            "miaomiao",
+            "mm",
+            "meowth",
+            "nyasu"
+        ]
+    },
+    {
+        "phrase": "猫老大",
+        "input": [
+            "maolaoda",
+            "mld",
+            "persian",
+            "perushian"
+        ]
+    },
+    {
+        "phrase": "可达鸭",
+        "input": [
+            "kedaya",
+            "kdy",
+            "psyduck",
+            "kodakku"
+        ]
+    },
+    {
+        "phrase": "哥达鸭",
+        "input": [
+            "gedaya",
+            "gdy",
+            "golduck",
+            "gorudakku"
+        ]
+    },
+    {
+        "phrase": "猴怪",
+        "input": [
+            "houguai",
+            "hg",
+            "mankey",
+            "manki"
+        ]
+    },
+    {
+        "phrase": "火暴猴",
+        "input": [
+            "huobaohou",
+            "hbh",
+            "primeape",
+            "okorizaru"
+        ]
+    },
+    {
+        "phrase": "卡蒂狗",
+        "input": [
+            "kadigou",
+            "kdg",
+            "growlithe",
+            "gadi"
+        ]
+    },
+    {
+        "phrase": "风速狗",
+        "input": [
+            "fengsugou",
+            "fsg",
+            "fenggou",
+            "arcanine",
+            "uindi"
+        ]
+    },
+    {
+        "phrase": "蚊香蝌蚪",
+        "input": [
+            "wenxiangkedou",
+            "wxkd",
+            "poliwag",
+            "nyoromo"
+        ]
+    },
+    {
+        "phrase": "蚊香君",
+        "input": [
+            "wenxiangjun",
+            "wenxiangjvn",
+            "wxj",
+            "wenxiangwa",
+            "poliwhirl",
+            "nyorozo"
+        ]
+    },
+    {
+        "phrase": "蚊香泳士",
+        "input": [
+            "wenxiangyongshi",
+            "wxys",
+            "kuaiyongwa",
+            "poliwrath",
+            "nyorobon"
+        ]
+    },
+    {
+        "phrase": "凯西",
+        "input": [
+            "kaixi",
+            "kx",
+            "abra",
+            "keshi"
+        ]
+    },
+    {
+        "phrase": "勇基拉",
+        "input": [
+            "yongjila",
+            "yjl",
+            "kadabra",
+            "yungera"
+        ]
+    },
+    {
+        "phrase": "胡地",
+        "input": [
+            "hudi",
+            "hd",
+            "alakazam",
+            "fudin"
+        ]
+    },
+    {
+        "phrase": "腕力",
+        "input": [
+            "wanli",
+            "wl",
+            "machop",
+            "wanriki"
+        ]
+    },
+    {
+        "phrase": "豪力",
+        "input": [
+            "haoli",
+            "hl",
+            "machoke",
+            "goriki"
+        ]
+    },
+    {
+        "phrase": "怪力",
+        "input": [
+            "guaili",
+            "gl",
+            "machamp",
+            "kairiki"
+        ]
+    },
+    {
+        "phrase": "喇叭芽",
+        "input": [
+            "labaya",
+            "lby",
+            "bellsprout",
+            "madatsubomi"
+        ]
+    },
+    {
+        "phrase": "口呆花",
+        "input": [
+            "koudaihua",
+            "kdh",
+            "weepinbell",
+            "utsudon"
+        ]
+    },
+    {
+        "phrase": "大食花",
+        "input": [
+            "dashihua",
+            "dsh",
+            "victreebel",
+            "utsubotto"
+        ]
+    },
+    {
+        "phrase": "玛瑙水母",
+        "input": [
+            "manaoshuimu",
+            "mnsm",
+            "tentacool",
+            "menokurage"
+        ]
+    },
+    {
+        "phrase": "毒刺水母",
+        "input": [
+            "ducishuimu",
+            "dcsm",
+            "tentacruel",
+            "dokukurage"
+        ]
+    },
+    {
+        "phrase": "小拳石",
+        "input": [
+            "xiaoquanshi",
+            "xiaoqvanshi",
+            "xqs",
+            "geodude",
+            "isitsubute"
+        ]
+    },
+    {
+        "phrase": "隆隆石",
+        "input": [
+            "longlongshi",
+            "lls",
+            "graveler",
+            "goron"
+        ]
+    },
+    {
+        "phrase": "隆隆岩",
+        "input": [
+            "longlongyan",
+            "lly",
+            "golem",
+            "goronya"
+        ]
+    },
+    {
+        "phrase": "小火马",
+        "input": [
+            "xiaohuoma",
+            "xhm",
+            "ponyta",
+            "ponita"
+        ]
+    },
+    {
+        "phrase": "烈焰马",
+        "input": [
+            "lieyanma",
+            "lym",
+            "huoyanma",
+            "rapidash",
+            "gyaroppu"
+        ]
+    },
+    {
+        "phrase": "呆呆兽",
+        "input": [
+            "daidaishou",
+            "dds",
+            "slowpoke",
+            "yadon"
+        ]
+    },
+    {
+        "phrase": "呆壳兽",
+        "input": [
+            "daikeshou",
+            "dks",
+            "daihema",
+            "slowbro",
+            "yadoran"
+        ]
+    },
+    {
+        "phrase": "小磁怪",
+        "input": [
+            "xiaociguai",
+            "xcg",
+            "magnemite",
+            "koiru"
+        ]
+    },
+    {
+        "phrase": "三合一磁怪",
+        "input": [
+            "sanheyiciguai",
+            "shycg",
+            "magneton",
+            "reakoiru"
+        ]
+    },
+    {
+        "phrase": "大葱鸭",
+        "input": [
+            "dacongya",
+            "dcy",
+            "farfetchd",
+            "kamonegi"
+        ]
+    },
+    {
+        "phrase": "嘟嘟",
+        "input": [
+            "dudu",
+            "dd",
+            "doduo",
+            "dodo"
+        ]
+    },
+    {
+        "phrase": "嘟嘟利",
+        "input": [
+            "duduli",
+            "ddl",
+            "dodrio",
+            "dodorio"
+        ]
+    },
+    {
+        "phrase": "小海狮",
+        "input": [
+            "xiaohaishi",
+            "xhs",
+            "seel",
+            "pauwau"
+        ]
+    },
+    {
+        "phrase": "白海狮",
+        "input": [
+            "baihaishi",
+            "bhs",
+            "dewgong",
+            "jugon"
+        ]
+    },
+    {
+        "phrase": "臭泥",
+        "input": [
+            "chouni",
+            "cn",
+            "grimer",
+            "betobeta"
+        ]
+    },
+    {
+        "phrase": "臭臭泥",
+        "input": [
+            "chouchouni",
+            "ccn",
+            "muk",
+            "betobeton"
+        ]
+    },
+    {
+        "phrase": "大舌贝",
+        "input": [
+            "dashebei",
+            "dsb",
+            "shellder",
+            "sheruda"
+        ]
+    },
+    {
+        "phrase": "刺甲贝",
+        "input": [
+            "cijiabei",
+            "cjb",
+            "cloyster",
+            "parushen"
+        ]
+    },
+    {
+        "phrase": "鬼斯",
+        "input": [
+            "guisi",
+            "gs",
+            "gastly",
+            "gosu"
+        ]
+    },
+    {
+        "phrase": "鬼斯通",
+        "input": [
+            "guisitong",
+            "gst",
+            "haunter",
+            "gosuto"
+        ]
+    },
+    {
+        "phrase": "耿鬼",
+        "input": [
+            "genggui",
+            "gg",
+            "gengar",
+            "genga"
+        ]
+    },
+    {
+        "phrase": "大岩蛇",
+        "input": [
+            "dayanshe",
+            "dys",
+            "onix",
+            "iwaku"
+        ]
+    },
+    {
+        "phrase": "催眠貘",
+        "input": [
+            "cuimianmo",
+            "cmm",
+            "suolipu",
+            "sulipu",
+            "drowzee",
+            "suripu"
+        ]
+    },
+    {
+        "phrase": "引梦貘人",
+        "input": [
+            "yinmengmoren",
+            "ymmr",
+            "suolipa",
+            "sulipa",
+            "suolibo",
+            "sulibo",
+            "hypno",
+            "suripa"
+        ]
+    },
+    {
+        "phrase": "大钳蟹",
+        "input": [
+            "daqianxie",
+            "dqx",
+            "krabby",
+            "kurabu"
+        ]
+    },
+    {
+        "phrase": "巨钳蟹",
+        "input": [
+            "juqianxie",
+            "jvqianxie",
+            "jqx",
+            "kingler",
+            "kingura"
+        ]
+    },
+    {
+        "phrase": "霹雳电球",
+        "input": [
+            "pilidianqiu",
+            "pldq",
+            "leidianqiu",
+            "voltorb",
+            "biriridama"
+        ]
+    },
+    {
+        "phrase": "顽皮雷弹",
+        "input": [
+            "wanpileidan",
+            "wpld",
+            "wanpidan",
+            "electrode",
+            "marumain"
+        ]
+    },
+    {
+        "phrase": "蛋蛋",
+        "input": [
+            "dandan",
+            "dd",
+            "exeggcute",
+            "tamatama"
+        ]
+    },
+    {
+        "phrase": "椰蛋树",
+        "input": [
+            "yedanshu",
+            "yds",
+            "exeggutor",
+            "nasshi"
+        ]
+    },
+    {
+        "phrase": "卡拉卡拉",
+        "input": [
+            "kalakala",
+            "klkl",
+            "kelakela",
+            "cubone",
+            "karakara"
+        ]
+    },
+    {
+        "phrase": "嘎啦嘎啦",
+        "input": [
+            "galagala",
+            "glgl",
+            "marowak",
+            "garagara"
+        ]
+    },
+    {
+        "phrase": "飞腿郎",
+        "input": [
+            "feituilang",
+            "ftl",
+            "shawalang",
+            "hitmonlee",
+            "sawamura"
+        ]
+    },
+    {
+        "phrase": "快拳郎",
+        "input": [
+            "kuaiquanlang",
+            "kuaiqvanlang",
+            "kql",
+            "aibilang",
+            "hitmonchan",
+            "ebiwara"
+        ]
+    },
+    {
+        "phrase": "大舌头",
+        "input": [
+            "dashetou",
+            "dst",
+            "lickitung",
+            "beroringa"
+        ]
+    },
+    {
+        "phrase": "瓦斯弹",
+        "input": [
+            "wasidan",
+            "wsd",
+            "koffing",
+            "dogars"
+        ]
+    },
+    {
+        "phrase": "双弹瓦斯",
+        "input": [
+            "shuangdanwasi",
+            "sdws",
+            "weezing",
+            "matadogas"
+        ]
+    },
+    {
+        "phrase": "独角犀牛",
+        "input": [
+            "dujiaoxiniu",
+            "djxn",
+            "rhyhorn",
+            "sihorn"
+        ]
+    },
+    {
+        "phrase": "钻角犀兽",
+        "input": [
+            "zuanjiaoxishou",
+            "zjxs",
+            "rhydon",
+            "sidon"
+        ]
+    },
+    {
+        "phrase": "吉利蛋",
+        "input": [
+            "jilidan",
+            "jld",
+            "xiaodan",
+            "chansey",
+            "lucky"
+        ]
+    },
+    {
+        "phrase": "蔓藤怪",
+        "input": [
+            "tengmanguai",
+            "tmg",
+            "tangela",
+            "monjara"
+        ]
+    },
+    {
+        "phrase": "袋兽",
+        "input": [
+            "daishou",
+            "ds",
+            "laoda",
+            "kangaskhan",
+            "garura"
+        ]
+    },
+    {
+        "phrase": "墨海马",
+        "input": [
+            "mohaima",
+            "mhm",
+            "horsea",
+            "tattu"
+        ]
+    },
+    {
+        "phrase": "海刺龙",
+        "input": [
+            "haicilong",
+            "hcl",
+            "seadra"
+        ]
+    },
+    {
+        "phrase": "角金鱼",
+        "input": [
+            "jiaojinyu",
+            "jiaojinyv",
+            "jjy",
+            "goldeen",
+            "tosakinto"
+        ]
+    },
+    {
+        "phrase": "金鱼王",
+        "input": [
+            "jinyuwang",
+            "jinyvwang",
+            "jyw",
+            "seaking",
+            "azumao"
+        ]
+    },
+    {
+        "phrase": "海星星",
+        "input": [
+            "haixingxing",
+            "hxx",
+            "staryu",
+            "hitodeman"
+        ]
+    },
+    {
+        "phrase": "宝石海星",
+        "input": [
+            "baoshihaixing",
+            "bshx",
+            "starmie"
+        ]
+    },
+    {
+        "phrase": "魔墙人偶",
+        "input": [
+            "moqiangrenou",
+            "mqro",
+            "mrmime",
+            "barierd"
+        ]
+    },
+    {
+        "phrase": "飞天螳螂",
+        "input": [
+            "feitiantanglang",
+            "fttl",
+            "scyther",
+            "strike"
+        ]
+    },
+    {
+        "phrase": "迷唇姐",
+        "input": [
+            "michunjie",
+            "mcj",
+            "jynx",
+            "rougela"
+        ]
+    },
+    {
+        "phrase": "电击兽",
+        "input": [
+            "dianjishou",
+            "djs",
+            "electabuzz",
+            "eleboo"
+        ]
+    },
+    {
+        "phrase": "鸭嘴火兽",
+        "input": [
+            "yazuihuoshou",
+            "yzhs",
+            "yazuihuolong",
+            "magmar",
+            "boober"
+        ]
+    },
+    {
+        "phrase": "凯罗斯",
+        "input": [
+            "kailuosi",
+            "kls",
+            "dajia",
+            "pinsir",
+            "kailios"
+        ]
+    },
+    {
+        "phrase": "肯泰罗",
+        "input": [
+            "kentailuo",
+            "ktl",
+            "tauros",
+            "kentauros"
+        ]
+    },
+    {
+        "phrase": "鲤鱼王",
+        "input": [
+            "liyuwang",
+            "liyvwang",
+            "lyw",
+            "daxiongcan",
+            "magikarp",
+            "koiking"
+        ]
+    },
+    {
+        "phrase": "暴鲤龙",
+        "input": [
+            "baolilong",
+            "bll",
+            "gyarados"
+        ]
+    },
+    {
+        "phrase": "拉普拉斯",
+        "input": [
+            "lapulasi",
+            "lpls",
+            "chenglong",
+            "lapras",
+            "laplace"
+        ]
+    },
+    {
+        "phrase": "百变怪",
+        "input": [
+            "baibianguai",
+            "bbg",
+            "ditto",
+            "metamon"
+        ]
+    },
+    {
+        "phrase": "伊布",
+        "input": [
+            "yibu",
+            "yb",
+            "eevee",
+            "eievui"
+        ]
+    },
+    {
+        "phrase": "水伊布",
+        "input": [
+            "shuiyibu",
+            "syb",
+            "shuijingling",
+            "vaporeon",
+            "showers"
+        ]
+    },
+    {
+        "phrase": "雷伊布",
+        "input": [
+            "leiyibu",
+            "lyb",
+            "leijingling",
+            "jolteon",
+            "thunders"
+        ]
+    },
+    {
+        "phrase": "火伊布",
+        "input": [
+            "huoyibu",
+            "hyb",
+            "huojingling",
+            "weiyiwang",
+            "flareon",
+            "booster"
+        ]
+    },
+    {
+        "phrase": "多边兽",
+        "input": [
+            "duobianshou",
+            "dbs",
+            "sandlong",
+            "porygon"
+        ]
+    },
+    {
+        "phrase": "菊石兽",
+        "input": [
+            "jushishou",
+            "jvshishou",
+            "jss",
+            "omanyte",
+            "omnite"
+        ]
+    },
+    {
+        "phrase": "多刺菊石兽",
+        "input": [
+            "duocijushishou",
+            "duocijvshishou",
+            "dcjss",
+            "omastar",
+            "omstar"
+        ]
+    },
+    {
+        "phrase": "化石盔",
+        "input": [
+            "huashikui",
+            "hsk",
+            "kabuto"
+        ]
+    },
+    {
+        "phrase": "镰刀盔",
+        "input": [
+            "liandaokui",
+            "ldk",
+            "kabutops"
+        ]
+    },
+    {
+        "phrase": "化石翼龙",
+        "input": [
+            "huashiyilong",
+            "hsyl",
+            "aerodactyl",
+            "ptera"
+        ]
+    },
+    {
+        "phrase": "卡比兽",
+        "input": [
+            "kabishou",
+            "kbs",
+            "snorlax",
+            "kabigon"
+        ]
+    },
+    {
+        "phrase": "急冻鸟",
+        "input": [
+            "jidongniao",
+            "jdn",
+            "articuno",
+            "freezer"
+        ]
+    },
+    {
+        "phrase": "闪电鸟",
+        "input": [
+            "shandianniao",
+            "sdn",
+            "zapdos",
+            "thunder"
+        ]
+    },
+    {
+        "phrase": "火焰鸟",
+        "input": [
+            "huoyanniao",
+            "hyn",
+            "moltres",
+            "fire"
+        ]
+    },
+    {
+        "phrase": "迷你龙",
+        "input": [
+            "minilong",
+            "mnl",
+            "dratini",
+            "miniryu"
+        ]
+    },
+    {
+        "phrase": "哈克龙",
+        "input": [
+            "hakelong",
+            "hkl",
+            "dragonair",
+            "hakuryu"
+        ]
+    },
+    {
+        "phrase": "快龙",
+        "input": [
+            "kuailong",
+            "kl",
+            "feida",
+            "dragonite",
+            "kairyu"
+        ]
+    },
+    {
+        "phrase": "超梦",
+        "input": [
+            "chaomeng",
+            "cm",
+            "mewtwo"
+        ]
+    },
+    {
+        "phrase": "梦幻",
+        "input": [
+            "menghuan",
+            "mh",
+            "mew"
+        ]
+    },
+    {
+        "phrase": "菊草叶",
+        "input": [
+            "jucaoye",
+            "jvcaoye",
+            "jcy",
+            "chikorita",
+            "chikoriita"
+        ]
+    },
+    {
+        "phrase": "月桂叶",
+        "input": [
+            "yueguiye",
+            "yveguiye",
+            "ygy",
+            "bayleef",
+            "bayleaf"
+        ]
+    },
+    {
+        "phrase": "大竺葵",
+        "input": [
+            "dazhukui",
+            "dzk",
+            "dajuhua",
+            "dajvhua",
+            "meganium"
+        ]
+    },
+    {
+        "phrase": "火球鼠",
+        "input": [
+            "huoqiushu",
+            "hqs",
+            "cyndaquil",
+            "hinoarashi"
+        ]
+    },
+    {
+        "phrase": "火岩鼠",
+        "input": [
+            "huoyanshu",
+            "hys",
+            "lieyanshu",
+            "quilava",
+            "magmarashi"
+        ]
+    },
+    {
+        "phrase": "火暴兽",
+        "input": [
+            "huobaoshou",
+            "hbs",
+            "typhlosion",
+            "bakphoon"
+        ]
+    },
+    {
+        "phrase": "小锯鳄",
+        "input": [
+            "xiaojue",
+            "xiaojve",
+            "xje",
+            "totodile",
+            "waninoko"
+        ]
+    },
+    {
+        "phrase": "蓝鳄",
+        "input": [
+            "lane",
+            "croconaw",
+            "alligates"
+        ]
+    },
+    {
+        "phrase": "大力鳄",
+        "input": [
+            "dalie",
+            "dle",
+            "feraligatr",
+            "ordile"
+        ]
+    },
+    {
+        "phrase": "尾立",
+        "input": [
+            "weili",
+            "wl",
+            "sentret",
+            "otachi"
+        ]
+    },
+    {
+        "phrase": "大尾立",
+        "input": [
+            "daweili",
+            "dwl",
+            "furret",
+            "ootachi"
+        ]
+    },
+    {
+        "phrase": "咕咕",
+        "input": [
+            "gugu",
+            "hoothoot",
+            "hoho"
+        ]
+    },
+    {
+        "phrase": "猫头夜鹰",
+        "input": [
+            "maotouyeying",
+            "mtyy",
+            "noctowl",
+            "yorunozuku"
+        ]
+    },
+    {
+        "phrase": "芭瓢虫",
+        "input": [
+            "bapiaochong",
+            "bpc",
+            "ledyba",
+            "rediba"
+        ]
+    },
+    {
+        "phrase": "安瓢虫",
+        "input": [
+            "anpiaochong",
+            "apc",
+            "ledian",
+            "redian"
+        ]
+    },
+    {
+        "phrase": "圆丝蛛",
+        "input": [
+            "yuansizhu",
+            "yvansizhu",
+            "ysz",
+            "spinarak",
+            "itomaru"
+        ]
+    },
+    {
+        "phrase": "阿利多斯",
+        "input": [
+            "aliduosi",
+            "alds",
+            "ariados"
+        ]
+    },
+    {
+        "phrase": "叉字蝠",
+        "input": [
+            "chazifu",
+            "czf",
+            "crobat"
+        ]
+    },
+    {
+        "phrase": "灯笼鱼",
+        "input": [
+            "denglongyu",
+            "denglongyv",
+            "dly",
+            "chinchou",
+            "chonchie"
+        ]
+    },
+    {
+        "phrase": "电灯怪",
+        "input": [
+            "diandengguai",
+            "ddg",
+            "lanturn",
+            "lantern"
+        ]
+    },
+    {
+        "phrase": "皮丘",
+        "input": [
+            "piqiu",
+            "pichu"
+        ]
+    },
+    {
+        "phrase": "皮宝宝",
+        "input": [
+            "pibaobao",
+            "pbb",
+            "cleffa"
+        ]
+    },
+    {
+        "phrase": "宝宝丁",
+        "input": [
+            "baobaoding",
+            "bbd",
+            "igglybuff",
+            "pupurin"
+        ]
+    },
+    {
+        "phrase": "波克比",
+        "input": [
+            "bokebi",
+            "bkb",
+            "togepi",
+            "togepy"
+        ]
+    },
+    {
+        "phrase": "波克基古",
+        "input": [
+            "bokejigu",
+            "bkjg",
+            "togetic",
+            "togechick"
+        ]
+    },
+    {
+        "phrase": "天然雀",
+        "input": [
+            "tianranque",
+            "tianranqve",
+            "trq",
+            "natu",
+            "naty"
+        ]
+    },
+    {
+        "phrase": "天然鸟",
+        "input": [
+            "tianranniao",
+            "trn",
+            "xatu",
+            "natio"
+        ]
+    },
+    {
+        "phrase": "咩利羊",
+        "input": [
+            "mieliyang",
+            "mly",
+            "mareep",
+            "merriep"
+        ]
+    },
+    {
+        "phrase": "茸茸羊",
+        "input": [
+            "rongrongyang",
+            "rry",
+            "flaaffy",
+            "mokoko"
+        ]
+    },
+    {
+        "phrase": "电龙",
+        "input": [
+            "dianlong",
+            "dl",
+            "ampharos",
+            "denryu"
+        ]
+    },
+    {
+        "phrase": "美丽花",
+        "input": [
+            "meilihua",
+            "mlh",
+            "bellossom",
+            "kireihana"
+        ]
+    },
+    {
+        "phrase": "玛力露",
+        "input": [
+            "malilu",
+            "mll",
+            "shuishu",
+            "marill",
+            "maril"
+        ]
+    },
+    {
+        "phrase": "玛力露丽",
+        "input": [
+            "maliluli",
+            "mlll",
+            "tulongyongshi",
+            "azumarill",
+            "marilli"
+        ]
+    },
+    {
+        "phrase": "树才怪",
+        "input": [
+            "shucaiguai",
+            "scg",
+            "hushuoshu",
+            "sudowoodo",
+            "usokkie"
+        ]
+    },
+    {
+        "phrase": "蚊香蛙皇",
+        "input": [
+            "wenxiangwahuang",
+            "wxwh",
+            "wahuang",
+            "nyorotono",
+            "politoed"
+        ]
+    },
+    {
+        "phrase": "毽子草",
+        "input": [
+            "jianzicao",
+            "jzc",
+            "hoppip",
+            "hanecco"
+        ]
+    },
+    {
+        "phrase": "毽子花",
+        "input": [
+            "jianzihua",
+            "jzh",
+            "skiploom",
+            "popocco"
+        ]
+    },
+    {
+        "phrase": "毽子棉",
+        "input": [
+            "jianzimian",
+            "jzm",
+            "jumpluff",
+            "watacco"
+        ]
+    },
+    {
+        "phrase": "长尾怪手",
+        "input": [
+            "changweiguaishou",
+            "cwgs",
+            "aipom",
+            "eipam"
+        ]
+    },
+    {
+        "phrase": "向日种子",
+        "input": [
+            "xiangrizhongzi",
+            "xrzz",
+            "sunkern",
+            "himanuts"
+        ]
+    },
+    {
+        "phrase": "向日花怪",
+        "input": [
+            "xiangrihuaguai",
+            "xrhg",
+            "sunflora",
+            "kimawari"
+        ]
+    },
+    {
+        "phrase": "蜻蜻蜓",
+        "input": [
+            "qingqingting",
+            "qqt",
+            "yanma",
+            "yanyanma"
+        ]
+    },
+    {
+        "phrase": "乌波",
+        "input": [
+            "wubo",
+            "wb",
+            "wooper",
+            "upah"
+        ]
+    },
+    {
+        "phrase": "沼王",
+        "input": [
+            "zhaowang",
+            "zw",
+            "quagsire",
+            "nuoh"
+        ]
+    },
+    {
+        "phrase": "太阳伊布",
+        "input": [
+            "taiyangyibu",
+            "tyyb",
+            "taiyangjingling",
+            "guangbu",
+            "riyibu",
+            "rijingling",
+            "espeon",
+            "eifie"
+        ]
+    },
+    {
+        "phrase": "月亮伊布",
+        "input": [
+            "yueliangyibu",
+            "yveliangyibu",
+            "ylyb",
+            "yueliangjingling",
+            "yveliangjingling",
+            "yuebu",
+            "yvebu",
+            "yueyibu",
+            "yveyibu",
+            "yuejingling",
+            "yvejingling",
+            "umbreon",
+            "blacky"
+        ]
+    },
+    {
+        "phrase": "黑暗鸦",
+        "input": [
+            "heianya",
+            "hay",
+            "murkrow",
+            "yamikarasu"
+        ]
+    },
+    {
+        "phrase": "呆呆王",
+        "input": [
+            "daidaiwang",
+            "ddw",
+            "hemawang",
+            "slowking",
+            "yadoking"
+        ]
+    },
+    {
+        "phrase": "梦妖",
+        "input": [
+            "mengyao",
+            "my",
+            "misdreavus",
+            "muma"
+        ]
+    },
+    {
+        "phrase": "未知图腾",
+        "input": [
+            "weizhituteng",
+            "wztt",
+            "unown"
+        ]
+    },
+    {
+        "phrase": "果然翁",
+        "input": [
+            "guoranweng",
+            "grw",
+            "guoshen",
+            "wobbuffet",
+            "sonansu"
+        ]
+    },
+    {
+        "phrase": "麒麟奇",
+        "input": [
+            "qilinqi",
+            "qlq",
+            "girafarig",
+            "kirinriki"
+        ]
+    },
+    {
+        "phrase": "榛果球",
+        "input": [
+            "zhenguoqiu",
+            "zgq",
+            "pineco",
+            "kunugidama"
+        ]
+    },
+    {
+        "phrase": "佛烈托斯",
+        "input": [
+            "folietuosi",
+            "flts",
+            "forretress",
+            "foretos"
+        ]
+    },
+    {
+        "phrase": "土龙弟弟",
+        "input": [
+            "tulongdidi",
+            "tldd",
+            "dunsparce",
+            "nokocchi"
+        ]
+    },
+    {
+        "phrase": "天蝎",
+        "input": [
+            "tianxie",
+            "tx",
+            "gligar",
+            "gliger"
+        ]
+    },
+    {
+        "phrase": "大钢蛇",
+        "input": [
+            "dagangshe",
+            "dgs",
+            "steelix",
+            "haganeil"
+        ]
+    },
+    {
+        "phrase": "布鲁",
+        "input": [
+            "bulu",
+            "bl",
+            "bull",
+            "snubbull"
+        ]
+    },
+    {
+        "phrase": "布鲁皇",
+        "input": [
+            "buluhuang",
+            "blh",
+            "granbull"
+        ]
+    },
+    {
+        "phrase": "千针鱼",
+        "input": [
+            "qianzhenyu",
+            "qianzhenyv",
+            "qzy",
+            "qwilfish",
+            "harysen"
+        ]
+    },
+    {
+        "phrase": "巨钳螳螂",
+        "input": [
+            "juqiantanglang",
+            "jvqiantanglang",
+            "jqtl",
+            "scizor",
+            "hassam"
+        ]
+    },
+    {
+        "phrase": "壶壶",
+        "input": [
+            "huhu",
+            "hh",
+            "shuckle",
+            "tsubotsubo"
+        ]
+    },
+    {
+        "phrase": "赫拉克罗斯",
+        "input": [
+            "helakeluosi",
+            "hlkls",
+            "heracross",
+            "heracros"
+        ]
+    },
+    {
+        "phrase": "狃拉",
+        "input": [
+            "niula",
+            "nl",
+            "sneasel",
+            "nyula"
+        ]
+    },
+    {
+        "phrase": "熊宝宝",
+        "input": [
+            "xiongbaobao",
+            "xbb",
+            "teddiursa",
+            "himeguma"
+        ]
+    },
+    {
+        "phrase": "圈圈熊",
+        "input": [
+            "quanquanxiong",
+            "quanqvanxiong",
+            "qvanquanxiong",
+            "qvanqvanxiong",
+            "qqx",
+            "ursaring",
+            "ringuma"
+        ]
+    },
+    {
+        "phrase": "熔岩虫",
+        "input": [
+            "rongyanchong",
+            "ryc",
+            "slugma",
+            "magmag"
+        ]
+    },
+    {
+        "phrase": "熔岩蜗牛",
+        "input": [
+            "rongyanwoniu",
+            "rywn",
+            "magcargo",
+            "magcargot"
+        ]
+    },
+    {
+        "phrase": "小山猪",
+        "input": [
+            "xiaoshanzhu",
+            "xsz",
+            "swinub",
+            "urimu"
+        ]
+    },
+    {
+        "phrase": "长毛猪",
+        "input": [
+            "changmaozhu",
+            "cmz",
+            "piloswine",
+            "inomu"
+        ]
+    },
+    {
+        "phrase": "太阳珊瑚",
+        "input": [
+            "taiyangshanhu",
+            "tysh",
+            "corsola",
+            "sunnygo"
+        ]
+    },
+    {
+        "phrase": "铁炮鱼",
+        "input": [
+            "tiepaoyu",
+            "tiepaoyv",
+            "tpy",
+            "remoraid",
+            "teppouo"
+        ]
+    },
+    {
+        "phrase": "章鱼桶",
+        "input": [
+            "zhangyutong",
+            "zhangyvtong",
+            "zyt",
+            "octillery",
+            "okutank"
+        ]
+    },
+    {
+        "phrase": "信使鸟",
+        "input": [
+            "xinshiniao",
+            "xsn",
+            "delibird"
+        ]
+    },
+    {
+        "phrase": "巨翅飞鱼",
+        "input": [
+            "juchifeiyu",
+            "juchifeiyv",
+            "jvchifeiyu",
+            "jvchifeiyv",
+            "jcfy",
+            "mantine",
+            "mantain"
+        ]
+    },
+    {
+        "phrase": "盔甲鸟",
+        "input": [
+            "kuijianiao",
+            "kjn",
+            "gangniao",
+            "skarmory",
+            "airmd"
+        ]
+    },
+    {
+        "phrase": "戴鲁比",
+        "input": [
+            "dailubi",
+            "dlb",
+            "houndour",
+            "delvil"
+        ]
+    },
+    {
+        "phrase": "黑鲁加",
+        "input": [
+            "heilujia",
+            "hlj",
+            "houndoom",
+            "hellgar"
+        ]
+    },
+    {
+        "phrase": "刺龙王",
+        "input": [
+            "cilongwang",
+            "clw",
+            "longwang",
+            "kingdra"
+        ]
+    },
+    {
+        "phrase": "小小象",
+        "input": [
+            "xiaoxiaoxiang",
+            "xxx",
+            "phanpy",
+            "gomazou"
+        ]
+    },
+    {
+        "phrase": "顿甲",
+        "input": [
+            "dunjia",
+            "dj",
+            "donphan",
+            "donfan"
+        ]
+    },
+    {
+        "phrase": "多边兽2型",
+        "input": [
+            "duobianshouer",
+            "duobianshouerxing",
+            "dbse",
+            "dbsex",
+            "dbswx",
+            "duobianshouii",
+            "duobianshouw",
+            "sandlonger",
+            "sandlongii",
+            "sdle",
+            "sdlw",
+            "edle",
+            "edlw",
+            "porygonii",
+            "porygontwo"
+        ]
+    },
+    {
+        "phrase": "惊角鹿",
+        "input": [
+            "jingjiaolu",
+            "jjl",
+            "stantler",
+            "odoshishi"
+        ]
+    },
+    {
+        "phrase": "图图犬",
+        "input": [
+            "tutuquan",
+            "tutuqvan",
+            "ttq",
+            "huagou",
+            "smeargle",
+            "doble"
+        ]
+    },
+    {
+        "phrase": "无畏小子",
+        "input": [
+            "wuweixiaozi",
+            "wwxz",
+            "baerlang",
+            "tyrogue",
+            "balkie"
+        ]
+    },
+    {
+        "phrase": "战舞郎",
+        "input": [
+            "zhanwulang",
+            "zwl",
+            "kebolang",
+            "hitmontop",
+            "kapoerer"
+        ]
+    },
+    {
+        "phrase": "迷唇娃",
+        "input": [
+            "michunwa",
+            "mcw",
+            "smoochum",
+            "muchul"
+        ]
+    },
+    {
+        "phrase": "电击怪",
+        "input": [
+            "dianjiguai",
+            "djg",
+            "dianjixiaozi",
+            "elekid"
+        ]
+    },
+    {
+        "phrase": "鸭嘴宝宝",
+        "input": [
+            "yazuibaobao",
+            "yzbb",
+            "bubihuolong",
+            "magby",
+            "buby"
+        ]
+    },
+    {
+        "phrase": "大奶罐",
+        "input": [
+            "danaiguan",
+            "dng",
+            "miltank"
+        ]
+    },
+    {
+        "phrase": "幸福蛋",
+        "input": [
+            "xingfudan",
+            "xfd",
+            "dadan",
+            "blissey",
+            "happinas"
+        ]
+    },
+    {
+        "phrase": "雷公",
+        "input": [
+            "leigong",
+            "lg",
+            "raikou"
+        ]
+    },
+    {
+        "phrase": "炎帝",
+        "input": [
+            "yandi",
+            "yd",
+            "weiyishen",
+            "entei"
+        ]
+    },
+    {
+        "phrase": "水君",
+        "input": [
+            "shuijun",
+            "shuijvn",
+            "sj",
+            "suicune"
+        ]
+    },
+    {
+        "phrase": "幼基拉斯",
+        "input": [
+            "youjilasi",
+            "yjls",
+            "youjila",
+            "larvitar",
+            "yogiras"
+        ]
+    },
+    {
+        "phrase": "沙基拉斯",
+        "input": [
+            "shajilasi",
+            "sjls",
+            "shajila",
+            "pupitar",
+            "sanagiras"
+        ]
+    },
+    {
+        "phrase": "班基拉斯",
+        "input": [
+            "banjilasi",
+            "bjls",
+            "banjila",
+            "laoban",
+            "tyranitar",
+            "bangiras"
+        ]
+    },
+    {
+        "phrase": "洛奇亚",
+        "input": [
+            "luoqiya",
+            "lqy",
+            "yinniao",
+            "lugia",
+            "rugia"
+        ]
+    },
+    {
+        "phrase": "凤王",
+        "input": [
+            "fengwang",
+            "fw",
+            "jinniao",
+            "fenghuang",
+            "hooh",
+            "houou"
+        ]
+    },
+    {
+        "phrase": "时拉比",
+        "input": [
+            "shilabi",
+            "slb",
+            "xuelabi",
+            "xvelabi",
+            "celebi"
+        ]
+    },
+    {
+        "phrase": "木守宫",
+        "input": [
+            "mushougong",
+            "msg",
+            "treecko",
+            "kimori"
+        ]
+    },
+    {
+        "phrase": "森林蜥蜴",
+        "input": [
+            "senlinxiyi",
+            "slxy",
+            "grovyle",
+            "juptile"
+        ]
+    },
+    {
+        "phrase": "蜥蜴王",
+        "input": [
+            "xiyiwang",
+            "xyw",
+            "sceptile",
+            "jukain"
+        ]
+    },
+    {
+        "phrase": "火稚鸡",
+        "input": [
+            "huozhiji",
+            "hzj",
+            "torchic",
+            "achamo"
+        ]
+    },
+    {
+        "phrase": "力壮鸡",
+        "input": [
+            "lizhuangji",
+            "lzj",
+            "combusken",
+            "wakasyamo"
+        ]
+    },
+    {
+        "phrase": "火焰鸡",
+        "input": [
+            "huoyanji",
+            "hyj",
+            "blaziken",
+            "bursyamo"
+        ]
+    },
+    {
+        "phrase": "水跃鱼",
+        "input": [
+            "shuiyueyu",
+            "shuiyueyv",
+            "shuiyveyu",
+            "shuiyveyv",
+            "syy",
+            "mudkip",
+            "mizugorou"
+        ]
+    },
+    {
+        "phrase": "沼跃鱼",
+        "input": [
+            "zhaoyueyu",
+            "zhaoyueyv",
+            "zhaoyveyu",
+            "zhaoyveyv",
+            "zyy",
+            "marshtomp",
+            "numacraw"
+        ]
+    },
+    {
+        "phrase": "巨沼怪",
+        "input": [
+            "juzhaoguai",
+            "jvzhaoguai",
+            "jzg",
+            "swampert",
+            "laglarge"
+        ]
+    },
+    {
+        "phrase": "土狼犬",
+        "input": [
+            "tulangquan",
+            "tulangqvan",
+            "tlq",
+            "poochyena",
+            "pochiena"
+        ]
+    },
+    {
+        "phrase": "大狼犬",
+        "input": [
+            "dalangquan",
+            "dalangqvan",
+            "dlq",
+            "mightyena",
+            "guraena"
+        ]
+    },
+    {
+        "phrase": "蛇纹熊",
+        "input": [
+            "shewenxiong",
+            "swx",
+            "zigzagoon",
+            "jiguzaguma"
+        ]
+    },
+    {
+        "phrase": "直冲熊",
+        "input": [
+            "zhichongxiong",
+            "zcx",
+            "linoone",
+            "massuguma"
+        ]
+    },
+    {
+        "phrase": "刺尾虫",
+        "input": [
+            "ciweichong",
+            "cwc",
+            "wurmple",
+            "kemusso"
+        ]
+    },
+    {
+        "phrase": "甲壳茧",
+        "input": [
+            "jiakejian",
+            "jkj",
+            "silcoon",
+            "karasalis"
+        ]
+    },
+    {
+        "phrase": "狩猎凤蝶",
+        "input": [
+            "shouliefengdie",
+            "slfd",
+            "beautifly",
+            "agehunt"
+        ]
+    },
+    {
+        "phrase": "盾甲茧",
+        "input": [
+            "dunjijian",
+            "djj",
+            "cascoon",
+            "mayuld"
+        ]
+    },
+    {
+        "phrase": "毒粉蛾",
+        "input": [
+            "dufene",
+            "dfe",
+            "dustox",
+            "dokucale"
+        ]
+    },
+    {
+        "phrase": "莲叶童子",
+        "input": [
+            "lianyetongzi",
+            "lytz",
+            "lotad",
+            "hassboh"
+        ]
+    },
+    {
+        "phrase": "莲帽小童",
+        "input": [
+            "lianmaoxiaotong",
+            "lmxt",
+            "lombre",
+            "hasubrero"
+        ]
+    },
+    {
+        "phrase": "乐天河童",
+        "input": [
+            "letianhetong",
+            "ltht",
+            "yashen",
+            "ludicolo",
+            "runpappa"
+        ]
+    },
+    {
+        "phrase": "橡实果",
+        "input": [
+            "xiangshiguo",
+            "xsg",
+            "seedot",
+            "taneboh"
+        ]
+    },
+    {
+        "phrase": "长鼻叶",
+        "input": [
+            "changbiye",
+            "cby",
+            "nuzleaf",
+            "konohana"
+        ]
+    },
+    {
+        "phrase": "狡猾天狗",
+        "input": [
+            "jiaohuatiangou",
+            "jhtg",
+            "shiftry",
+            "dirteng"
+        ]
+    },
+    {
+        "phrase": "傲骨燕",
+        "input": [
+            "aoguyan",
+            "agy",
+            "taillow",
+            "subame"
+        ]
+    },
+    {
+        "phrase": "大王燕",
+        "input": [
+            "dawangyan",
+            "dwy",
+            "swellow",
+            "ohsubame"
+        ]
+    },
+    {
+        "phrase": "长翅鸥",
+        "input": [
+            "changchiou",
+            "cco",
+            "wingull",
+            "camome"
+        ]
+    },
+    {
+        "phrase": "大嘴鸥",
+        "input": [
+            "dazuiou",
+            "dzo",
+            "pelipper"
+        ]
+    },
+    {
+        "phrase": "拉鲁拉丝",
+        "input": [
+            "lalulasi",
+            "llls",
+            "ralts"
+        ]
+    },
+    {
+        "phrase": "奇鲁莉安",
+        "input": [
+            "qilulian",
+            "qlla",
+            "kirlia"
+        ]
+    },
+    {
+        "phrase": "沙奈朵",
+        "input": [
+            "shanaiduo",
+            "snd",
+            "chaonengnvwang",
+            "gardevoir",
+            "sirknight"
+        ]
+    },
+    {
+        "phrase": "溜溜糖球",
+        "input": [
+            "liuliutangqiu",
+            "lltq",
+            "surskit",
+            "ametama"
+        ]
+    },
+    {
+        "phrase": "雨翅蛾",
+        "input": [
+            "yuchie",
+            "yvchie",
+            "yce",
+            "masquerain",
+            "amemoth"
+        ]
+    },
+    {
+        "phrase": "蘑蘑菇",
+        "input": [
+            "momogu",
+            "mmg",
+            "shroomish",
+            "kinococo"
+        ]
+    },
+    {
+        "phrase": "斗笠菇",
+        "input": [
+            "douligu",
+            "dlg",
+            "breloom",
+            "kinogassa"
+        ]
+    },
+    {
+        "phrase": "懒人獭",
+        "input": [
+            "lanrenta",
+            "lrt",
+            "slakoth",
+            "namakero"
+        ]
+    },
+    {
+        "phrase": "过动猿",
+        "input": [
+            "guodongyuan",
+            "guodongyvan",
+            "gdy",
+            "vigoroth",
+            "yarukimo"
+        ]
+    },
+    {
+        "phrase": "请假王",
+        "input": [
+            "qingjiawang",
+            "qjw",
+            "slaking",
+            "sekking"
+        ]
+    },
+    {
+        "phrase": "土居忍士",
+        "input": [
+            "tujurenshi",
+            "tujvrenshi",
+            "tjrs",
+            "nincada",
+            "tutinin"
+        ]
+    },
+    {
+        "phrase": "铁面忍者",
+        "input": [
+            "tiemianrenzhe",
+            "tmrz",
+            "ninjask",
+            "tekkanin"
+        ]
+    },
+    {
+        "phrase": "脱壳忍者",
+        "input": [
+            "tuokerenzhe",
+            "tuoqiaorenzhe",
+            "tkrz",
+            "tqrz",
+            "guichan",
+            "shedinja",
+            "nukenin"
+        ]
+    },
+    {
+        "phrase": "咕妞妞",
+        "input": [
+            "guniuniu",
+            "gnn",
+            "whismur",
+            "gonyonyo"
+        ]
+    },
+    {
+        "phrase": "吼爆弹",
+        "input": [
+            "houbaodan",
+            "hbd",
+            "loudred",
+            "dogohmb"
+        ]
+    },
+    {
+        "phrase": "爆音怪",
+        "input": [
+            "baoyinguai",
+            "byg",
+            "exploud",
+            "bakuong"
+        ]
+    },
+    {
+        "phrase": "幕下力士",
+        "input": [
+            "muxialishi",
+            "mxls",
+            "makuhita",
+            "makunoshita"
+        ]
+    },
+    {
+        "phrase": "铁掌力士",
+        "input": [
+            "tiezhanglishi",
+            "tzls",
+            "chaoliwang",
+            "hariyama",
+            "hariteyama"
+        ]
+    },
+    {
+        "phrase": "露力丽",
+        "input": [
+            "lulili",
+            "lll",
+            "azurill",
+            "ruriri"
+        ]
+    },
+    {
+        "phrase": "朝北鼻",
+        "input": [
+            "chaobeibi",
+            "cbb",
+            "zhaobeibi",
+            "lixingguai",
+            "nosepass"
+        ]
+    },
+    {
+        "phrase": "向尾喵",
+        "input": [
+            "xiangweimiao",
+            "xwm",
+            "skitty",
+            "eneco"
+        ]
+    },
+    {
+        "phrase": "优雅猫",
+        "input": [
+            "youyamao",
+            "yym",
+            "delcatty",
+            "enekororo"
+        ]
+    },
+    {
+        "phrase": "勾魂眼",
+        "input": [
+            "gouhunyan",
+            "ghy",
+            "sableye",
+            "yamirami"
+        ]
+    },
+    {
+        "phrase": "大嘴娃",
+        "input": [
+            "dazuiwa",
+            "dzw",
+            "mawile",
+            "kucheat"
+        ]
+    },
+    {
+        "phrase": "超级大嘴娃",
+        "input": [
+            "shuangmawei"
+        ]
+    },
+    {
+        "phrase": "可可多拉",
+        "input": [
+            "kekeduola",
+            "kkdl",
+            "aron",
+            "cokodora"
+        ]
+    },
+    {
+        "phrase": "可多拉",
+        "input": [
+            "keduola",
+            "kdl",
+            "lairon",
+            "kodora"
+        ]
+    },
+    {
+        "phrase": "波士可多拉",
+        "input": [
+            "boshikeduola",
+            "bskdl",
+            "aggron",
+            "bossgodora"
+        ]
+    },
+    {
+        "phrase": "玛沙那",
+        "input": [
+            "mashana",
+            "msn",
+            "meditite",
+            "asanan"
+        ]
+    },
+    {
+        "phrase": "恰雷姆",
+        "input": [
+            "qialeimu",
+            "qlm",
+            "medicham",
+            "charem"
+        ]
+    },
+    {
+        "phrase": "超级恰雷姆",
+        "input": [
+            "asan"
+        ]
+    },
+    {
+        "phrase": "落雷兽",
+        "input": [
+            "luoleishou",
+            "lls",
+            "luoleigou",
+            "electrike",
+            "rakurai"
+        ]
+    },
+    {
+        "phrase": "雷电兽",
+        "input": [
+            "leidianshou",
+            "lds",
+            "leidiangou",
+            "manectric",
+            "livolt"
+        ]
+    },
+    {
+        "phrase": "正电拍拍",
+        "input": [
+            "zhengdianpaipai",
+            "zdpp",
+            "plusle",
+            "prasle"
+        ]
+    },
+    {
+        "phrase": "负电拍拍",
+        "input": [
+            "fudianpaipai",
+            "fdpp",
+            "minun"
+        ]
+    },
+    {
+        "phrase": "电萤虫",
+        "input": [
+            "dianyingchong",
+            "dyc",
+            "volbeat",
+            "barubeat"
+        ]
+    },
+    {
+        "phrase": "甜甜萤",
+        "input": [
+            "tiantianying",
+            "tty",
+            "illumise"
+        ]
+    },
+    {
+        "phrase": "毒蔷薇",
+        "input": [
+            "duqiangwei",
+            "dqw",
+            "roselia"
+        ]
+    },
+    {
+        "phrase": "溶食兽",
+        "input": [
+            "rongshishou",
+            "rss",
+            "gulpin",
+            "gokulin"
+        ]
+    },
+    {
+        "phrase": "吞食兽",
+        "input": [
+            "tunshishou",
+            "tss",
+            "swalot",
+            "marunoom"
+        ]
+    },
+    {
+        "phrase": "利牙鱼",
+        "input": [
+            "liyayu",
+            "liyayv",
+            "lyy",
+            "carvanha",
+            "kibania"
+        ]
+    },
+    {
+        "phrase": "巨牙鲨",
+        "input": [
+            "juyasha",
+            "jvyasha",
+            "jys",
+            "sharpedo",
+            "samehader"
+        ]
+    },
+    {
+        "phrase": "吼吼鲸",
+        "input": [
+            "houhoujing",
+            "hhj",
+            "wailmer",
+            "whalko"
+        ]
+    },
+    {
+        "phrase": "吼鲸王",
+        "input": [
+            "houjingwang",
+            "hjw",
+            "wailord",
+            "whaloh"
+        ]
+    },
+    {
+        "phrase": "呆火驼",
+        "input": [
+            "daihuotuo",
+            "dht",
+            "numel",
+            "donmel"
+        ]
+    },
+    {
+        "phrase": "喷火驼",
+        "input": [
+            "penghuotuo",
+            "pht",
+            "camerupt",
+            "bakuuda"
+        ]
+    },
+    {
+        "phrase": "煤炭龟",
+        "input": [
+            "meitangui",
+            "mtg",
+            "torkoal",
+            "cotoise"
+        ]
+    },
+    {
+        "phrase": "跳跳猪",
+        "input": [
+            "tiaotiaozhu",
+            "ttz",
+            "spoink",
+            "banebu"
+        ]
+    },
+    {
+        "phrase": "噗噗猪",
+        "input": [
+            "pupuzhu",
+            "ppz",
+            "grumpig",
+            "bupig"
+        ]
+    },
+    {
+        "phrase": "晃晃斑",
+        "input": [
+            "huanghuangban",
+            "hhb",
+            "spinda",
+            "patchee"
+        ]
+    },
+    {
+        "phrase": "大颚蚁",
+        "input": [
+            "daeyi",
+            "dey",
+            "trapinch",
+            "nuckrar"
+        ]
+    },
+    {
+        "phrase": "超音波幼虫",
+        "input": [
+            "chaoyinboyouchong",
+            "cybyc",
+            "chaoshengboyouchong",
+            "vibrava"
+        ]
+    },
+    {
+        "phrase": "沙漠蜻蜓",
+        "input": [
+            "shamoqingting",
+            "smqt",
+            "qingtinglong",
+            "flygon"
+        ]
+    },
+    {
+        "phrase": "刺球仙人掌",
+        "input": [
+            "ciqiuxianrenzhang",
+            "cqxrz",
+            "cacnea",
+            "sabonea"
+        ]
+    },
+    {
+        "phrase": "梦歌仙人掌",
+        "input": [
+            "menggexianrenzhang",
+            "mgxrz",
+            "cacturne",
+            "noctus"
+        ]
+    },
+    {
+        "phrase": "青绵鸟",
+        "input": [
+            "qingmianniao",
+            "qmn",
+            "swablu",
+            "tyltto"
+        ]
+    },
+    {
+        "phrase": "七夕青鸟",
+        "input": [
+            "qixiqingniao",
+            "qxqn",
+            "longzupantu",
+            "altaria",
+            "tyltalis"
+        ]
+    },
+    {
+        "phrase": "猫鼬斩",
+        "input": [
+            "maoyouzhan",
+            "myz",
+            "zangoose"
+        ]
+    },
+    {
+        "phrase": "饭匙蛇",
+        "input": [
+            "fanshishe",
+            "fss",
+            "fanchishe",
+            "fcs",
+            "seviper",
+            "habunake"
+        ]
+    },
+    {
+        "phrase": "月石",
+        "input": [
+            "yueshi",
+            "yveshi",
+            "ys",
+            "lunatone"
+        ]
+    },
+    {
+        "phrase": "太阳岩",
+        "input": [
+            "taiyangyan",
+            "tyy",
+            "solrock"
+        ]
+    },
+    {
+        "phrase": "泥泥鳅",
+        "input": [
+            "niniqiu",
+            "nnq",
+            "barboach",
+            "dojoach"
+        ]
+    },
+    {
+        "phrase": "鲶鱼王",
+        "input": [
+            "nianyuwang",
+            "nianyvwang",
+            "nyw",
+            "whiscash",
+            "namazun"
+        ]
+    },
+    {
+        "phrase": "龙虾小兵",
+        "input": [
+            "longxiaxiaobing",
+            "lxxb",
+            "corphish",
+            "heigani"
+        ]
+    },
+    {
+        "phrase": "铁螯龙虾",
+        "input": [
+            "tieaolongxia",
+            "talx",
+            "crawdaunt",
+            "shizariger"
+        ]
+    },
+    {
+        "phrase": "天秤偶",
+        "input": [
+            "tianchengou",
+            "tco",
+            "baltoy",
+            "yajilon"
+        ]
+    },
+    {
+        "phrase": "念力土偶",
+        "input": [
+            "nianlituou",
+            "nlto",
+            "nendoll",
+            "eclaydol"
+        ]
+    },
+    {
+        "phrase": "触手百合",
+        "input": [
+            "chushoubaihe",
+            "csbh",
+            "lileep",
+            "lilyla"
+        ]
+    },
+    {
+        "phrase": "摇篮百合",
+        "input": [
+            "yaolanbaihe",
+            "ylbh",
+            "cradily",
+            "yuradle"
+        ]
+    },
+    {
+        "phrase": "太古羽虫",
+        "input": [
+            "taiguyuchong",
+            "taiguyvchong",
+            "tgyc",
+            "anorith",
+            "anopth"
+        ]
+    },
+    {
+        "phrase": "太古盔甲",
+        "input": [
+            "taigukuijia",
+            "tgkj",
+            "armaldo"
+        ]
+    },
+    {
+        "phrase": "丑丑鱼",
+        "input": [
+            "chouchouyu",
+            "chouchouyv",
+            "ccy",
+            "feebas",
+            "hinbass"
+        ]
+    },
+    {
+        "phrase": "美纳斯",
+        "input": [
+            "meinasi",
+            "mns",
+            "milotic",
+            "milokaross"
+        ]
+    },
+    {
+        "phrase": "飘浮泡泡",
+        "input": [
+            "piaofupaopao",
+            "pfpp",
+            "castform",
+            "powalen"
+        ]
+    },
+    {
+        "phrase": "变隐龙",
+        "input": [
+            "bianyinlong",
+            "byl",
+            "kecleon",
+            "kakureon"
+        ]
+    },
+    {
+        "phrase": "怨影娃娃",
+        "input": [
+            "yuanyingwawa",
+            "yvanyingwawa",
+            "yyww",
+            "shuppet",
+            "kagebouzu"
+        ]
+    },
+    {
+        "phrase": "诅咒娃娃",
+        "input": [
+            "zuzhouwawa",
+            "zzww",
+            "banette",
+            "juppeta"
+        ]
+    },
+    {
+        "phrase": "夜巡灵",
+        "input": [
+            "yexunling",
+            "yexvnling",
+            "yxl",
+            "duskull",
+            "yomawaru",
+            "yejuren",
+            "yejvren"
+        ]
+    },
+    {
+        "phrase": "彷徨夜灵",
+        "input": [
+            "panghuangyeling",
+            "phyl",
+            "dusclops",
+            "samayouru"
+        ]
+    },
+    {
+        "phrase": "热带龙",
+        "input": [
+            "redailong",
+            "rdl",
+            "tropius"
+        ]
+    },
+    {
+        "phrase": "阿勃梭鲁",
+        "input": [
+            "abosuolu",
+            "absl",
+            "zaishou",
+            "absol"
+        ]
+    },
+    {
+        "phrase": "小果然",
+        "input": [
+            "xiaoguoran",
+            "xgr",
+            "guoranzai",
+            "wynaut",
+            "sohnano"
+        ]
+    },
+    {
+        "phrase": "雪童子",
+        "input": [
+            "xuetongzi",
+            "xvetongzi",
+            "xtz",
+            "snorunt",
+            "yukiwarashi"
+        ]
+    },
+    {
+        "phrase": "冰鬼护",
+        "input": [
+            "bingguihu",
+            "bgh",
+            "glalie",
+            "onigohri"
+        ]
+    },
+    {
+        "phrase": "海豹球",
+        "input": [
+            "haibaoqiu",
+            "hbq",
+            "spheal",
+            "tamazarashi"
+        ]
+    },
+    {
+        "phrase": "海魔狮",
+        "input": [
+            "haimoshi",
+            "hms",
+            "sealeo",
+            "todoggler"
+        ]
+    },
+    {
+        "phrase": "帝牙海狮",
+        "input": [
+            "diyahaishi",
+            "dyhs",
+            "walrein",
+            "todoseruga"
+        ]
+    },
+    {
+        "phrase": "珍珠贝",
+        "input": [
+            "zhenzhubei",
+            "zzb",
+            "clamperl",
+            "pearlulu"
+        ]
+    },
+    {
+        "phrase": "猎斑鱼",
+        "input": [
+            "liebanyu",
+            "liebanyv",
+            "lby",
+            "huntail"
+        ]
+    },
+    {
+        "phrase": "樱花鱼",
+        "input": [
+            "yinghuayu",
+            "yinghuayv",
+            "yhy",
+            "gorebyss",
+            "sakurabyss"
+        ]
+    },
+    {
+        "phrase": "古空棘鱼",
+        "input": [
+            "gukongjiyu",
+            "gukongjiyv",
+            "gkjy",
+            "relicanth",
+            "glanth"
+        ]
+    },
+    {
+        "phrase": "爱心鱼",
+        "input": [
+            "aixinyu",
+            "aixinyv",
+            "axy",
+            "luvdisc",
+            "lovecus"
+        ]
+    },
+    {
+        "phrase": "宝贝龙",
+        "input": [
+            "baobeilong",
+            "bbl",
+            "bagon",
+            "tatsubay"
+        ]
+    },
+    {
+        "phrase": "甲壳龙",
+        "input": [
+            "jiakelong",
+            "jkl",
+            "shelgon",
+            "komoruu"
+        ]
+    },
+    {
+        "phrase": "暴飞龙",
+        "input": [
+            "baofeilong",
+            "bfl",
+            "baorongyuan",
+            "baorongyvan",
+            "xueyifeilong",
+            "xveyifeilong",
+            "salamence",
+            "bohmander"
+        ]
+    },
+    {
+        "phrase": "铁哑铃",
+        "input": [
+            "tieyaling",
+            "tyl",
+            "beldum",
+            "bumbber"
+        ]
+    },
+    {
+        "phrase": "金属怪",
+        "input": [
+            "jinshuguai",
+            "jsg",
+            "metang"
+        ]
+    },
+    {
+        "phrase": "巨金怪",
+        "input": [
+            "jujinguai",
+            "jvjinguai",
+            "jjg",
+            "metagross"
+        ]
+    },
+    {
+        "phrase": "雷吉洛克",
+        "input": [
+            "leijiluoke",
+            "ljlk",
+            "shishenzhu",
+            "shimatong",
+            "yanshenzhu",
+            "yanmatong",
+            "regirock"
+        ]
+    },
+    {
+        "phrase": "雷吉艾斯",
+        "input": [
+            "leijiaisi",
+            "ljas",
+            "bingshenzhu",
+            "bingmatong",
+            "regice"
+        ]
+    },
+    {
+        "phrase": "雷吉斯奇鲁",
+        "input": [
+            "leijisiqilu",
+            "ljsql",
+            "gangshenzhu",
+            "gangmatong",
+            "registeel"
+        ]
+    },
+    {
+        "phrase": "拉帝亚斯",
+        "input": [
+            "ladiyasi",
+            "ldys",
+            "hongshuidu",
+            "hongfeiji",
+            "latias"
+        ]
+    },
+    {
+        "phrase": "拉帝欧斯",
+        "input": [
+            "ladiousi",
+            "ldos",
+            "lanshuidu",
+            "lanfeiji",
+            "latios"
+        ]
+    },
+    {
+        "phrase": "盖欧卡",
+        "input": [
+            "gaiouka",
+            "gok",
+            "haihuangya",
+            "qiqishou",
+            "kyogre",
+            "kaiorga"
+        ]
+    },
+    {
+        "phrase": "固拉多",
+        "input": [
+            "guladuo",
+            "gld",
+            "gulaguai",
+            "groudon"
+        ]
+    },
+    {
+        "phrase": "烈空坐",
+        "input": [
+            "liekongzuo",
+            "lkz",
+            "mumushou",
+            "rayquaza"
+        ]
+    },
+    {
+        "phrase": "基拉祈",
+        "input": [
+            "jilaqi",
+            "jlq",
+            "xuyuanxing",
+            "xvyvanxing",
+            "jirachi"
+        ]
+    },
+    {
+        "phrase": "代欧奇希斯",
+        "input": [
+            "daiouqixisi",
+            "doqxs",
+            "waixingren",
+            "dna",
+            "deoxys"
+        ]
+    },
+    {
+        "phrase": "草苗龟",
+        "input": [
+            "caomiaogui",
+            "cmg",
+            "nenmiaogui",
+            "turtwig",
+            "naetle"
+        ]
+    },
+    {
+        "phrase": "树林龟",
+        "input": [
+            "shulingui",
+            "slg",
+            "grotle",
+            "hayashigame"
+        ]
+    },
+    {
+        "phrase": "土台龟",
+        "input": [
+            "tutaigui",
+            "ttg",
+            "torterra",
+            "dodaitose"
+        ]
+    },
+    {
+        "phrase": "小火焰猴",
+        "input": [
+            "xiaohuoyanhou",
+            "xhyh",
+            "xiaohuohou",
+            "chimchar",
+            "hikozaru"
+        ]
+    },
+    {
+        "phrase": "猛火猴",
+        "input": [
+            "menghuohou",
+            "mhh",
+            "monferno",
+            "moukazaru"
+        ]
+    },
+    {
+        "phrase": "烈焰猴",
+        "input": [
+            "lieyanhou",
+            "lyh",
+            "dashixiong",
+            "infernape",
+            "goukazaru"
+        ]
+    },
+    {
+        "phrase": "波加曼",
+        "input": [
+            "bojiaman",
+            "bjm",
+            "yuanqie",
+            "yvanqie",
+            "piplup",
+            "pochama"
+        ]
+    },
+    {
+        "phrase": "波皇子",
+        "input": [
+            "bohuangzi",
+            "bhz",
+            "taiziqie",
+            "huangziqie",
+            "prinplup",
+            "pottaishi"
+        ]
+    },
+    {
+        "phrase": "帝王拿波",
+        "input": [
+            "diwangnabo",
+            "dwnb",
+            "gangdiqie",
+            "empoleon",
+            "emperte"
+        ]
+    },
+    {
+        "phrase": "姆克儿",
+        "input": [
+            "mukeer",
+            "mke",
+            "mker",
+            "pangpangliang",
+            "starly",
+            "mukkuru"
+        ]
+    },
+    {
+        "phrase": "姆克鸟",
+        "input": [
+            "mukeniao",
+            "mkn",
+            "liangniao",
+            "staravia",
+            "mukubird"
+        ]
+    },
+    {
+        "phrase": "姆克鹰",
+        "input": [
+            "mukeying",
+            "mky",
+            "liangying",
+            "faxingniao",
+            "staraptor",
+            "mukuhawk"
+        ]
+    },
+    {
+        "phrase": "大牙狸",
+        "input": [
+            "dayali",
+            "dyl",
+            "bidoof",
+            "bippa"
+        ]
+    },
+    {
+        "phrase": "大尾狸",
+        "input": [
+            "daweili",
+            "dwl",
+            "bibarel",
+            "beadaru"
+        ]
+    },
+    {
+        "phrase": "圆法师",
+        "input": [
+            "yuanfashi",
+            "yvanfashi",
+            "yfs",
+            "kricketot",
+            "koroboshi"
+        ]
+    },
+    {
+        "phrase": "音箱蟀",
+        "input": [
+            "yinxiangshuai",
+            "yxs",
+            "kricketune",
+            "korotock"
+        ]
+    },
+    {
+        "phrase": "小猫怪",
+        "input": [
+            "xiaomaoguai",
+            "xmg",
+            "shinx",
+            "kolink"
+        ]
+    },
+    {
+        "phrase": "勒克猫",
+        "input": [
+            "lekemao",
+            "lkm",
+            "luxio"
+        ]
+    },
+    {
+        "phrase": "伦琴猫",
+        "input": [
+            "lunqinmao",
+            "lqm",
+            "luxray",
+            "rentorar"
+        ]
+    },
+    {
+        "phrase": "含羞苞",
+        "input": [
+            "hanxiubao",
+            "hxb",
+            "budew",
+            "subomie"
+        ]
+    },
+    {
+        "phrase": "罗丝雷朵",
+        "input": [
+            "luosileiduo",
+            "lsld",
+            "roserade"
+        ]
+    },
+    {
+        "phrase": "头盖龙",
+        "input": [
+            "tougailong",
+            "tgl",
+            "cranidos",
+            "zugaidos"
+        ]
+    },
+    {
+        "phrase": "战槌龙",
+        "input": [
+            "zhanchuilong",
+            "zcl",
+            "rampardos",
+            "rampald"
+        ]
+    },
+    {
+        "phrase": "盾甲龙",
+        "input": [
+            "dunjialong",
+            "djl",
+            "shieldon",
+            "tatetops"
+        ]
+    },
+    {
+        "phrase": "护城龙",
+        "input": [
+            "huchenglong",
+            "hcl",
+            "bastiodon",
+            "torideps"
+        ]
+    },
+    {
+        "phrase": "结草儿",
+        "input": [
+            "jiecaoer",
+            "jce",
+            "jcer",
+            "burmy",
+            "minomutchi"
+        ]
+    },
+    {
+        "phrase": "结草贵妇",
+        "input": [
+            "jiecaoguifu",
+            "jcgf",
+            "wormadam",
+            "minomadam"
+        ]
+    },
+    {
+        "phrase": "绅士蛾",
+        "input": [
+            "shenshie",
+            "sse",
+            "mothim",
+            "gamale"
+        ]
+    },
+    {
+        "phrase": "三蜜蜂",
+        "input": [
+            "sanmifeng",
+            "smf",
+            "combee",
+            "mitsuhoney"
+        ]
+    },
+    {
+        "phrase": "蜂女王",
+        "input": [
+            "fengnvwang",
+            "fnw",
+            "vespiquen",
+            "beequen"
+        ]
+    },
+    {
+        "phrase": "帕奇利兹",
+        "input": [
+            "paqilizi",
+            "pqlz",
+            "baiseemo",
+            "pachirisu"
+        ]
+    },
+    {
+        "phrase": "泳圈鼬",
+        "input": [
+            "yongquanyou",
+            "yongqvanyou",
+            "yqy",
+            "yongqiyou",
+            "buizel",
+            "buoysel"
+        ]
+    },
+    {
+        "phrase": "浮潜鼬",
+        "input": [
+            "fuqianyou",
+            "fqy",
+            "floatzel",
+            "flowsel"
+        ]
+    },
+    {
+        "phrase": "樱花宝",
+        "input": [
+            "yinghuabao",
+            "yhb",
+            "cherubi",
+            "cherinbo"
+        ]
+    },
+    {
+        "phrase": "樱花儿",
+        "input": [
+            "yinghuaer",
+            "yhe",
+            "yher",
+            "cherrim"
+        ]
+    },
+    {
+        "phrase": "无壳海兔",
+        "input": [
+            "wukehaitu",
+            "wkht",
+            "wukehainiu",
+            "shellos",
+            "karanakushi"
+        ]
+    },
+    {
+        "phrase": "海兔兽",
+        "input": [
+            "haitushou",
+            "hts",
+            "haitu",
+            "hainiushou",
+            "gastrodon",
+            "tritodon"
+        ]
+    },
+    {
+        "phrase": "双尾怪手",
+        "input": [
+            "shuangweiguaishou",
+            "swgs",
+            "ambipom",
+            "eteboth"
+        ]
+    },
+    {
+        "phrase": "飘飘球",
+        "input": [
+            "piaopiaoqiu",
+            "ppq",
+            "piaopiaoqiqiu",
+            "drifloon",
+            "fuwante"
+        ]
+    },
+    {
+        "phrase": "随风球",
+        "input": [
+            "suifengqiu",
+            "sfq",
+            "drifblim",
+            "fuwaride"
+        ]
+    },
+    {
+        "phrase": "卷卷耳",
+        "input": [
+            "juanjuaner",
+            "juanjvaner",
+            "jvanjuaner",
+            "jvanjvaner",
+            "jje",
+            "jjer",
+            "buneary",
+            "mimirol"
+        ]
+    },
+    {
+        "phrase": "长耳兔",
+        "input": [
+            "changertu",
+            "cet",
+            "lopunny",
+            "mimilop"
+        ]
+    },
+    {
+        "phrase": "梦妖魔",
+        "input": [
+            "mengyaomo",
+            "mym",
+            "mismagius",
+            "mumargi"
+        ]
+    },
+    {
+        "phrase": "乌鸦头头",
+        "input": [
+            "wuyatoutou",
+            "wytt",
+            "honchkrow",
+            "donkarasu"
+        ]
+    },
+    {
+        "phrase": "魅力喵",
+        "input": [
+            "meilimiao",
+            "mlm",
+            "glameow",
+            "nyarmar"
+        ]
+    },
+    {
+        "phrase": "东施喵",
+        "input": [
+            "dongshimiao",
+            "dsm",
+            "purugly",
+            "bunyatto"
+        ]
+    },
+    {
+        "phrase": "铃铛响",
+        "input": [
+            "lingdangxiang",
+            "ldx",
+            "chingling",
+            "lisyan"
+        ]
+    },
+    {
+        "phrase": "臭鼬噗",
+        "input": [
+            "chouyoupu",
+            "cyp",
+            "stunky",
+            "skunpoo"
+        ]
+    },
+    {
+        "phrase": "坦克臭鼬",
+        "input": [
+            "tankechouyou",
+            "tkcy",
+            "skuntank",
+            "skutank"
+        ]
+    },
+    {
+        "phrase": "铜镜怪",
+        "input": [
+            "tongjingguai",
+            "tjg",
+            "bronzor",
+            "dohmirror"
+        ]
+    },
+    {
+        "phrase": "青铜钟",
+        "input": [
+            "qingtongzhong",
+            "qtz",
+            "gangzhong",
+            "bronzong",
+            "dohtakun"
+        ]
+    },
+    {
+        "phrase": "盆才怪",
+        "input": [
+            "pencaiguai",
+            "pcg",
+            "hushuopenzai",
+            "bonsly",
+            "usohachi"
+        ]
+    },
+    {
+        "phrase": "魔尼尼",
+        "input": [
+            "monini",
+            "mnn",
+            "mime",
+            "manene"
+        ]
+    },
+    {
+        "phrase": "小福蛋",
+        "input": [
+            "xiaofudan",
+            "xfd",
+            "happiny",
+            "pinpuku"
+        ]
+    },
+    {
+        "phrase": "聒噪鸟",
+        "input": [
+            "guozaoniao",
+            "gzn",
+            "yinfuyingwu",
+            "chatot",
+            "perap"
+        ]
+    },
+    {
+        "phrase": "花岩怪",
+        "input": [
+            "huayanguai",
+            "hyg",
+            "guipenzai",
+            "spiritomb",
+            "mikaruge"
+        ]
+    },
+    {
+        "phrase": "圆陆鲨",
+        "input": [
+            "yuanlusha",
+            "yvanlusha",
+            "yls",
+            "gible",
+            "fukamaru"
+        ]
+    },
+    {
+        "phrase": "尖牙陆鲨",
+        "input": [
+            "jiayalusha",
+            "jyls",
+            "gabite"
+        ]
+    },
+    {
+        "phrase": "烈咬陆鲨",
+        "input": [
+            "lieyaolusha",
+            "lyls",
+            "dilong",
+            "kapuliyasi",
+            "garchomp",
+            "gaburias"
+        ]
+    },
+    {
+        "phrase": "小卡比兽",
+        "input": [
+            "xiaokabishou",
+            "xkbs",
+            "gangbishou",
+            "gangbi",
+            "munchlax",
+            "gonbe"
+        ]
+    },
+    {
+        "phrase": "利欧路",
+        "input": [
+            "lioulu",
+            "lol",
+            "liaolu",
+            "riolu"
+        ]
+    },
+    {
+        "phrase": "路卡利欧",
+        "input": [
+            "lukaliou",
+            "lklo",
+            "luka",
+            "bodao",
+            "lucario"
+        ]
+    },
+    {
+        "phrase": "沙河马",
+        "input": [
+            "shahema",
+            "shm",
+            "hippopotas"
+        ]
+    },
+    {
+        "phrase": "河马兽",
+        "input": [
+            "hemashou",
+            "hms",
+            "hippowdon",
+            "kabaldon"
+        ]
+    },
+    {
+        "phrase": "钳尾蝎",
+        "input": [
+            "qianweixie",
+            "qwx",
+            "skorupi",
+            "scorpi"
+        ]
+    },
+    {
+        "phrase": "龙王蝎",
+        "input": [
+            "longwangxie",
+            "lwx",
+            "drapion",
+            "dorapion"
+        ]
+    },
+    {
+        "phrase": "不良蛙",
+        "input": [
+            "buliangwa",
+            "blw",
+            "croagunk",
+            "gureggru"
+        ]
+    },
+    {
+        "phrase": "毒骷蛙",
+        "input": [
+            "dukuwa",
+            "dkw",
+            "toxicroak",
+            "dokurog"
+        ]
+    },
+    {
+        "phrase": "尖牙笼",
+        "input": [
+            "jianyalong",
+            "jyl",
+            "carnivine",
+            "muskippa"
+        ]
+    },
+    {
+        "phrase": "荧光鱼",
+        "input": [
+            "yingguangyu",
+            "yingguangyv",
+            "ygy",
+            "finneon",
+            "keikouo"
+        ]
+    },
+    {
+        "phrase": "霓虹鱼",
+        "input": [
+            "nihongyu",
+            "nihongyv",
+            "nhy",
+            "lumineon",
+            "neolant"
+        ]
+    },
+    {
+        "phrase": "小球飞鱼",
+        "input": [
+            "xiaoqiufeiyu",
+            "xiaoqiufeiyv",
+            "xqfy",
+            "mantyke",
+            "tamanta"
+        ]
+    },
+    {
+        "phrase": "雪笠怪",
+        "input": [
+            "xueliguai",
+            "xveliguai",
+            "xlg",
+            "snover",
+            "yukikaburi"
+        ]
+    },
+    {
+        "phrase": "暴雪王",
+        "input": [
+            "baoxuewang",
+            "baoxvewang",
+            "bxw",
+            "abomasnow",
+            "yukinooh"
+        ]
+    },
+    {
+        "phrase": "玛狃拉",
+        "input": [
+            "maniula",
+            "mnl",
+            "weavile",
+            "manyula"
+        ]
+    },
+    {
+        "phrase": "自爆磁怪",
+        "input": [
+            "zibaociguai",
+            "zbcg",
+            "feidieciguai",
+            "magnezone",
+            "jibacoil"
+        ]
+    },
+    {
+        "phrase": "大舌舔",
+        "input": [
+            "dashetian",
+            "dst",
+            "lickilicky",
+            "berobelt"
+        ]
+    },
+    {
+        "phrase": "超甲狂犀",
+        "input": [
+            "chaojiakuangxi",
+            "cjkx",
+            "zhongjiabaolong",
+            "chaojia",
+            "zhongbao",
+            "rhyperior",
+            "dosidon"
+        ]
+    },
+    {
+        "phrase": "巨蔓藤",
+        "input": [
+            "jumanteng",
+            "jvmanteng",
+            "jmt",
+            "jutengman",
+            "jvtengman",
+            "tangrowth",
+            "mojumbo"
+        ]
+    },
+    {
+        "phrase": "电击魔兽",
+        "input": [
+            "dianjimoshou",
+            "djms",
+            "electivire",
+            "elekible"
+        ]
+    },
+    {
+        "phrase": "鸭嘴炎兽",
+        "input": [
+            "yazuiyanshou",
+            "yzys",
+            "yazuihuolong",
+            "magmortar",
+            "booburn"
+        ]
+    },
+    {
+        "phrase": "波克基斯",
+        "input": [
+            "bokejisi",
+            "bkjs",
+            "feiji",
+            "togekiss"
+        ]
+    },
+    {
+        "phrase": "远古巨蜓",
+        "input": [
+            "yuangujuting",
+            "yuangujvting",
+            "yvangujuting",
+            "yvangujvting",
+            "ygjt",
+            "yangyangma",
+            "yanmega",
+            "megayanma"
+        ]
+    },
+    {
+        "phrase": "叶伊布",
+        "input": [
+            "yeyibu",
+            "yyb",
+            "yejingling",
+            "caoyibu",
+            "leafeon",
+            "leafia"
+        ]
+    },
+    {
+        "phrase": "冰伊布",
+        "input": [
+            "bingyibu",
+            "byb",
+            "bingjingling",
+            "bingbu",
+            "glaceon",
+            "glacia"
+        ]
+    },
+    {
+        "phrase": "天蝎王",
+        "input": [
+            "tianxiewang",
+            "txw",
+            "gliscor",
+            "glion"
+        ]
+    },
+    {
+        "phrase": "象牙猪",
+        "input": [
+            "xiangyazhu",
+            "xyz",
+            "mamoswine",
+            "manmu"
+        ]
+    },
+    {
+        "phrase": "多边兽乙型",
+        "input": [
+            "duobianshouyixing",
+            "dbsyx",
+            "duobianshouz",
+            "dbsz",
+            "sandlongz",
+            "sdlz",
+            "edlz",
+            "porygonz"
+        ]
+    },
+    {
+        "phrase": "艾路雷朵",
+        "input": [
+            "ailuleiduo",
+            "alld",
+            "gallade",
+            "erureido"
+        ]
+    },
+    {
+        "phrase": "大朝北鼻",
+        "input": [
+            "dachaobeibi",
+            "dcbb",
+            "probopass",
+            "dainose"
+        ]
+    },
+    {
+        "phrase": "黑夜魔灵",
+        "input": [
+            "heiyemoling",
+            "hyml",
+            "dusknoir",
+            "yonoir"
+        ]
+    },
+    {
+        "phrase": "雪妖女",
+        "input": [
+            "xueyaonv",
+            "xveyaonv",
+            "xyn",
+            "froslass",
+            "yukimenoko"
+        ]
+    },
+    {
+        "phrase": "洛托姆",
+        "input": [
+            "luotuomu",
+            "ltm",
+            "diangui",
+            "rotom"
+        ]
+    },
+    {
+        "phrase": "清洗洛托姆",
+        "input": [
+            "xiyiji"
+        ]
+    },
+    {
+        "phrase": "加热洛托姆",
+        "input": [
+            "huoyiji"
+        ]
+    },
+    {
+        "phrase": "切割洛托姆",
+        "input": [
+            "caoyiji"
+        ]
+    },
+    {
+        "phrase": "旋转洛托姆",
+        "input": [
+            "feiyiji"
+        ]
+    },
+    {
+        "phrase": "结冰洛托姆",
+        "input": [
+            "bingyiji"
+        ]
+    },
+    {
+        "phrase": "由克希",
+        "input": [
+            "youkexi",
+            "ykx",
+            "huangshenggu",
+            "uxie",
+            "yuxie"
+        ]
+    },
+    {
+        "phrase": "艾姆利多",
+        "input": [
+            "aimuliduo",
+            "amld",
+            "hongshenggu",
+            "mesprit",
+            "emrit"
+        ]
+    },
+    {
+        "phrase": "亚克诺姆",
+        "input": [
+            "yakenuomu",
+            "yknm",
+            "lanshenggu",
+            "azelf",
+            "agnome"
+        ]
+    },
+    {
+        "phrase": "帝牙卢卡",
+        "input": [
+            "diyaluka",
+            "dylk",
+            "diyalujia",
+            "ganglong",
+            "shijianlong",
+            "shijianshen",
+            "zuanshi",
+            "dialga"
+        ]
+    },
+    {
+        "phrase": "帕路奇亚",
+        "input": [
+            "paluqiya",
+            "plqy",
+            "kongjianlong",
+            "kongjianshen",
+            "zhenzhu",
+            "palkia"
+        ]
+    },
+    {
+        "phrase": "席多蓝恩",
+        "input": [
+            "xiduolanen",
+            "xdle",
+            "huogang",
+            "heatran"
+        ]
+    },
+    {
+        "phrase": "雷吉奇卡斯",
+        "input": [
+            "leijiqikasi",
+            "ljqks",
+            "shenzhuwang",
+            "matongwang",
+            "regigigas"
+        ]
+    },
+    {
+        "phrase": "骑拉帝纳",
+        "input": [
+            "qiladina",
+            "qldn",
+            "guilong",
+            "giratina"
+        ]
+    },
+    {
+        "phrase": "克雷色利亚",
+        "input": [
+            "keleiseliya",
+            "klsly",
+            "meimengshen",
+            "cresselia",
+            "crecelia"
+        ]
+    },
+    {
+        "phrase": "霏欧纳",
+        "input": [
+            "feiouna",
+            "fon",
+            "phione"
+        ]
+    },
+    {
+        "phrase": "玛纳霏",
+        "input": [
+            "manafei",
+            "mnf",
+            "manaphy"
+        ]
+    },
+    {
+        "phrase": "达克莱伊",
+        "input": [
+            "dakelaiyi",
+            "dkly",
+            "emengshen",
+            "darkrai"
+        ]
+    },
+    {
+        "phrase": "谢米",
+        "input": [
+            "xiemi",
+            "xm",
+            "shaymin",
+            "sheimi"
+        ]
+    },
+    {
+        "phrase": "阿尔宙斯",
+        "input": [
+            "aerzhousi",
+            "aerzs",
+            "chuangshishen",
+            "laochuang",
+            "aerxiusi",
+            "yangtuo",
+            "aezs",
+            "arceus"
+        ]
+    },
+    {
+        "phrase": "比克提尼",
+        "input": [
+            "biketini",
+            "bktn",
+            "victini"
+        ]
+    },
+    {
+        "phrase": "藤藤蛇",
+        "input": [
+            "tengtengshe",
+            "tts",
+            "snivy",
+            "tsutarja"
+        ]
+    },
+    {
+        "phrase": "青藤蛇",
+        "input": [
+            "qingtengshe",
+            "qts",
+            "servine",
+            "janovy"
+        ]
+    },
+    {
+        "phrase": "君主蛇",
+        "input": [
+            "junzhushe",
+            "jvnzhushe",
+            "jzs",
+            "serperior",
+            "jalorda"
+        ]
+    },
+    {
+        "phrase": "暖暖猪",
+        "input": [
+            "nuannuanzhu",
+            "nnz",
+            "tepig",
+            "pokabu"
+        ]
+    },
+    {
+        "phrase": "炒炒猪",
+        "input": [
+            "chaochaozhu",
+            "ccz",
+            "pignite",
+            "chaoboo"
+        ]
+    },
+    {
+        "phrase": "炎武王",
+        "input": [
+            "yanwuwang",
+            "yww",
+            "ershixiong",
+            "emboar",
+            "enbuoh"
+        ]
+    },
+    {
+        "phrase": "水水獭",
+        "input": [
+            "shuishuita",
+            "sst",
+            "oshawott",
+            "mijumaru"
+        ]
+    },
+    {
+        "phrase": "双刃丸",
+        "input": [
+            "shuangrenwan",
+            "srw",
+            "dewott",
+            "futachimaru"
+        ]
+    },
+    {
+        "phrase": "大剑鬼",
+        "input": [
+            "dajiangui",
+            "djg",
+            "samurott",
+            "daikenki"
+        ]
+    },
+    {
+        "phrase": "探探鼠",
+        "input": [
+            "tantanshu",
+            "tts",
+            "patrat",
+            "minezumi"
+        ]
+    },
+    {
+        "phrase": "步哨鼠",
+        "input": [
+            "bushaoshu",
+            "bss",
+            "watchog",
+            "miruhog"
+        ]
+    },
+    {
+        "phrase": "小约克",
+        "input": [
+            "xiaoyueke",
+            "xiaoyveke",
+            "xyk",
+            "lilipup",
+            "yorterrie"
+        ]
+    },
+    {
+        "phrase": "哈约克",
+        "input": [
+            "hayueke",
+            "hayveke",
+            "hyk",
+            "herdier",
+            "herderrie"
+        ]
+    },
+    {
+        "phrase": "长毛狗",
+        "input": [
+            "changmaogou",
+            "cmg",
+            "stoutland",
+            "mooland"
+        ]
+    },
+    {
+        "phrase": "扒手猫",
+        "input": [
+            "pashoumao",
+            "psm",
+            "purrloin",
+            "choroneko"
+        ]
+    },
+    {
+        "phrase": "酷豹",
+        "input": [
+            "kubao",
+            "kb",
+            "liepard",
+            "lepardas"
+        ]
+    },
+    {
+        "phrase": "花椰猴",
+        "input": [
+            "huayehou",
+            "hyh",
+            "pansage",
+            "yanappu"
+        ]
+    },
+    {
+        "phrase": "花椰猿",
+        "input": [
+            "huayeyuan",
+            "huayeyvan",
+            "hyy",
+            "simisage",
+            "yanakkle"
+        ]
+    },
+    {
+        "phrase": "爆香猴",
+        "input": [
+            "baoxianghou",
+            "bxh",
+            "panaear",
+            "baoppu"
+        ]
+    },
+    {
+        "phrase": "爆香猿",
+        "input": [
+            "baoxiangyuan",
+            "baoxiangyvan",
+            "bxy",
+            "simisear",
+            "baollie"
+        ]
+    },
+    {
+        "phrase": "冷水猴",
+        "input": [
+            "lengshuihou",
+            "lsh",
+            "panpour",
+            "hiyappu"
+        ]
+    },
+    {
+        "phrase": "冷水猿",
+        "input": [
+            "lengshuiyuan",
+            "lengshuiyvan",
+            "lsy",
+            "simipour",
+            "hiyakkie"
+        ]
+    },
+    {
+        "phrase": "食梦梦",
+        "input": [
+            "shimengmeng",
+            "smm",
+            "munna"
+        ]
+    },
+    {
+        "phrase": "梦梦蚀",
+        "input": [
+            "mengmeng",
+            "mms",
+            "musharna"
+        ]
+    },
+    {
+        "phrase": "豆豆鸽",
+        "input": [
+            "doudouge",
+            "ddg",
+            "pidove",
+            "mamepato"
+        ]
+    },
+    {
+        "phrase": "咕咕鸽",
+        "input": [
+            "guguge",
+            "ggg",
+            "tranquill",
+            "hatoboh"
+        ]
+    },
+    {
+        "phrase": "高傲雉鸡",
+        "input": [
+            "gaoaozhiji",
+            "gazj",
+            "unfezant",
+            "kengallow"
+        ]
+    },
+    {
+        "phrase": "斑斑马",
+        "input": [
+            "banbanma",
+            "bbm",
+            "blitzle",
+            "shimama"
+        ]
+    },
+    {
+        "phrase": "雷电斑马",
+        "input": [
+            "leidianbanma",
+            "ldbm",
+            "zebstrika",
+            "zebraika"
+        ]
+    },
+    {
+        "phrase": "石丸子",
+        "input": [
+            "shiwanzi",
+            "swz",
+            "roggenrola",
+            "dangoro"
+        ]
+    },
+    {
+        "phrase": "地幔岩",
+        "input": [
+            "dimanyan",
+            "dmy",
+            "boldore",
+            "gantle"
+        ]
+    },
+    {
+        "phrase": "庞岩怪",
+        "input": [
+            "pangyanguai",
+            "pyg",
+            "gigalith",
+            "gigaiath"
+        ]
+    },
+    {
+        "phrase": "滚滚蝙蝠",
+        "input": [
+            "gungunbianfu",
+            "ggbf",
+            "woobat",
+            "koromori"
+        ]
+    },
+    {
+        "phrase": "心蝙蝠",
+        "input": [
+            "xinbianfu",
+            "xbf",
+            "swoobat",
+            "kokoromori"
+        ]
+    },
+    {
+        "phrase": "螺钉地鼠",
+        "input": [
+            "luodindishu",
+            "ldds",
+            "drilbur",
+            "mogurew"
+        ]
+    },
+    {
+        "phrase": "龙头地鼠",
+        "input": [
+            "lontoudishu",
+            "ltds",
+            "excadrill",
+            "doryuzu"
+        ]
+    },
+    {
+        "phrase": "差不多娃娃",
+        "input": [
+            "chabuduowawa",
+            "cbdww",
+            "audino",
+            "tabunne"
+        ]
+    },
+    {
+        "phrase": "搬运小将",
+        "input": [
+            "banyunxiaojiang",
+            "banyvnxiaojiang",
+            "byxj",
+            "timburr",
+            "dokkorer"
+        ]
+    },
+    {
+        "phrase": "铁骨土人",
+        "input": [
+            "tieguturen",
+            "tgtr",
+            "gurdurr",
+            "dotekkotsu"
+        ]
+    },
+    {
+        "phrase": "修建老匠",
+        "input": [
+            "xiujianlaojiang",
+            "xjlj",
+            "mingong",
+            "conkeldurr",
+            "roubushin"
+        ]
+    },
+    {
+        "phrase": "圆蝌蚪",
+        "input": [
+            "yuankedou",
+            "yvankedou",
+            "yjd",
+            "tympole",
+            "otammaro"
+        ]
+    },
+    {
+        "phrase": "蓝蟾蜍",
+        "input": [
+            "lanchanchu",
+            "lcc",
+            "palpitoad",
+            "gamagaru"
+        ]
+    },
+    {
+        "phrase": "蟾蜍王",
+        "input": [
+            "chanchuwang",
+            "ccw",
+            "seismitoad",
+            "gamageroge"
+        ]
+    },
+    {
+        "phrase": "投摔鬼",
+        "input": [
+            "toushuaigui",
+            "tsg",
+            "throh",
+            "nageki"
+        ]
+    },
+    {
+        "phrase": "打击鬼",
+        "input": [
+            "dajigui",
+            "djg",
+            "sawk",
+            "dageki"
+        ]
+    },
+    {
+        "phrase": "虫宝包",
+        "input": [
+            "chongbaobao",
+            "cbb",
+            "sewaddle",
+            "kurumiru"
+        ]
+    },
+    {
+        "phrase": "宝包茧",
+        "input": [
+            "baobaojian",
+            "bbj",
+            "swadloon",
+            "kurumayu"
+        ]
+    },
+    {
+        "phrase": "保姆虫",
+        "input": [
+            "baomuchong",
+            "bmc",
+            "leavanny",
+            "hahakomori"
+        ]
+    },
+    {
+        "phrase": "百足蜈蚣",
+        "input": [
+            "baozuwugong",
+            "bzwg",
+            "venipede",
+            "fushide"
+        ]
+    },
+    {
+        "phrase": "车轮球",
+        "input": [
+            "chelunqiu",
+            "clq",
+            "whirlipede",
+            "wheega"
+        ]
+    },
+    {
+        "phrase": "蜈蚣王",
+        "input": [
+            "wugongwang",
+            "wgw",
+            "scolipede",
+            "pendror"
+        ]
+    },
+    {
+        "phrase": "木棉球",
+        "input": [
+            "mumianqiu",
+            "mmq",
+            "cottonce",
+            "monmen"
+        ]
+    },
+    {
+        "phrase": "风妖精",
+        "input": [
+            "fengyaojing",
+            "fyj",
+            "heixinmian",
+            "whimsicott",
+            "elfuun"
+        ]
+    },
+    {
+        "phrase": "百合根娃娃",
+        "input": [
+            "baihegenwawa",
+            "bhgww",
+            "petilil",
+            "churine"
+        ]
+    },
+    {
+        "phrase": "裙儿小姐",
+        "input": [
+            "qunerxiaojie",
+            "qvnerxiaojie",
+            "qexj",
+            "liligant",
+            "dredear"
+        ]
+    },
+    {
+        "phrase": "野蛮鲈鱼",
+        "input": [
+            "yemanluyu",
+            "yemanluyv",
+            "ymly",
+            "basculin",
+            "bassrao"
+        ]
+    },
+    {
+        "phrase": "黑眼鳄",
+        "input": [
+            "heiyane",
+            "hye",
+            "sandile",
+            "meguroco"
+        ]
+    },
+    {
+        "phrase": "混混鳄",
+        "input": [
+            "hunhune",
+            "hhe",
+            "krokorok",
+            "waruvile"
+        ]
+    },
+    {
+        "phrase": "流氓鳄",
+        "input": [
+            "liumange",
+            "lme",
+            "krookodile",
+            "waruvial"
+        ]
+    },
+    {
+        "phrase": "火红不倒翁",
+        "input": [
+            "huohongbudaoweng",
+            "hhbdw",
+            "darumaka",
+            "darumakka"
+        ]
+    },
+    {
+        "phrase": "达摩狒狒",
+        "input": [
+            "damofeifei",
+            "dmff",
+            "darmanitan",
+            "hihidaruma"
+        ]
+    },
+    {
+        "phrase": "沙铃仙人掌",
+        "input": [
+            "shalingxianrenzhang",
+            "slxrz",
+            "maractus",
+            "maracacchi"
+        ]
+    },
+    {
+        "phrase": "石居蟹",
+        "input": [
+            "shijuxie",
+            "shijvxie",
+            "sjx",
+            "dwebble",
+            "lshizumai"
+        ]
+    },
+    {
+        "phrase": "岩殿居蟹",
+        "input": [
+            "yandianjuxie",
+            "yandianjvxie",
+            "ydjx",
+            "crustle",
+            "lwapalace"
+        ]
+    },
+    {
+        "phrase": "滑滑小子",
+        "input": [
+            "huahuaxiaozi",
+            "hhxz",
+            "scraggy",
+            "zuruggu"
+        ]
+    },
+    {
+        "phrase": "头巾混混",
+        "input": [
+            "toujinhunhun",
+            "tjhh",
+            "chengguanxi",
+            "scrafty",
+            "zuruzukin"
+        ]
+    },
+    {
+        "phrase": "象征鸟",
+        "input": [
+            "xiangzhengniao",
+            "xzn",
+            "sigilyph",
+            "symboler"
+        ]
+    },
+    {
+        "phrase": "哭哭面具",
+        "input": [
+            "kukumianju",
+            "kukumianjv",
+            "kkmj",
+            "yamask",
+            "desumasu"
+        ]
+    },
+    {
+        "phrase": "迭失棺",
+        "input": [
+            "dieshiguan",
+            "dsg",
+            "sishenguan",
+            "cofagrigus",
+            "desukam"
+        ]
+    },
+    {
+        "phrase": "圆盖海龟",
+        "input": [
+            "yuangaihaigui",
+            "yvangaihaigui",
+            "yghg",
+            "tirtouga",
+            "protoga"
+        ]
+    },
+    {
+        "phrase": "肋骨海龟",
+        "input": [
+            "leiguhaigui",
+            "lghg",
+            "carracosta",
+            "abagoura"
+        ]
+    },
+    {
+        "phrase": "始祖小鸟",
+        "input": [
+            "shizuxiaoniao",
+            "szxn",
+            "archen"
+        ]
+    },
+    {
+        "phrase": "始祖大鸟",
+        "input": [
+            "shizudaniao",
+            "szdn",
+            "archeops"
+        ]
+    },
+    {
+        "phrase": "破破袋",
+        "input": [
+            "popodai",
+            "ppd",
+            "trubbish",
+            "yabukuron"
+        ]
+    },
+    {
+        "phrase": "灰尘山",
+        "input": [
+            "huichenshan",
+            "hcs",
+            "garbodor",
+            "dustdas"
+        ]
+    },
+    {
+        "phrase": "索罗亚",
+        "input": [
+            "suoluoya",
+            "sly",
+            "zorua",
+            "zoura"
+        ]
+    },
+    {
+        "phrase": "索罗亚克",
+        "input": [
+            "suoluoyake",
+            "slyk",
+            "zoroark"
+        ]
+    },
+    {
+        "phrase": "泡沫栗鼠",
+        "input": [
+            "paomolishu",
+            "pmls",
+            "minccino",
+            "chillarmy"
+        ]
+    },
+    {
+        "phrase": "奇诺栗鼠",
+        "input": [
+            "qinuolishu",
+            "qnls",
+            "cincci",
+            "chillacci"
+        ]
+    },
+    {
+        "phrase": "歌德宝宝",
+        "input": [
+            "gedebaobao",
+            "gdbb",
+            "gothita",
+            "gothimu"
+        ]
+    },
+    {
+        "phrase": "歌德小童",
+        "input": [
+            "gedexiaoton",
+            "gdxt",
+            "gothrita",
+            "gothimiru"
+        ]
+    },
+    {
+        "phrase": "歌德小姐",
+        "input": [
+            "gedexiaojie",
+            "gdxj",
+            "yima",
+            "gothitelle",
+            "gothiruselle"
+        ]
+    },
+    {
+        "phrase": "单卵细胞球",
+        "input": [
+            "danluanxibaoqiu",
+            "dlxbq",
+            "solosis",
+            "uniran"
+        ]
+    },
+    {
+        "phrase": "双卵细胞球",
+        "input": [
+            "shuangluanxibaoqiu",
+            "slxbq",
+            "duosion",
+            "doublan"
+        ]
+    },
+    {
+        "phrase": "人造细胞卵",
+        "input": [
+            "renzaoxibaoluan",
+            "rzxbl",
+            "reuniclus",
+            "lanculus"
+        ]
+    },
+    {
+        "phrase": "鸭宝宝",
+        "input": [
+            "yabaobao",
+            "ybb",
+            "ducklett",
+            "koaruhie"
+        ]
+    },
+    {
+        "phrase": "舞天鹅",
+        "input": [
+            "wutiane",
+            "wte",
+            "swanna"
+        ]
+    },
+    {
+        "phrase": "迷你冰",
+        "input": [
+            "minibing",
+            "mnb",
+            "vanillite",
+            "vanipeti"
+        ]
+    },
+    {
+        "phrase": "多多冰",
+        "input": [
+            "duoduobing",
+            "ddb",
+            "vanillish",
+            "vanirich"
+        ]
+    },
+    {
+        "phrase": "双倍多多冰",
+        "input": [
+            "shuangbeiduoduobing",
+            "sbddb",
+            "vanilluxe",
+            "baivanilla"
+        ]
+    },
+    {
+        "phrase": "四季鹿",
+        "input": [
+            "sijilu",
+            "sjl",
+            "deerling",
+            "shikijika"
+        ]
+    },
+    {
+        "phrase": "萌芽鹿",
+        "input": [
+            "mengyalu",
+            "myl",
+            "sawsbuck",
+            "mebukijika"
+        ]
+    },
+    {
+        "phrase": "电飞鼠",
+        "input": [
+            "dianfeishu",
+            "dfs",
+            "emolga",
+            "emonga"
+        ]
+    },
+    {
+        "phrase": "盖盖虫",
+        "input": [
+            "gaigaichong",
+            "ggc",
+            "karrablast",
+            "kaburumo"
+        ]
+    },
+    {
+        "phrase": "骑士蜗牛",
+        "input": [
+            "qishiwoniu",
+            "qswn",
+            "escavalier",
+            "chevargo"
+        ]
+    },
+    {
+        "phrase": "哎呀球菇",
+        "input": [
+            "aiyaqiugu",
+            "ayqg",
+            "foongus",
+            "tamagetake"
+        ]
+    },
+    {
+        "phrase": "败露球菇",
+        "input": [
+            "bailuqiugu",
+            "blqg",
+            "dungu",
+            "amoonguss",
+            "morobareru"
+        ]
+    },
+    {
+        "phrase": "轻飘飘",
+        "input": [
+            "qingpiaopiao",
+            "qpp",
+            "frillish",
+            "pururill"
+        ]
+    },
+    {
+        "phrase": "胖嘟嘟",
+        "input": [
+            "pangdudu",
+            "pdd",
+            "jellicent",
+            "burungel"
+        ]
+    },
+    {
+        "phrase": "保姆曼波",
+        "input": [
+            "baomumanbo",
+            "bmmb",
+            "alomomola",
+            "mamanbou"
+        ]
+    },
+    {
+        "phrase": "电电虫",
+        "input": [
+            "diandianchong",
+            "ddc",
+            "joltik",
+            "bachuru"
+        ]
+    },
+    {
+        "phrase": "电蜘蛛",
+        "input": [
+            "dianzhizhu",
+            "dzz",
+            "galvantula",
+            "dentula"
+        ]
+    },
+    {
+        "phrase": "种子铁球",
+        "input": [
+            "zhongzitieqiu",
+            "zztq",
+            "ferroseed",
+            "tesseed"
+        ]
+    },
+    {
+        "phrase": "坚果哑铃",
+        "input": [
+            "jianguoyaling",
+            "jgyl",
+            "caogang",
+            "liulian",
+            "ferrothorn",
+            "nutrey"
+        ]
+    },
+    {
+        "phrase": "齿轮儿",
+        "input": [
+            "chiluner",
+            "cle",
+            "cler",
+            "klink",
+            "giaru"
+        ]
+    },
+    {
+        "phrase": "齿轮组",
+        "input": [
+            "chilunzhu",
+            "clz",
+            "klang",
+            "gigiaru"
+        ]
+    },
+    {
+        "phrase": "齿轮怪",
+        "input": [
+            "chilunguai",
+            "clg",
+            "klinklang",
+            "gigigiaru"
+        ]
+    },
+    {
+        "phrase": "麻麻小鱼",
+        "input": [
+            "mamaxiaoyu",
+            "mamaxiaoyv",
+            "mmxy",
+            "tynamo",
+            "shibishirsu"
+        ]
+    },
+    {
+        "phrase": "麻麻鳗",
+        "input": [
+            "mamaman",
+            "mmm",
+            "eelektrik",
+            "shibibeel"
+        ]
+    },
+    {
+        "phrase": "麻麻鳗鱼王",
+        "input": [
+            "mamamanyuwang",
+            "mamamanyvwang",
+            "mmmyw",
+            "eelektross",
+            "shibirudon"
+        ]
+    },
+    {
+        "phrase": "小灰怪",
+        "input": [
+            "xiaohuiguai",
+            "xhg",
+            "elgyem",
+            "ligray"
+        ]
+    },
+    {
+        "phrase": "大宇怪",
+        "input": [
+            "dayuguai",
+            "dayvguai",
+            "dyg",
+            "beheeyem",
+            "ohbem"
+        ]
+    },
+    {
+        "phrase": "烛光灵",
+        "input": [
+            "zhuguangling",
+            "zgl",
+            "litwick",
+            "hitomoshi"
+        ]
+    },
+    {
+        "phrase": "灯火幽灵",
+        "input": [
+            "denghuoyouling",
+            "dhyl",
+            "lampent",
+            "lampler"
+        ]
+    },
+    {
+        "phrase": "水晶灯火灵",
+        "input": [
+            "shuijingdenghuoling",
+            "sjdhl",
+            "guideng",
+            "chandelure",
+            "chandela"
+        ]
+    },
+    {
+        "phrase": "牙牙",
+        "input": [
+            "yaya",
+            "yy",
+            "axew",
+            "kibago"
+        ]
+    },
+    {
+        "phrase": "斧牙龙",
+        "input": [
+            "fuyalong",
+            "fyl",
+            "fraxure",
+            "ononde"
+        ]
+    },
+    {
+        "phrase": "双斧战龙",
+        "input": [
+            "shuangfuzhanlong",
+            "sfzl",
+            "haxorus",
+            "ononokus"
+        ]
+    },
+    {
+        "phrase": "喷嚏熊",
+        "input": [
+            "pentixiong",
+            "ptx",
+            "cubchoo",
+            "kumasyum"
+        ]
+    },
+    {
+        "phrase": "冻原熊",
+        "input": [
+            "dongyuanxiong",
+            "dongyvanxiong",
+            "dyx",
+            "beartic",
+            "tunbear"
+        ]
+    },
+    {
+        "phrase": "几何雪花",
+        "input": [
+            "jihexuehua",
+            "jihexvehua",
+            "jhxh",
+            "cryogonal",
+            "freegeo"
+        ]
+    },
+    {
+        "phrase": "小嘴蜗",
+        "input": [
+            "xiaozuigua",
+            "xzw",
+            "shelmet",
+            "chobomaki"
+        ]
+    },
+    {
+        "phrase": "敏捷虫",
+        "input": [
+            "minjiechong",
+            "mjc",
+            "accelgor",
+            "agilder"
+        ]
+    },
+    {
+        "phrase": "泥巴鱼",
+        "input": [
+            "nibayu",
+            "nibayv",
+            "nby",
+            "stunfisk",
+            "maggyo"
+        ]
+    },
+    {
+        "phrase": "功夫鼬",
+        "input": [
+            "gongfuyou",
+            "gfy",
+            "mienfoo"
+        ]
+    },
+    {
+        "phrase": "师傅鼬",
+        "input": [
+            "shifuyou",
+            "sfy",
+            "mienshao",
+            "kojodo"
+        ]
+    },
+    {
+        "phrase": "赤面龙",
+        "input": [
+            "chimianlong",
+            "cml",
+            "druddigon",
+            "crimagan"
+        ]
+    },
+    {
+        "phrase": "泥偶小人",
+        "input": [
+            "niouxiaoren",
+            "noxr",
+            "golett",
+            "gobit"
+        ]
+    },
+    {
+        "phrase": "泥偶巨人",
+        "input": [
+            "nioujuren",
+            "nioujvren",
+            "nojr",
+            "golurk",
+            "goloog"
+        ]
+    },
+    {
+        "phrase": "驹刀小兵",
+        "input": [
+            "judaoxiaobing",
+            "jvdaoxiaobing",
+            "jdxb",
+            "pawniard",
+            "komatana"
+        ]
+    },
+    {
+        "phrase": "劈斩司令",
+        "input": [
+            "pizhansiling",
+            "pzsl",
+            "gangbing",
+            "bisharp",
+            "kirikizan"
+        ]
+    },
+    {
+        "phrase": "爆炸头水牛",
+        "input": [
+            "baozhatoushuiniu",
+            "bztsn",
+            "bouffalant",
+            "buffron"
+        ]
+    },
+    {
+        "phrase": "毛头小鹰",
+        "input": [
+            "maotouxiaoying",
+            "mtxy",
+            "rufflet",
+            "washibon"
+        ]
+    },
+    {
+        "phrase": "勇士雄鹰",
+        "input": [
+            "yongshixiongying",
+            "ysxy",
+            "braviary",
+            "warrgle"
+        ]
+    },
+    {
+        "phrase": "秃鹰丫头",
+        "input": [
+            "tuyingyatou",
+            "tyyt",
+            "vullaby",
+            "valchai"
+        ]
+    },
+    {
+        "phrase": "秃鹰娜",
+        "input": [
+            "tuyingna",
+            "tyn",
+            "mandibuzz"
+        ]
+    },
+    {
+        "phrase": "熔蚁兽",
+        "input": [
+            "ronyishou",
+            "rys",
+            "heatmor",
+            "kuitaran"
+        ]
+    },
+    {
+        "phrase": "铁蚁",
+        "input": [
+            "tieyi",
+            "ty",
+            "durant",
+            "aiant"
+        ]
+    },
+    {
+        "phrase": "单首龙",
+        "input": [
+            "danshoulong",
+            "dsl",
+            "deino",
+            "monozu"
+        ]
+    },
+    {
+        "phrase": "双首暴龙",
+        "input": [
+            "shaungshoubaolong",
+            "ssbl",
+            "zweilous",
+            "dihead"
+        ]
+    },
+    {
+        "phrase": "三首恶龙",
+        "input": [
+            "sanshouelong",
+            "ssel",
+            "elong",
+            "hydreigon",
+            "sazandora"
+        ]
+    },
+    {
+        "phrase": "燃烧虫",
+        "input": [
+            "ranshaochong",
+            "rsc",
+            "larvesta",
+            "merlarva"
+        ]
+    },
+    {
+        "phrase": "火神蛾",
+        "input": [
+            "huoshene",
+            "hse",
+            "huoshenchong",
+            "volcarona",
+            "ulgamoth"
+        ]
+    },
+    {
+        "phrase": "勾帕路翁",
+        "input": [
+            "goupaluweng",
+            "gplw",
+            "cobalion",
+            "cobalon"
+        ]
+    },
+    {
+        "phrase": "代拉基翁",
+        "input": [
+            "dailajiweng",
+            "dljw",
+            "yanniu",
+            "terrakion"
+        ]
+    },
+    {
+        "phrase": "毕力吉翁",
+        "input": [
+            "bilijiweng",
+            "bljw",
+            "virizion",
+            "viridium"
+        ]
+    },
+    {
+        "phrase": "龙卷云",
+        "input": [
+            "longjuanyun",
+            "longjuanyvn",
+            "longjvanyun",
+            "longjvanyvn",
+            "ljy",
+            "tornadus",
+            "tornelos"
+        ]
+    },
+    {
+        "phrase": "雷电云",
+        "input": [
+            "leidianyun",
+            "leidianyvn",
+            "ldy",
+            "thundurus",
+            "voltolos"
+        ]
+    },
+    {
+        "phrase": "莱希拉姆",
+        "input": [
+            "laixilamu",
+            "leixilamu",
+            "lxlm",
+            "bailong",
+            "reshiram"
+        ]
+    },
+    {
+        "phrase": "捷克罗姆",
+        "input": [
+            "jiekeluomu",
+            "jklm",
+            "heilong",
+            "zekrom"
+        ]
+    },
+    {
+        "phrase": "土地云",
+        "input": [
+            "tudiyun",
+            "tudiyvn",
+            "tdy",
+            "tumao",
+            "landorus",
+            "landios"
+        ]
+    },
+    {
+        "phrase": "酋雷姆",
+        "input": [
+            "qiuleimu",
+            "qlm",
+            "kyurem"
+        ]
+    },
+    {
+        "phrase": "闇黑酋雷姆",
+        "input": [
+            "heibing"
+        ]
+    },
+    {
+        "phrase": "焰白酋雷姆",
+        "input": [
+            "baibing"
+        ]
+    },
+    {
+        "phrase": "凯路迪欧",
+        "input": [
+            "kailudiou",
+            "kldo",
+            "keldeo"
+        ]
+    },
+    {
+        "phrase": "美洛耶塔",
+        "input": [
+            "meiluoyeta",
+            "mlyt",
+            "meloetta"
+        ]
+    },
+    {
+        "phrase": "盖诺赛克特",
+        "input": [
+            "gainuoshakete",
+            "gnskt",
+            "mieshichong",
+            "genesect"
+        ]
+    },
+    {
+        "phrase": "哈力栗",
+        "input": [
+            "halili",
+            "hll",
+            "nimashu",
+            "chespin",
+            "harimaron"
+        ]
+    },
+    {
+        "phrase": "胖胖哈力",
+        "input": [
+            "pangpanghali",
+            "pphl",
+            "quilladin",
+            "haribogu"
+        ]
+    },
+    {
+        "phrase": "布里卡隆",
+        "input": [
+            "bulikalong",
+            "blkl",
+            "chesnaught",
+            "brigarron"
+        ]
+    },
+    {
+        "phrase": "火狐狸",
+        "input": [
+            "huohuli",
+            "hhl",
+            "fennekin",
+            "fokko"
+        ]
+    },
+    {
+        "phrase": "长尾火狐",
+        "input": [
+            "changweihuohu",
+            "cwhh",
+            "braixen",
+            "eruna"
+        ]
+    },
+    {
+        "phrase": "妖火红狐",
+        "input": [
+            "yaohuohonghu",
+            "yhhh",
+            "delphox",
+            "mafoxy"
+        ]
+    },
+    {
+        "phrase": "呱呱泡蛙",
+        "input": [
+            "guaguapaowa",
+            "ggpw",
+            "froakie",
+            "keromatsu"
+        ]
+    },
+    {
+        "phrase": "呱头蛙",
+        "input": [
+            "guatouwa",
+            "gtw",
+            "frogadier",
+            "gekogashira"
+        ]
+    },
+    {
+        "phrase": "甲贺忍蛙",
+        "input": [
+            "jiaherenwa",
+            "jhrw",
+            "renwa",
+            "greninja",
+            "gekkouga"
+        ]
+    },
+    {
+        "phrase": "小智版甲贺忍蛙",
+        "input": [
+            "zhiwa"
+        ]
+    },
+    {
+        "phrase": "掘掘兔",
+        "input": [
+            "juejuetu",
+            "juejvetu",
+            "jvejuetu",
+            "jvejvetu",
+            "jjt",
+            "bunnelby",
+            "horubi"
+        ]
+    },
+    {
+        "phrase": "掘地兔",
+        "input": [
+            "jueditu",
+            "jveditu",
+            "jdt",
+            "diggersby",
+            "horudo"
+        ]
+    },
+    {
+        "phrase": "小箭雀",
+        "input": [
+            "xiaojianque",
+            "xiaojianqve",
+            "xjq",
+            "fletchling",
+            "yayakoma"
+        ]
+    },
+    {
+        "phrase": "火箭雀",
+        "input": [
+            "huojianque",
+            "huojianqve",
+            "hjq",
+            "fletchinder",
+            "hinoyakoma"
+        ]
+    },
+    {
+        "phrase": "烈箭鹰",
+        "input": [
+            "liejianying",
+            "ljy",
+            "talonflame",
+            "fiarrow"
+        ]
+    },
+    {
+        "phrase": "粉蝶虫",
+        "input": [
+            "fendiechong",
+            "fdc",
+            "scatterbug",
+            "kofukimushi"
+        ]
+    },
+    {
+        "phrase": "粉蝶蛹",
+        "input": [
+            "fendieyong",
+            "fdy",
+            "spewpa",
+            "kofurai"
+        ]
+    },
+    {
+        "phrase": "彩粉蝶",
+        "input": [
+            "caifendie",
+            "cfd",
+            "vivillon"
+        ]
+    },
+    {
+        "phrase": "小狮狮",
+        "input": [
+            "xiaoshishi",
+            "xss",
+            "litleo",
+            "shishiko"
+        ]
+    },
+    {
+        "phrase": "火炎狮",
+        "input": [
+            "huoyanshi",
+            "hys",
+            "pyroar",
+            "kaenjishi"
+        ]
+    },
+    {
+        "phrase": "花蓓蓓",
+        "input": [
+            "huabeibei",
+            "hbb",
+            "flabebe"
+        ]
+    },
+    {
+        "phrase": "花叶蒂",
+        "input": [
+            "huayedi",
+            "hyd",
+            "floette",
+            "flaette"
+        ]
+    },
+    {
+        "phrase": "花洁夫人",
+        "input": [
+            "huajiefuren",
+            "hjfr",
+            "florges"
+        ]
+    },
+    {
+        "phrase": "坐骑小羊",
+        "input": [
+            "zuoqixiaoyang",
+            "zqxy",
+            "skiddo",
+            "meekuru"
+        ]
+    },
+    {
+        "phrase": "坐骑山羊",
+        "input": [
+            "zuoqishanyang",
+            "zqsy",
+            "gogoat"
+        ]
+    },
+    {
+        "phrase": "顽皮熊猫",
+        "input": [
+            "wanpixiongmao",
+            "wpxm",
+            "pancham",
+            "yanchamu"
+        ]
+    },
+    {
+        "phrase": "霸道熊猫",
+        "input": [
+            "badaoxiongmao",
+            "bdxm",
+            "liumangxiongmao",
+            "pangoro",
+            "goronda"
+        ]
+    },
+    {
+        "phrase": "多丽米亚",
+        "input": [
+            "duolimiya",
+            "dlmy",
+            "furfrou",
+            "torimian"
+        ]
+    },
+    {
+        "phrase": "妙喵",
+        "input": [
+            "miaomiao",
+            "mm",
+            "espurr",
+            "nyasper"
+        ]
+    },
+    {
+        "phrase": "超能妙喵",
+        "input": [
+            "chaonengmiaomiao",
+            "cnmm",
+            "meowstic",
+            "nyaonikusu"
+        ]
+    },
+    {
+        "phrase": "独剑鞘",
+        "input": [
+            "dujianqiao",
+            "djq",
+            "honedge",
+            "hitotsuki"
+        ]
+    },
+    {
+        "phrase": "双剑鞘",
+        "input": [
+            "shuangjianqiao",
+            "sjq",
+            "doublade",
+            "nidangiru"
+        ]
+    },
+    {
+        "phrase": "坚盾剑怪",
+        "input": [
+            "jiandunjianguai",
+            "jdjg",
+            "guijian",
+            "aegislash",
+            "gillguard"
+        ]
+    },
+    {
+        "phrase": "粉香香",
+        "input": [
+            "fenxiangxiang",
+            "fxx",
+            "spritzee",
+            "shushupu"
+        ]
+    },
+    {
+        "phrase": "芳香精",
+        "input": [
+            "fangxiangjing",
+            "fxj",
+            "aromatisse",
+            "frefuwan"
+        ]
+    },
+    {
+        "phrase": "绵绵泡芙",
+        "input": [
+            "mianmianpaofu",
+            "mmpf",
+            "swirlix",
+            "peroppafu"
+        ]
+    },
+    {
+        "phrase": "胖甜妮",
+        "input": [
+            "pangtianni",
+            "ptn",
+            "slurpuff",
+            "perorimu"
+        ]
+    },
+    {
+        "phrase": "好啦鱿",
+        "input": [
+            "haolayou",
+            "hly",
+            "inkay",
+            "maika"
+        ]
+    },
+    {
+        "phrase": "乌贼王",
+        "input": [
+            "wuzeiwang",
+            "wzw",
+            "malamar",
+            "karamanero"
+        ]
+    },
+    {
+        "phrase": "龟脚脚",
+        "input": [
+            "guijiaojiao",
+            "gjj",
+            "binacle",
+            "kametete"
+        ]
+    },
+    {
+        "phrase": "龟足巨铠",
+        "input": [
+            "guizujukai",
+            "guizujvkai",
+            "gzjk",
+            "barbaracle",
+            "gamenodesu"
+        ]
+    },
+    {
+        "phrase": "垃垃藻",
+        "input": [
+            "lalazao",
+            "llz",
+            "skrelp",
+            "kuzumo"
+        ]
+    },
+    {
+        "phrase": "毒藻龙",
+        "input": [
+            "duzaolong",
+            "dzl",
+            "dulamini",
+            "dragalge",
+            "doramidoro"
+        ]
+    },
+    {
+        "phrase": "铁臂枪虾",
+        "input": [
+            "tiebiqiangxia",
+            "tbqx",
+            "clauncher",
+            "udeppo"
+        ]
+    },
+    {
+        "phrase": "钢炮臂虾",
+        "input": [
+            "gangpaobixia",
+            "gpbx",
+            "clawitzer",
+            "bloster"
+        ]
+    },
+    {
+        "phrase": "伞电蜥",
+        "input": [
+            "sandianxi",
+            "sdx",
+            "helioptile",
+            "erikiteru"
+        ]
+    },
+    {
+        "phrase": "光电伞蜥",
+        "input": [
+            "guangdiansanxi",
+            "gdsx",
+            "heliolisk",
+            "elezard"
+        ]
+    },
+    {
+        "phrase": "宝宝暴龙",
+        "input": [
+            "baobaobaolong",
+            "bbbl",
+            "tyrunt",
+            "chigorasu"
+        ]
+    },
+    {
+        "phrase": "怪颚龙",
+        "input": [
+            "guaielong",
+            "gel",
+            "tyrantrum",
+            "gachigorasu"
+        ]
+    },
+    {
+        "phrase": "冰雪龙",
+        "input": [
+            "bingxuelong",
+            "bingxvelong",
+            "bxl",
+            "amaura",
+            "amarusu"
+        ]
+    },
+    {
+        "phrase": "冰雪巨龙",
+        "input": [
+            "bingxuejulong",
+            "bingxuejvlong",
+            "bingxvejulong",
+            "bingxvejvlong",
+            "bxjl",
+            "aurorus",
+            "amaruruga"
+        ]
+    },
+    {
+        "phrase": "仙子伊布",
+        "input": [
+            "xianziyibu",
+            "xzyb",
+            "xianzijingling",
+            "xianbu",
+            "sylveon",
+            "nymphia"
+        ]
+    },
+    {
+        "phrase": "摔角鹰人",
+        "input": [
+            "shuaijiaoyingren",
+            "sjyr",
+            "zhandoufeiniao",
+            "jilaoying",
+            "hawlucha",
+            "ruchaburu"
+        ]
+    },
+    {
+        "phrase": "咚咚鼠",
+        "input": [
+            "dongdongshu",
+            "dds",
+            "dedenne"
+        ]
+    },
+    {
+        "phrase": "小碎钻",
+        "input": [
+            "xiaosuizuan",
+            "xsz",
+            "carbink",
+            "mereshi"
+        ]
+    },
+    {
+        "phrase": "黏黏宝",
+        "input": [
+            "niannianbao",
+            "nnb",
+            "goomy",
+            "numera"
+        ]
+    },
+    {
+        "phrase": "黏美儿",
+        "input": [
+            "nianmeier",
+            "nme",
+            "nmer",
+            "sliggoo",
+            "numeiru"
+        ]
+    },
+    {
+        "phrase": "黏美龙",
+        "input": [
+            "nianmeilong",
+            "nml",
+            "nianmeilulong",
+            "nianlong",
+            "goodra",
+            "numerugon"
+        ]
+    },
+    {
+        "phrase": "钥圈儿",
+        "input": [
+            "yaoquaner",
+            "yaoqvaner",
+            "yuequaner",
+            "yueqvaner",
+            "yvequaner",
+            "yveqvaner",
+            "yqe",
+            "yqer",
+            "klefki",
+            "cleffy"
+        ]
+    },
+    {
+        "phrase": "小木灵",
+        "input": [
+            "xiaomuling",
+            "xml",
+            "phantump",
+            "bokurei"
+        ]
+    },
+    {
+        "phrase": "朽木妖",
+        "input": [
+            "xiumuyao",
+            "xmy",
+            "trevenant",
+            "orotto"
+        ]
+    },
+    {
+        "phrase": "南瓜精",
+        "input": [
+            "nanguajing",
+            "ngj",
+            "pumpkaboo",
+            "bakettya"
+        ]
+    },
+    {
+        "phrase": "南瓜怪人",
+        "input": [
+            "nanguaguairen",
+            "nggr",
+            "gourgeist",
+            "pumpjin"
+        ]
+    },
+    {
+        "phrase": "冰宝",
+        "input": [
+            "bingbao",
+            "bb",
+            "bergmite",
+            "kachikoru"
+        ]
+    },
+    {
+        "phrase": "冰岩怪",
+        "input": [
+            "bingyanguai",
+            "byg",
+            "avalugg",
+            "crebase"
+        ]
+    },
+    {
+        "phrase": "嗡蝠",
+        "input": [
+            "wengfu",
+            "wf",
+            "noibat",
+            "onbatto"
+        ]
+    },
+    {
+        "phrase": "音波龙",
+        "input": [
+            "yinbolong",
+            "ybl",
+            "noivern",
+            "onvern"
+        ]
+    },
+    {
+        "phrase": "哲尔尼亚斯",
+        "input": [
+            "zheerniyasi",
+            "zenys",
+            "xshen",
+            "xlu",
+            "xerneas"
+        ]
+    },
+    {
+        "phrase": "伊裴尔塔尔",
+        "input": [
+            "yipeiertaer",
+            "ypete",
+            "yshen",
+            "yniao",
+            "yveltal"
+        ]
+    },
+    {
+        "phrase": "基格尔德",
+        "input": [
+            "jigeerde",
+            "jged",
+            "zshen",
+            "zshe",
+            "zygarde"
+        ]
+    },
+    {
+        "phrase": "蒂安希",
+        "input": [
+            "dianxi",
+            "dax",
+            "diancie"
+        ]
+    },
+    {
+        "phrase": "胡帕",
+        "input": [
+            "hupa",
+            "hp",
+            "huba",
+            "hoopa"
+        ]
+    },
+    {
+        "phrase": "波尔凯尼恩",
+        "input": [
+            "boerkainien",
+            "bekne",
+            "volcanion"
+        ]
+    },
+    {
+        "phrase": "木木枭",
+        "input": [
+            "mumuxiao",
+            "mmx",
+            "rowlet",
+            "mokuro"
+        ]
+    },
+    {
+        "phrase": "投羽枭",
+        "input": [
+            "touyuxiao",
+            "touyvxiao",
+            "tyx",
+            "dartrix",
+            "fukusuro"
+        ]
+    },
+    {
+        "phrase": "狙射树枭",
+        "input": [
+            "jusheshuxiao",
+            "jvsheshuxiao",
+            "jssx",
+            "decidueye",
+            "junaipa"
+        ]
+    },
+    {
+        "phrase": "火斑喵",
+        "input": [
+            "huobanmiao",
+            "hbm",
+            "litten",
+            "nyabi"
+        ]
+    },
+    {
+        "phrase": "炎热喵",
+        "input": [
+            "yanremiao",
+            "yrm",
+            "torracat",
+            "nyahito"
+        ]
+    },
+    {
+        "phrase": "炽焰咆哮虎",
+        "input": [
+            "chiyanpaoxiaohu",
+            "cypxh",
+            "incineroar",
+            "gaogaen"
+        ]
+    },
+    {
+        "phrase": "球球海狮",
+        "input": [
+            "qiuqiuhaishi",
+            "qqhs",
+            "popplio",
+            "ashimari"
+        ]
+    },
+    {
+        "phrase": "花漾海狮",
+        "input": [
+            "huayanghaishi",
+            "hyhs",
+            "brionne",
+            "oshamari"
+        ]
+    },
+    {
+        "phrase": "西狮海壬",
+        "input": [
+            "xishihairen",
+            "xshr",
+            "haishi",
+            "weinianghaishi",
+            "primarina",
+            "ashirenu"
+        ]
+    },
+    {
+        "phrase": "小笃儿",
+        "input": [
+            "xiaoduer",
+            "xde",
+            "xder",
+            "pikipek",
+            "tsutsukera"
+        ]
+    },
+    {
+        "phrase": "喇叭啄鸟",
+        "input": [
+            "labazhuoniao",
+            "lbzn",
+            "trumbeak",
+            "kerarappa"
+        ]
+    },
+    {
+        "phrase": "铳嘴大鸟",
+        "input": [
+            "chongzuidaniao",
+            "czdn",
+            "tongzuidaniao",
+            "toucannon",
+            "dodekabashi"
+        ]
+    },
+    {
+        "phrase": "猫鼬少",
+        "input": [
+            "maoyoushao",
+            "mys",
+            "yungoos",
+            "yangusu"
+        ]
+    },
+    {
+        "phrase": "猫鼬探长",
+        "input": [
+            "maoyoutanzhang",
+            "mytz",
+            "chuanpu",
+            "gumshoos",
+            "dekagusu"
+        ]
+    },
+    {
+        "phrase": "强颚鸡母虫",
+        "input": [
+            "qiangejimuchong",
+            "qejmc",
+            "grubbin",
+            "rekagusu"
+        ]
+    },
+    {
+        "phrase": "虫电宝",
+        "input": [
+            "chongdianbao",
+            "cdb",
+            "charjabug",
+            "denjimushi"
+        ]
+    },
+    {
+        "phrase": "锹农炮虫",
+        "input": [
+            "qiaonongpaochong",
+            "qnpc",
+            "vikavolt",
+            "kuwaganon"
+        ]
+    },
+    {
+        "phrase": "好胜蟹",
+        "input": [
+            "haoshengxie",
+            "hsx",
+            "crabrawler",
+            "makenkani"
+        ]
+    },
+    {
+        "phrase": "好胜毛蟹",
+        "input": [
+            "haoshengmaoxie",
+            "hsmx",
+            "crabominable",
+            "kekenkani"
+        ]
+    },
+    {
+        "phrase": "花舞鸟",
+        "input": [
+            "huawuniao",
+            "hwn",
+            "oricorio",
+            "odoridori"
+        ]
+    },
+    {
+        "phrase": "萌虻",
+        "input": [
+            "mengmeng",
+            "mm",
+            "cutiefly",
+            "aburi"
+        ]
+    },
+    {
+        "phrase": "蝶结萌虻",
+        "input": [
+            "diejiemengmeng",
+            "djmm",
+            "ribombee",
+            "aburibon"
+        ]
+    },
+    {
+        "phrase": "岩狗狗",
+        "input": [
+            "yangougou",
+            "ygg",
+            "rockruff",
+            "iwanko"
+        ]
+    },
+    {
+        "phrase": "鬃岩狼人",
+        "input": [
+            "zongyanlangren",
+            "zylr",
+            "lycanroc",
+            "rugarugan"
+        ]
+    },
+    {
+        "phrase": "弱丁鱼",
+        "input": [
+            "ruodingyu",
+            "ruodingyv",
+            "rdy",
+            "wishiwashi",
+            "yowashi"
+        ]
+    },
+    {
+        "phrase": "好坏星",
+        "input": [
+            "haohuaixing",
+            "hhx",
+            "mareanie",
+            "hidoide"
+        ]
+    },
+    {
+        "phrase": "超坏星",
+        "input": [
+            "chaohuaixing",
+            "chx",
+            "toxapex",
+            "dohidoide"
+        ]
+    },
+    {
+        "phrase": "泥驴仔",
+        "input": [
+            "nilvzai",
+            "nlz",
+            "mudbray",
+            "dorobanko"
+        ]
+    },
+    {
+        "phrase": "重泥挽马",
+        "input": [
+            "zhongniwanma",
+            "znwm",
+            "nima",
+            "mudsdale",
+            "banbadoro"
+        ]
+    },
+    {
+        "phrase": "滴蛛",
+        "input": [
+            "dizhu",
+            "dz",
+            "dewpider",
+            "shizukumo"
+        ]
+    },
+    {
+        "phrase": "滴蛛霸",
+        "input": [
+            "dizhuba",
+            "dzb",
+            "araquanid",
+            "onishizukumo"
+        ]
+    },
+    {
+        "phrase": "伪螳草",
+        "input": [
+            "weitangcao",
+            "wtc",
+            "fomantis",
+            "karikiri"
+        ]
+    },
+    {
+        "phrase": "兰螳花",
+        "input": [
+            "lantanghua",
+            "lth",
+            "lurantis",
+            "rarantesu"
+        ]
+    },
+    {
+        "phrase": "睡睡菇",
+        "input": [
+            "shuishuigu",
+            "ssg",
+            "morelull",
+            "nemashu"
+        ]
+    },
+    {
+        "phrase": "灯罩夜菇",
+        "input": [
+            "dengzhaoyegu",
+            "dzyg",
+            "shiinotic",
+            "mashedo"
+        ]
+    },
+    {
+        "phrase": "夜盗火蜥",
+        "input": [
+            "yedaohuoxi",
+            "ydhx",
+            "salandit",
+            "yatomori"
+        ]
+    },
+    {
+        "phrase": "焰后蜥",
+        "input": [
+            "yanhouxi",
+            "yhx",
+            "salazzle",
+            "ennyuto"
+        ]
+    },
+    {
+        "phrase": "童偶熊",
+        "input": [
+            "tongouxiong",
+            "tox",
+            "stufful",
+            "nuikoguma"
+        ]
+    },
+    {
+        "phrase": "穿着熊",
+        "input": [
+            "chuanzhuoxiong",
+            "chuanzhexiong",
+            "czx",
+            "xiongshen",
+            "bewear",
+            "kiteruguma"
+        ]
+    },
+    {
+        "phrase": "甜竹竹",
+        "input": [
+            "tianzhuzhu",
+            "tzz",
+            "bounsweet",
+            "amakaji"
+        ]
+    },
+    {
+        "phrase": "甜舞妮",
+        "input": [
+            "tianwuni",
+            "twn",
+            "steenee",
+            "amamaiko"
+        ]
+    },
+    {
+        "phrase": "甜冷美后",
+        "input": [
+            "tianlengmeihou",
+            "tlmh",
+            "tsareena",
+            "amajo"
+        ]
+    },
+    {
+        "phrase": "花疗环环",
+        "input": [
+            "hualiaohuanhuan",
+            "hlhh",
+            "comfey",
+            "kyuwawa"
+        ]
+    },
+    {
+        "phrase": "智挥猩",
+        "input": [
+            "zhihuixing",
+            "zhx",
+            "oranguru",
+            "yareyutan"
+        ]
+    },
+    {
+        "phrase": "投掷猴",
+        "input": [
+            "touzhihou",
+            "tzh",
+            "passimian",
+            "nagekkesaru"
+        ]
+    },
+    {
+        "phrase": "胆小虫",
+        "input": [
+            "danxiaochong",
+            "dxc",
+            "wimpod",
+            "cosokumushi"
+        ]
+    },
+    {
+        "phrase": "具甲武者",
+        "input": [
+            "jujiawuzhe",
+            "jvjiawuzhe",
+            "jjwz",
+            "golisopod",
+            "gusokumusha"
+        ]
+    },
+    {
+        "phrase": "沙丘娃",
+        "input": [
+            "shaqiuwa",
+            "sqw",
+            "sandygast",
+            "sunaba"
+        ]
+    },
+    {
+        "phrase": "噬沙堡爷",
+        "input": [
+            "shishabaoye",
+            "ssby",
+            "palossand",
+            "shirodesuna"
+        ]
+    },
+    {
+        "phrase": "拳海参",
+        "input": [
+            "quanhaishen",
+            "qvanhaishen",
+            "qhs",
+            "pyukumuku",
+            "namakobushi"
+        ]
+    },
+    {
+        "phrase": "属性：空",
+        "input": [
+            "shuxingkong",
+            "sxk",
+            "typenull"
+        ]
+    },
+    {
+        "phrase": "银伴战兽",
+        "input": [
+            "yinbanzhanshou",
+            "ybzs",
+            "xiaoyangtuo",
+            "silvally",
+            "shiruvadi"
+        ]
+    },
+    {
+        "phrase": "小陨星",
+        "input": [
+            "xiaoyunxing",
+            "xiaoyvnxing",
+            "xyx",
+            "minior",
+            "meteno"
+        ]
+    },
+    {
+        "phrase": "树枕尾熊",
+        "input": [
+            "shuzhenweixiong",
+            "szwx",
+            "komala",
+            "nekkoala"
+        ]
+    },
+    {
+        "phrase": "爆焰龟兽",
+        "input": [
+            "baoyanguishou",
+            "bygs",
+            "turtonator",
+            "bakugamesu"
+        ]
+    },
+    {
+        "phrase": "托戈德玛尔",
+        "input": [
+            "tuogedemaer",
+            "tgdme",
+            "togedemaru"
+        ]
+    },
+    {
+        "phrase": "谜拟丘",
+        "input": [
+            "miniqiu",
+            "mnq",
+            "miniq",
+            "koukou",
+            "mimikyu",
+            "mimikkyu"
+        ]
+    },
+    {
+        "phrase": "磨牙彩皮鱼",
+        "input": [
+            "moyacaipiyu",
+            "moyacaipiyv",
+            "mycpy",
+            "bruxish",
+            "hagigishiri"
+        ]
+    },
+    {
+        "phrase": "老翁龙",
+        "input": [
+            "laowenglong",
+            "lwl",
+            "drampa",
+            "ron"
+        ]
+    },
+    {
+        "phrase": "破破舵轮",
+        "input": [
+            "popoduolun",
+            "ppdl",
+            "dhelmise",
+            "dadarin"
+        ]
+    },
+    {
+        "phrase": "心鳞宝",
+        "input": [
+            "xinlinbao",
+            "xlb",
+            "jangmo",
+            "jarako"
+        ]
+    },
+    {
+        "phrase": "鳞甲龙",
+        "input": [
+            "linjialong",
+            "ljl",
+            "hakamo",
+            "jarango"
+        ]
+    },
+    {
+        "phrase": "杖尾鳞甲龙",
+        "input": [
+            "zhangweilinjialong",
+            "zwljl",
+            "doulong",
+            "kommo",
+            "jararanga"
+        ]
+    },
+    {
+        "phrase": "卡璞•鸣鸣",
+        "input": [
+            "kapumingming",
+            "kpmm",
+            "koko",
+            "mingming",
+            "tapukoko",
+            "kapukokeko"
+        ]
+    },
+    {
+        "phrase": "卡璞•蝶蝶",
+        "input": [
+            "kapudiedie",
+            "kpdd",
+            "lele",
+            "diedie",
+            "tapulele",
+            "kaputetefu"
+        ]
+    },
+    {
+        "phrase": "卡璞•哞哞",
+        "input": [
+            "kapumoumou",
+            "bulu",
+            "moumou",
+            "tapubulu",
+            "kapubururu"
+        ]
+    },
+    {
+        "phrase": "卡璞•鳍鳍",
+        "input": [
+            "kapuqiqi",
+            "kpqq",
+            "fini",
+            "qiqi",
+            "tapufini",
+            "kapurehire"
+        ]
+    },
+    {
+        "phrase": "科斯莫古",
+        "input": [
+            "kesimogu",
+            "ksmg",
+            "xiaoxingyun",
+            "xiaoxingyvn",
+            "cosmog"
+        ]
+    },
+    {
+        "phrase": "科斯莫姆",
+        "input": [
+            "kesimomu",
+            "ksmm",
+            "cosmoem",
+            "kosumomu"
+        ]
+    },
+    {
+        "phrase": "索尔迦雷欧",
+        "input": [
+            "suoerjialeiou",
+            "sejlo",
+            "rishen",
+            "rishi",
+            "solgaleo"
+        ]
+    },
+    {
+        "phrase": "露奈雅拉",
+        "input": [
+            "lunaiyala",
+            "lnyl",
+            "yueshen",
+            "yveshen",
+            "yuefu",
+            "yvefu",
+            "lunala"
+        ]
+    },
+    {
+        "phrase": "虚吾伊德",
+        "input": [
+            "xuwuyide",
+            "xvwuyide",
+            "xwyd",
+            "nihilego",
+            "utsuroido"
+        ]
+    },
+    {
+        "phrase": "爆肌蚊",
+        "input": [
+            "baojiwen",
+            "bjw",
+            "buzzwole",
+            "masshibun"
+        ]
+    },
+    {
+        "phrase": "费洛美螂",
+        "input": [
+            "feiluomeilang",
+            "flml",
+            "pheromosa",
+            "feroche"
+        ]
+    },
+    {
+        "phrase": "电束木",
+        "input": [
+            "dianshumu",
+            "dsm",
+            "xurkitree",
+            "denjumoku"
+        ]
+    },
+    {
+        "phrase": "铁火辉夜",
+        "input": [
+            "tiehuohuiye",
+            "thhy",
+            "huiye",
+            "celesteela",
+            "tekkaguya"
+        ]
+    },
+    {
+        "phrase": "纸御剑",
+        "input": [
+            "zhiyujian",
+            "zhiyvjian",
+            "zyj",
+            "kartana",
+            "kamitsurugi"
+        ]
+    },
+    {
+        "phrase": "恶食大王",
+        "input": [
+            "eshidawang",
+            "esdw",
+            "guzzlord",
+            "akujikingu"
+        ]
+    },
+    {
+        "phrase": "奈克洛兹玛",
+        "input": [
+            "naikeluozima",
+            "nklzm",
+            "luozima",
+            "guanghuidashen",
+            "necrozma",
+            "nekurozuma"
+        ]
+    },
+    {
+        "phrase": "玛机雅娜",
+        "input": [
+            "majiyana",
+            "mjyn",
+            "magearna"
+        ]
+    },
+    {
+        "phrase": "玛夏多",
+        "input": [
+            "maxiaduo",
+            "mxd",
+            "marshadow"
+        ]
+    },
+    {
+        "phrase": "毒贝比",
+        "input": [
+            "dubeibi",
+            "dbb",
+            "poipole",
+            "bebenomu"
+        ]
+    },
+    {
+        "phrase": "四颚针龙",
+        "input": [
+            "siezhenlong",
+            "sezl",
+            "dulong",
+            "naganadel",
+            "agoyon"
+        ]
+    },
+    {
+        "phrase": "垒磊石",
+        "input": [
+            "leileishi",
+            "lls",
+            "dieleishi",
+            "stakataka",
+            "tsundetsunde"
+        ]
+    },
+    {
+        "phrase": "砰头小丑",
+        "input": [
+            "pengtouxiaochou",
+            "ptxc",
+            "blacephalon",
+            "zugadon"
+        ]
+    },
+    {
+        "phrase": "捷拉奥拉",
+        "input": [
+            "jielaaola",
+            "jlal",
+            "dianmao",
+            "dianmiao",
+            "zeraora"
+        ]
+    },
+    {
+        "phrase": "美录坦",
+        "input": [
+            "meilutan",
+            "mlt",
+            "meltan"
+        ]
+    },
+    {
+        "phrase": "美录梅塔",
+        "input": [
+            "meilumeita",
+            "mlmt",
+            "melmetal"
+        ]
+    },
+    {
+        "phrase": "敲音猴",
+        "input": [
+            "qiaoyinhou",
+            "qyh",
+            "grookey",
+            "sarunori"
+        ]
+    },
+    {
+        "phrase": "啪咚猴",
+        "input": [
+            "padonghou",
+            "pdh",
+            "thwackey",
+            "bachinki"
+        ]
+    },
+    {
+        "phrase": "轰擂金刚猩",
+        "input": [
+            "hongleijingangxing",
+            "hljgx",
+            "rillaboom",
+            "goriranda"
+        ]
+    },
+    {
+        "phrase": "炎兔儿",
+        "input": [
+            "yantuer",
+            "yte",
+            "yter",
+            "scorbunny",
+            "hibani"
+        ]
+    },
+    {
+        "phrase": "腾蹴小将",
+        "input": [
+            "tengcuxiaojiang",
+            "tcxg",
+            "tangcujiang",
+            "raboot",
+            "rabifutto"
+        ]
+    },
+    {
+        "phrase": "闪焰王牌",
+        "input": [
+            "shanyanwangpai",
+            "sywp",
+            "cinderace"
+        ]
+    },
+    {
+        "phrase": "泪眼蜥",
+        "input": [
+            "leiyanxi",
+            "lyx",
+            "sobble",
+            "messon"
+        ]
+    },
+    {
+        "phrase": "变涩蜥",
+        "input": [
+            "biansexi",
+            "bsx",
+            "drizzile"
+        ]
+    },
+    {
+        "phrase": "千面避役",
+        "input": [
+            "qianmianbiyi",
+            "qmby",
+            "inteleon",
+            "intereon"
+        ]
+    },
+    {
+        "phrase": "贪心栗鼠",
+        "input": [
+            "tanxinlishu",
+            "txls",
+            "skwovet"
+        ]
+    },
+    {
+        "phrase": "藏饱栗鼠",
+        "input": [
+            "cangbaolishu",
+            "cbls",
+            "greedent"
+        ]
+    },
+    {
+        "phrase": "稚山雀",
+        "input": [
+            "zhishanque",
+            "zhishanqve",
+            "zsq",
+            "rookidee"
+        ]
+    },
+    {
+        "phrase": "蓝鸦",
+        "input": [
+            "lanya",
+            "ly",
+            "corvisquire"
+        ]
+    },
+    {
+        "phrase": "钢铠鸦",
+        "input": [
+            "gangkaiya",
+            "gky",
+            "corviknight",
+            "amaga"
+        ]
+    },
+    {
+        "phrase": "索侦虫",
+        "input": [
+            "suozhenchong",
+            "szc",
+            "blipbug"
+        ]
+    },
+    {
+        "phrase": "天罩虫",
+        "input": [
+            "tianzhaochong",
+            "tzc",
+            "dottler"
+        ]
+    },
+    {
+        "phrase": "以欧路普",
+        "input": [
+            "yioulupu",
+            "yolp",
+            "orbeetle"
+        ]
+    },
+    {
+        "phrase": "狡小狐",
+        "input": [
+            "jiaoxiaohu",
+            "jxh",
+            "touerhu",
+            "nickit"
+        ]
+    },
+    {
+        "phrase": "猾大狐",
+        "input": [
+            "huadahu",
+            "hdh",
+            "hudadao",
+            "thievul"
+        ]
+    },
+    {
+        "phrase": "幼棉棉",
+        "input": [
+            "youmianmian",
+            "ymm",
+            "gossifleur"
+        ]
+    },
+    {
+        "phrase": "白蓬蓬",
+        "input": [
+            "baipengpeng",
+            "bpp",
+            "eldegoss",
+            "watashiraga"
+        ]
+    },
+    {
+        "phrase": "毛辫羊",
+        "input": [
+            "maobianyang",
+            "mby",
+            "wooloo",
+            "uru"
+        ]
+    },
+    {
+        "phrase": "毛毛角羊",
+        "input": [
+            "maomaojiaoyang",
+            "mmjy",
+            "dubwool"
+        ]
+    },
+    {
+        "phrase": "咬咬龟",
+        "input": [
+            "yaoyaogui",
+            "yyg",
+            "chewtle"
+        ]
+    },
+    {
+        "phrase": "暴噬龟",
+        "input": [
+            "baoshigui",
+            "bsg",
+            "drednaw",
+            "kajirigame"
+        ]
+    },
+    {
+        "phrase": "来电汪",
+        "input": [
+            "laidianwang",
+            "ldw",
+            "yamper",
+            "wanpachi"
+        ]
+    },
+    {
+        "phrase": "逐电犬",
+        "input": [
+            "zhudianquan",
+            "zhudianqvan",
+            "zdq",
+            "boltund"
+        ]
+    },
+    {
+        "phrase": "小炭仔",
+        "input": [
+            "xiaotanzi",
+            "xiaotanzai",
+            "xtz",
+            "rolycoly",
+            "tandon"
+        ]
+    },
+    {
+        "phrase": "大炭车",
+        "input": [
+            "datanche",
+            "dtc",
+            "carkol"
+        ]
+    },
+    {
+        "phrase": "巨炭山",
+        "input": [
+            "jutanshan",
+            "jvtanshan",
+            "jts",
+            "coalossal"
+        ]
+    },
+    {
+        "phrase": "啃果虫",
+        "input": [
+            "kenguochong",
+            "kgc",
+            "applin"
+        ]
+    },
+    {
+        "phrase": "苹裹龙",
+        "input": [
+            "pingguolong",
+            "pgl",
+            "flapple"
+        ]
+    },
+    {
+        "phrase": "丰蜜龙",
+        "input": [
+            "fengmilong",
+            "fml",
+            "appletun"
+        ]
+    },
+    {
+        "phrase": "沙包蛇",
+        "input": [
+            "shabaoshe",
+            "sbs",
+            "silicobra"
+        ]
+    },
+    {
+        "phrase": "沙螺蟒",
+        "input": [
+            "shaluomang",
+            "slm",
+            "sandaconda"
+        ]
+    },
+    {
+        "phrase": "古月鸟",
+        "input": [
+            "guyueniao",
+            "guyveniao",
+            "gyn",
+            "cramorant"
+        ]
+    },
+    {
+        "phrase": "刺梭鱼",
+        "input": [
+            "cisuoyu",
+            "cisuoyv",
+            "csy",
+            "arrokuda"
+        ]
+    },
+    {
+        "phrase": "戽斗尖梭",
+        "input": [
+            "hudoujiansuo",
+            "hdjs",
+            "barraskewda"
+        ]
+    },
+    {
+        "phrase": "电音婴",
+        "input": [
+            "dianyinying",
+            "dyy",
+            "dudianying",
+            "toxel"
+        ]
+    },
+    {
+        "phrase": "颤弦蝾螈",
+        "input": [
+            "chanxianrongyuan",
+            "chanxianrongyvan",
+            "cxry",
+            "toxtricity"
+        ]
+    },
+    {
+        "phrase": "烧火蚣",
+        "input": [
+            "shaohuogong",
+            "shg",
+            "sizzlipede"
+        ]
+    },
+    {
+        "phrase": "焚焰蚣",
+        "input": [
+            "fenyangong",
+            "fyg",
+            "centiskorch"
+        ]
+    },
+    {
+        "phrase": "拳拳蛸",
+        "input": [
+            "quanquanxiao",
+            "quanqvanxiao",
+            "qvanquanxiao",
+            "qvanqvanxiao",
+            "qqx",
+            "clobbopus"
+        ]
+    },
+    {
+        "phrase": "八爪武师",
+        "input": [
+            "bazhaowushi",
+            "bzws",
+            "grapploct"
+        ]
+    },
+    {
+        "phrase": "来悲茶",
+        "input": [
+            "laibeicha",
+            "lbc",
+            "sinistea"
+        ]
+    },
+    {
+        "phrase": "怖思壶",
+        "input": [
+            "busihu",
+            "bsh",
+            "polteageist",
+            "pottodesu"
+        ]
+    },
+    {
+        "phrase": "迷布莉姆",
+        "input": [
+            "mibulimu",
+            "mblm",
+            "hatenna"
+        ]
+    },
+    {
+        "phrase": "提布莉姆",
+        "input": [
+            "tibulimu",
+            "tblm",
+            "hattrem"
+        ]
+    },
+    {
+        "phrase": "布莉姆温",
+        "input": [
+            "bulimuwen",
+            "blmw",
+            "monv",
+            "hatterene"
+        ]
+    },
+    {
+        "phrase": "捣蛋小妖",
+        "input": [
+            "daodanxiaoyao",
+            "ddxy",
+            "impidimp",
+            "beroba"
+        ]
+    },
+    {
+        "phrase": "诈唬魔",
+        "input": [
+            "zhahumo",
+            "zhm",
+            "morgrem"
+        ]
+    },
+    {
+        "phrase": "长毛巨魔",
+        "input": [
+            "changmaojumo",
+            "changmaojvmo",
+            "cmjm",
+            "jumo",
+            "jvmo",
+            "grimmsnarl",
+            "oronge"
+        ]
+    },
+    {
+        "phrase": "堵拦熊",
+        "input": [
+            "dulanxiong",
+            "dlx",
+            "obstagoon",
+            "tachifusaguma"
+        ]
+    },
+    {
+        "phrase": "喵头目",
+        "input": [
+            "miaotoumu",
+            "mtm",
+            "perrserker",
+            "nyaikingu"
+        ]
+    },
+    {
+        "phrase": "魔灵珊瑚",
+        "input": [
+            "molingshanhu",
+            "mlsh",
+            "cursola",
+            "sanigon"
+        ]
+    },
+    {
+        "phrase": "葱游兵",
+        "input": [
+            "congyoubing",
+            "cyb",
+            "sirfetchd",
+            "negiganaito"
+        ]
+    },
+    {
+        "phrase": "踏冰人偶",
+        "input": [
+            "tabingrenou",
+            "tbro",
+            "mrrime",
+            "barikooru"
+        ]
+    },
+    {
+        "phrase": "迭失板",
+        "input": [
+            "dieshiban",
+            "dsb",
+            "sishenban",
+            "runerigus",
+            "desuban"
+        ]
+    },
+    {
+        "phrase": "小仙奶",
+        "input": [
+            "xiaoxiannai",
+            "xxn",
+            "milcery",
+            "mahomiru"
+        ]
+    },
+    {
+        "phrase": "霜奶仙",
+        "input": [
+            "shuangnaixian",
+            "snx",
+            "alcremie",
+            "mahoippu"
+        ]
+    },
+    {
+        "phrase": "列阵兵",
+        "input": [
+            "liezhenbing",
+            "lzb",
+            "falinks",
+            "tairetsu"
+        ]
+    },
+    {
+        "phrase": "啪嚓海胆",
+        "input": [
+            "pacahaidan",
+            "pchd",
+            "pincurchin",
+            "bachinuni"
+        ]
+    },
+    {
+        "phrase": "雪吞虫",
+        "input": [
+            "xuetunchong",
+            "xvetunchong",
+            "xtc",
+            "snom",
+            "yukihami"
+        ]
+    },
+    {
+        "phrase": "雪绒蛾",
+        "input": [
+            "xueronge",
+            "xveronge",
+            "xre",
+            "frosmoth",
+            "mosunou"
+        ]
+    },
+    {
+        "phrase": "巨石丁",
+        "input": [
+            "jushiding",
+            "jvshiding",
+            "jsd",
+            "stonjourner",
+            "ishihenjin"
+        ]
+    },
+    {
+        "phrase": "冰砌鹅",
+        "input": [
+            "bingqie",
+            "bqe",
+            "eiscue",
+            "korippo"
+        ]
+    },
+    {
+        "phrase": "爱管侍",
+        "input": [
+            "aiguanshi",
+            "ags",
+            "indeedee",
+            "yessan"
+        ]
+    },
+    {
+        "phrase": "莫鲁贝可",
+        "input": [
+            "molubeike",
+            "mlbk",
+            "morpeko"
+        ]
+    },
+    {
+        "phrase": "铜象",
+        "input": [
+            "tongxiang",
+            "tx",
+            "cufant",
+            "zoudou"
+        ]
+    },
+    {
+        "phrase": "大王铜象",
+        "input": [
+            "dawangtongxiang",
+            "dwtx",
+            "copperajah",
+            "daioudou"
+        ]
+    },
+    {
+        "phrase": "雷鸟龙",
+        "input": [
+            "leiniaolong",
+            "lnl",
+            "dracozolt",
+            "pacchiragon"
+        ]
+    },
+    {
+        "phrase": "雷鸟海兽",
+        "input": [
+            "leiniaohaishou",
+            "lnhs",
+            "arctozolt",
+            "pacchirudon"
+        ]
+    },
+    {
+        "phrase": "鳃鱼龙",
+        "input": [
+            "saiyulong",
+            "saiyvlong",
+            "syl",
+            "dracovish",
+            "uonoragon"
+        ]
+    },
+    {
+        "phrase": "鳃鱼海兽",
+        "input": [
+            "saiyuhaishou",
+            "saiyvhaishou",
+            "syhs",
+            "arctovish",
+            "uonochirudon"
+        ]
+    },
+    {
+        "phrase": "铝钢龙",
+        "input": [
+            "lvganglong",
+            "lgl",
+            "duraludon",
+            "jurarudon"
+        ]
+    },
+    {
+        "phrase": "多龙梅西亚",
+        "input": [
+            "duolongmeixiya",
+            "dlmxy",
+            "dreepy",
+            "dorameshiya"
+        ]
+    },
+    {
+        "phrase": "多龙奇",
+        "input": [
+            "duolongqi",
+            "dlq",
+            "drakloak",
+            "doronchi"
+        ]
+    },
+    {
+        "phrase": "多龙巴鲁托",
+        "input": [
+            "duolongbalutuo",
+            "dlblt",
+            "dragapult",
+            "doraparuto"
+        ]
+    },
+    {
+        "phrase": "苍响",
+        "input": [
+            "cangxiang",
+            "cx",
+            "jiangou",
+            "zacian",
+            "zashian"
+        ]
+    },
+    {
+        "phrase": "藏玛然特",
+        "input": [
+            "zangmarante",
+            "zmrt",
+            "dungou",
+            "zamazenta"
+        ]
+    },
+    {
+        "phrase": "无极汰那",
+        "input": [
+            "wujitaina",
+            "wjtn",
+            "eternatus"
+        ]
+    },
+    {
+        "phrase": "熊徒弟",
+        "input": [
+            "xiongtudi",
+            "xtd",
+            "kubfu",
+            "dakuma"
+        ]
+    },
+    {
+        "phrase": "武道熊师",
+        "input": [
+            "wudaoxiongshi",
+            "wdxs",
+            "urshifu",
+            "uraosu"
+        ]
+    },
+    {
+        "phrase": "萨戮德",
+        "input": [
+            "salude",
+            "sld",
+            "zarude"
+        ]
+    },
+    {
+        "phrase": "雷吉艾勒奇",
+        "input": [
+            "leijiaileqi",
+            "ljalq",
+            "dianshenzhu",
+            "dianmatong",
+            "regieleki",
+            "rejiereki"
+        ]
+    },
+    {
+        "phrase": "雷吉铎拉戈",
+        "input": [
+            "leijiduolage",
+            "ljdlg",
+            "longshenzhu",
+            "longmatong",
+            "regidrago",
+            "rejidorago"
+        ]
+    },
+    {
+        "phrase": "雪暴马",
+        "input": [
+            "xuebaoma",
+            "xvebaoma",
+            "xbm",
+            "glastrier",
+            "burizaposu"
+        ]
+    },
+    {
+        "phrase": "灵幽马",
+        "input": [
+            "lingyouma",
+            "lym",
+            "spectrier",
+            "reisuposu"
+        ]
+    },
+    {
+        "phrase": "蕾冠王",
+        "input": [
+            "leiguanwang",
+            "lgw",
+            "calyrex",
+            "badorekkusu"
+        ]
+    },
+    {
+        "phrase": "诡角鹿",
+        "input": [
+            "guijiaolu",
+            "gjl",
+            "wyrdeer",
+            "ayashishi"
+        ]
+    },
+    {
+        "phrase": "劈斧螳螂",
+        "input": [
+            "pifutanglang",
+            "fupitanglang",
+            "pftl",
+            "kleavor",
+            "basagiri"
+        ]
+    },
+    {
+        "phrase": "月月熊",
+        "input": [
+            "yueyuexiong",
+            "yyx",
+            "ursaluna",
+            "gachikuma"
+        ]
+    },
+    {
+        "phrase": "幽尾玄鱼",
+        "input": [
+            "youweixuanyu",
+            "youweixianyu",
+            "youxuanweiyu",
+            "ywxy",
+            "basculegion",
+            "idaitou"
+        ]
+    },
+    {
+        "phrase": "大狃拉",
+        "input": [
+            "daniula",
+            "dnl",
+            "sneasler",
+            "ohnyula"
+        ]
+    },
+    {
+        "phrase": "万针鱼",
+        "input": [
+            "wanzhenyu",
+            "wzy",
+            "overqwil",
+            "haryman"
+        ]
+    },
+    {
+        "phrase": "眷恋云",
+        "input": [
+            "juanlianyun",
+            "jvanlianyun",
+            "jly",
+            "enamorus",
+            "lovetolos"
+        ]
+    },
+    {
+        "phrase": "新叶喵",
+        "input": [
+            "xinyemiao",
+            "xym",
+            "nyaoha",
+            "sprigatito"
+        ]
+    },
+    {
+        "phrase": "蒂蕾喵",
+        "input": [
+            "dileimiao",
+            "dlm",
+            "nyaroite",
+            "floragato"
+        ]
+    },
+    {
+        "phrase": "魔幻假面喵",
+        "input": [
+            "mohuanjiamianmiao",
+            "mhjmm",
+            "masukainya",
+            "meowscarada"
+        ]
+    },
+    {
+        "phrase": "呆火鳄",
+        "input": [
+            "daihuoe",
+            "dhe",
+            "hogeita",
+            "fuecoco"
+        ]
+    },
+    {
+        "phrase": "炙烫鳄",
+        "input": [
+            "zhitange",
+            "zte",
+            "atigeita",
+            "crocalor"
+        ]
+    },
+    {
+        "phrase": "骨纹巨声鳄",
+        "input": [
+            "guwenjushenge",
+            "guwenjvshenge",
+            "gwjse",
+            "raudoboin",
+            "skeledirge"
+        ]
+    },
+    {
+        "phrase": "润水鸭",
+        "input": [
+            "runshuiya",
+            "rsy",
+            "kuwassu",
+            "quaxly"
+        ]
+    },
+    {
+        "phrase": "涌跃鸭",
+        "input": [
+            "yongyueya",
+            "yyy",
+            "wherukamo",
+            "quaxwell"
+        ]
+    },
+    {
+        "phrase": "狂欢浪舞鸭",
+        "input": [
+            "kuanghuanlangwuya",
+            "khlwy",
+            "wheinibaru",
+            "quaquaval"
+        ]
+    },
+    {
+        "phrase": "爱吃豚",
+        "input": [
+            "aichitun",
+            "act",
+            "guruton",
+            "lechonk"
+        ]
+    },
+    {
+        "phrase": "飘香豚",
+        "input": [
+            "piaoxiangtun",
+            "pxt",
+            "pafyuiton",
+            "oinkologne"
+        ]
+    },
+    {
+        "phrase": "团珠蛛",
+        "input": [
+            "tuanzhuzhu",
+            "tzz",
+            "tamantyura",
+            "tarountula"
+        ]
+    },
+    {
+        "phrase": "操陷蛛",
+        "input": [
+            "caoxianzhu",
+            "cxz",
+            "wanaidai",
+            "spidops"
+        ]
+    },
+    {
+        "phrase": "豆蟋蟀",
+        "input": [
+            "douxishuai",
+            "dxs",
+            "mamebatta",
+            "nymble"
+        ]
+    },
+    {
+        "phrase": "烈腿蝗",
+        "input": [
+            "lietuihuang",
+            "lth",
+            "ekusureggu",
+            "lokix"
+        ]
+    },
+    {
+        "phrase": "布拨",
+        "input": [
+            "bubo",
+            "bb",
+            "pamo",
+            "pawmi"
+        ]
+    },
+    {
+        "phrase": "布土拨",
+        "input": [
+            "butubo",
+            "btb",
+            "pamotto",
+            "pawmo"
+        ]
+    },
+    {
+        "phrase": "巴布土拨",
+        "input": [
+            "babutubo",
+            "bbtb",
+            "paimotto",
+            "pawmot"
+        ]
+    },
+    {
+        "phrase": "一对鼠",
+        "input": [
+            "yiduishu",
+            "yds",
+            "wakkanezumi",
+            "tandemaus"
+        ]
+    },
+    {
+        "phrase": "一家鼠",
+        "input": [
+            "yijiashu",
+            "yjs",
+            "ikkanezumi",
+            "maushold"
+        ]
+    },
+    {
+        "phrase": "狗仔包",
+        "input": [
+            "gouzaibao",
+            "gzb",
+            "pabimotti",
+            "fidough",
+            "gouzibao"
+        ]
+    },
+    {
+        "phrase": "麻花犬",
+        "input": [
+            "mahuaquan",
+            "mhq",
+            "bauttseru",
+            "dachsbun"
+        ]
+    },
+    {
+        "phrase": "迷你芙",
+        "input": [
+            "minifu",
+            "mnf",
+            "miniibu",
+            "smoliv"
+        ]
+    },
+    {
+        "phrase": "奥利纽",
+        "input": [
+            "aoliniu",
+            "aln",
+            "oriinyo",
+            "dolliv"
+        ]
+    },
+    {
+        "phrase": "奥利瓦",
+        "input": [
+            "aoliwa",
+            "alw",
+            "oriiva",
+            "arboliva"
+        ]
+    },
+    {
+        "phrase": "怒鹦哥",
+        "input": [
+            "nuyingge",
+            "nyg",
+            "ikirinko",
+            "squawkabilly"
+        ]
+    },
+    {
+        "phrase": "盐石宝",
+        "input": [
+            "yanshibao",
+            "ysb",
+            "kozio",
+            "nacli"
+        ]
+    },
+    {
+        "phrase": "盐石垒",
+        "input": [
+            "yanshilei",
+            "ysl",
+            "ziotumu",
+            "naclstack"
+        ]
+    },
+    {
+        "phrase": "盐石巨灵",
+        "input": [
+            "yanshijuling",
+            "yanshijvling",
+            "ysjl",
+            "kyozioin",
+            "garganacl"
+        ]
+    },
+    {
+        "phrase": "炭小侍",
+        "input": [
+            "tanxiaoshi",
+            "txs",
+            "karubou",
+            "charcadet"
+        ]
+    },
+    {
+        "phrase": "红莲铠骑",
+        "input": [
+            "hongliankaiqi",
+            "hlkq",
+            "gurenaruma",
+            "armarouge"
+        ]
+    },
+    {
+        "phrase": "苍炎刃鬼",
+        "input": [
+            "cangyanrengui",
+            "cyrg",
+            "soubureizu",
+            "ceruledge"
+        ]
+    },
+    {
+        "phrase": "光蚪仔",
+        "input": [
+            "guangdouzai",
+            "gdz",
+            "zupika",
+            "tadbulb",
+            "guangdouzi"
+        ]
+    },
+    {
+        "phrase": "电肚蛙",
+        "input": [
+            "dianduwa",
+            "ddw",
+            "harabarii",
+            "bellibolt"
+        ]
+    },
+    {
+        "phrase": "电海燕",
+        "input": [
+            "dianhaiyan",
+            "dhy",
+            "kaiden",
+            "wattrel"
+        ]
+    },
+    {
+        "phrase": "大电海燕",
+        "input": [
+            "dadianhaiyan",
+            "ddhy",
+            "taikaiden",
+            "kilowattrel"
+        ]
+    },
+    {
+        "phrase": "偶叫獒",
+        "input": [
+            "oujiaoao",
+            "oja",
+            "oratihu",
+            "maschiff"
+        ]
+    },
+    {
+        "phrase": "獒教父",
+        "input": [
+            "aojiaofu",
+            "ajf",
+            "mafithihu",
+            "mabosstiff"
+        ]
+    },
+    {
+        "phrase": "滋汁鼹",
+        "input": [
+            "zizhiyan",
+            "zzy",
+            "sirusyurui",
+            "shroodle"
+        ]
+    },
+    {
+        "phrase": "涂标客",
+        "input": [
+            "tubiaoke",
+            "tbk",
+            "taginguru",
+            "grafaiai"
+        ]
+    },
+    {
+        "phrase": "纳噬草",
+        "input": [
+            "nashicao",
+            "nsc",
+            "anokusa",
+            "bramblin"
+        ]
+    },
+    {
+        "phrase": "怖纳噬草",
+        "input": [
+            "bunashicao",
+            "bnsc",
+            "anohoragusa",
+            "brambleghast"
+        ]
+    },
+    {
+        "phrase": "原野水母",
+        "input": [
+            "yuanyeshuimu",
+            "yysm",
+            "nonokurage",
+            "toedscool"
+        ]
+    },
+    {
+        "phrase": "陆地水母",
+        "input": [
+            "ludishuimu",
+            "ldsm",
+            "rikukurage",
+            "toedscruel"
+        ]
+    },
+    {
+        "phrase": "毛崖蟹",
+        "input": [
+            "maoyaxie",
+            "myx",
+            "gakegani",
+            "klawf"
+        ]
+    },
+    {
+        "phrase": "热辣娃",
+        "input": [
+            "relawa",
+            "rlw",
+            "kapusaizi",
+            "capsakid"
+        ]
+    },
+    {
+        "phrase": "狠辣椒",
+        "input": [
+            "henlajiao",
+            "hlj",
+            "sukoviran",
+            "scovillain"
+        ]
+    },
+    {
+        "phrase": "虫滚泥",
+        "input": [
+            "chonggunni",
+            "cgn",
+            "sigaroko",
+            "rellor"
+        ]
+    },
+    {
+        "phrase": "虫甲圣",
+        "input": [
+            "chongjiasheng",
+            "cjs",
+            "berakasu",
+            "rabsca"
+        ]
+    },
+    {
+        "phrase": "飘飘雏",
+        "input": [
+            "piaopiaochu",
+            "ppc",
+            "hirahina",
+            "flittle"
+        ]
+    },
+    {
+        "phrase": "超能艳鸵",
+        "input": [
+            "chaonengyantuo",
+            "cnyt",
+            "kuesupatora",
+            "espathra"
+        ]
+    },
+    {
+        "phrase": "小锻匠",
+        "input": [
+            "xiaoduanjiang",
+            "xdj",
+            "kanutyan",
+            "tinkatink"
+        ]
+    },
+    {
+        "phrase": "巧锻匠",
+        "input": [
+            "qiaoduanjiang",
+            "qdj",
+            "nakanutyan",
+            "tinkatuff"
+        ]
+    },
+    {
+        "phrase": "巨锻匠",
+        "input": [
+            "juduanjiang",
+            "jvduanjiang",
+            "jdj",
+            "dekanutyan",
+            "tinkaton"
+        ]
+    },
+    {
+        "phrase": "海地鼠",
+        "input": [
+            "haidishu",
+            "hds",
+            "umidhiguda",
+            "wiglett"
+        ]
+    },
+    {
+        "phrase": "三海地鼠",
+        "input": [
+            "sanhaidishu",
+            "shds",
+            "umitorio",
+            "wugtrio"
+        ]
+    },
+    {
+        "phrase": "下石鸟",
+        "input": [
+            "xiashiniao",
+            "xsn",
+            "otosidori",
+            "bombirdier"
+        ]
+    },
+    {
+        "phrase": "波普海豚",
+        "input": [
+            "bopuhaitun",
+            "bpht",
+            "namiiruka",
+            "finizen"
+        ]
+    },
+    {
+        "phrase": "海豚侠",
+        "input": [
+            "haitunxia",
+            "htx",
+            "irukaman",
+            "palafin"
+        ]
+    },
+    {
+        "phrase": "噗隆隆",
+        "input": [
+            "pulonglong",
+            "pll",
+            "buroron",
+            "varoom"
+        ]
+    },
+    {
+        "phrase": "普隆隆姆",
+        "input": [
+            "pulonglongmu",
+            "pllm",
+            "burororoimu",
+            "revavroom"
+        ]
+    },
+    {
+        "phrase": "摩托蜥",
+        "input": [
+            "motuoxi",
+            "mtx",
+            "mototokage",
+            "cyclizar"
+        ]
+    },
+    {
+        "phrase": "拖拖蚓",
+        "input": [
+            "tuotuoyin",
+            "tty",
+            "mimizuzu",
+            "orthworm"
+        ]
+    },
+    {
+        "phrase": "晶光芽",
+        "input": [
+            "jingguangya",
+            "jgy",
+            "kiraime",
+            "glimmet"
+        ]
+    },
+    {
+        "phrase": "晶光花",
+        "input": [
+            "jingguanghua",
+            "jgh",
+            "kirahuroru",
+            "glimmora"
+        ]
+    },
+    {
+        "phrase": "墓仔狗",
+        "input": [
+            "muzaigou",
+            "mzg",
+            "boti",
+            "greavard",
+            "muzigou"
+        ]
+    },
+    {
+        "phrase": "墓扬犬",
+        "input": [
+            "muyangquan",
+            "myq",
+            "hakadoggu",
+            "houndstone"
+        ]
+    },
+    {
+        "phrase": "缠红鹤",
+        "input": [
+            "chanhonghe",
+            "chh",
+            "karamingo",
+            "flamigo"
+        ]
+    },
+    {
+        "phrase": "走鲸",
+        "input": [
+            "zoujing",
+            "zj",
+            "arukuzira",
+            "cetoddle"
+        ]
+    },
+    {
+        "phrase": "浩大鲸",
+        "input": [
+            "haodajing",
+            "hdj",
+            "harukuzira",
+            "cetitan"
+        ]
+    },
+    {
+        "phrase": "轻身鳕",
+        "input": [
+            "qingshenxue",
+            "qsx",
+            "migaruisa",
+            "veluza"
+        ]
+    },
+    {
+        "phrase": "吃吼霸",
+        "input": [
+            "chihouba",
+            "chb",
+            "heirassya",
+            "dondozo"
+        ]
+    },
+    {
+        "phrase": "米立龙",
+        "input": [
+            "mililong",
+            "mll",
+            "syaritatu",
+            "tatsugiri"
+        ]
+    },
+    {
+        "phrase": "弃世猴",
+        "input": [
+            "qishihou",
+            "qsh",
+            "konoyozaru",
+            "annihilape"
+        ]
+    },
+    {
+        "phrase": "土王",
+        "input": [
+            "tuwang",
+            "tw",
+            "dooi",
+            "clodsire"
+        ]
+    },
+    {
+        "phrase": "奇麒麟",
+        "input": [
+            "qiqilin",
+            "qql",
+            "rikikirin",
+            "farigiraf"
+        ]
+    },
+    {
+        "phrase": "土龙节节",
+        "input": [
+            "tulongjiejie",
+            "tljj",
+            "nokokotti",
+            "dudunsparce"
+        ]
+    },
+    {
+        "phrase": "仆刀将军",
+        "input": [
+            "pudaojiangjun",
+            "pdjj",
+            "dodogezan",
+            "kingambit"
+        ]
+    },
+    {
+        "phrase": "雄伟牙",
+        "input": [
+            "xiongweiya",
+            "xwy",
+            "idainakiba",
+            "greattusk"
+        ]
+    },
+    {
+        "phrase": "吼叫尾",
+        "input": [
+            "houjiaowei",
+            "hjw",
+            "sakepusippo",
+            "screamtail"
+        ]
+    },
+    {
+        "phrase": "猛恶菇",
+        "input": [
+            "mengegu",
+            "meg",
+            "araburutake",
+            "brutebonnet"
+        ]
+    },
+    {
+        "phrase": "振翼发",
+        "input": [
+            "zhenyifa",
+            "zyf",
+            "habatakukami",
+            "fluttermane"
+        ]
+    },
+    {
+        "phrase": "爬地翅",
+        "input": [
+            "padichi",
+            "pdc",
+            "tiwohauhane",
+            "slitherwing"
+        ]
+    },
+    {
+        "phrase": "沙铁皮",
+        "input": [
+            "shatiepi",
+            "stp",
+            "sunanokegawa",
+            "sandyshocks"
+        ]
+    },
+    {
+        "phrase": "铁辙迹",
+        "input": [
+            "tiezheji",
+            "tzj",
+            "tetunobuzin",
+            "lrontreads"
+        ]
+    },
+    {
+        "phrase": "铁包袱",
+        "input": [
+            "tiebaofu",
+            "tbf",
+            "tetunotutumi",
+            "lronbundle"
+        ]
+    },
+    {
+        "phrase": "铁臂膀",
+        "input": [
+            "tiebibang",
+            "tbb",
+            "tetunokaina",
+            "lronhands"
+        ]
+    },
+    {
+        "phrase": "铁脖颈",
+        "input": [
+            "tiebogeng",
+            "tbg",
+            "tetunokoube",
+            "lronjugulis",
+            "tiebojing",
+            "tbj"
+        ]
+    },
+    {
+        "phrase": "铁毒蛾",
+        "input": [
+            "tiedue",
+            "tdd",
+            "tetunodokuga",
+            "lronmonth"
+        ]
+    },
+    {
+        "phrase": "铁荆棘",
+        "input": [
+            "tiejingji",
+            "tjj",
+            "tetunoibara",
+            "lronthorns"
+        ]
+    },
+    {
+        "phrase": "凉脊龙",
+        "input": [
+            "liangjilong",
+            "ljl",
+            "sebie",
+            "frigibax"
+        ]
+    },
+    {
+        "phrase": "冻脊龙",
+        "input": [
+            "dongjilong",
+            "djl",
+            "segoiru",
+            "arctibax"
+        ]
+    },
+    {
+        "phrase": "戟脊龙",
+        "input": [
+            "jijilong",
+            "jjl",
+            "segureibu",
+            "baxcalibur"
+        ]
+    },
+    {
+        "phrase": "索财灵",
+        "input": [
+            "suocailing",
+            "scl",
+            "korekurei",
+            "gimmighoul"
+        ]
+    },
+    {
+        "phrase": "赛富豪",
+        "input": [
+            "saifuhao",
+            "sfh",
+            "saihugoi",
+            "gholdengo"
+        ]
+    },
+    {
+        "phrase": "古简蜗",
+        "input": [
+            "gujianwo",
+            "gjw",
+            "tionzyen",
+            "wochien"
+        ]
+    },
+    {
+        "phrase": "古剑豹",
+        "input": [
+            "gujianbao",
+            "gjb",
+            "paozian",
+            "chienpao"
+        ]
+    },
+    {
+        "phrase": "古鼎鹿",
+        "input": [
+            "gudinglu",
+            "gdl",
+            "dhinrui",
+            "tinglu"
+        ]
+    },
+    {
+        "phrase": "古玉鱼",
+        "input": [
+            "guyuyu",
+            "gyy",
+            "iiyui",
+            "chiyu"
+        ]
+    },
+    {
+        "phrase": "轰鸣月",
+        "input": [
+            "hongmingyue",
+            "hmy",
+            "todorokutuki",
+            "roaringmane"
+        ]
+    },
+    {
+        "phrase": "铁武者",
+        "input": [
+            "tiewuzhe",
+            "twz",
+            "tetunobuzin",
+            "lronvaliant"
+        ]
+    },
+    {
+        "phrase": "故勒顿",
+        "input": [
+            "guledun",
+            "gld",
+            "koraidon"
+        ]
+    },
+    {
+        "phrase": "密勒顿",
+        "input": [
+            "miledun",
+            "mld",
+            "miraidon"
+        ]
+    }
+]

@@ -1,4 +1,0 @@
-source_allPokemon.txt
-<MID>
-Pboard_allPokemon
-Pboard宝可梦名称

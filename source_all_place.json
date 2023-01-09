@@ -1,0 +1,5337 @@
+[
+    {
+        "phrase": "关都",
+        "input": [
+            "guandu",
+            "gd"
+        ]
+    },
+    {
+        "phrase": "城都",
+        "input": [
+            "chengdu",
+            "cd"
+        ]
+    },
+    {
+        "phrase": "丰缘",
+        "input": [
+            "fengyuan",
+            "fy"
+        ]
+    },
+    {
+        "phrase": "七之岛",
+        "input": [
+            "qizhidao",
+            "qzd"
+        ]
+    },
+    {
+        "phrase": "神奥",
+        "input": [
+            "shenao",
+            "sa"
+        ]
+    },
+    {
+        "phrase": "洗翠",
+        "input": [
+            "xicui",
+            "xc"
+        ]
+    },
+    {
+        "phrase": "合众",
+        "input": [
+            "hezhong",
+            "hz"
+        ]
+    },
+    {
+        "phrase": "卡洛斯",
+        "input": [
+            "kaluosi",
+            "kls"
+        ]
+    },
+    {
+        "phrase": "阿罗拉",
+        "input": [
+            "aluola",
+            "all"
+        ]
+    },
+    {
+        "phrase": "伽勒尔",
+        "input": [
+            "jialeer",
+            "galeer",
+            "jle",
+            "gle"
+        ]
+    },
+    {
+        "phrase": "铠岛",
+        "input": [
+            "kaidao",
+            "kd"
+        ]
+    },
+    {
+        "phrase": "王冠雪原",
+        "input": [
+            "wangguanxueyuan",
+            "wgxy"
+        ]
+    },
+    {
+        "phrase": "帕底亚",
+        "input": [
+            "padiya",
+            "pdy"
+        ]
+    },
+    {
+        "phrase": "菲蕾",
+        "input": [
+            "feilei",
+            "fl"
+        ]
+    },
+    {
+        "phrase": "阿尔米亚",
+        "input": [
+            "aermiya",
+            "aemy"
+        ]
+    },
+    {
+        "phrase": "奥卜利比亚",
+        "input": [
+            "aobolibiya",
+            "ablby"
+        ]
+    },
+    {
+        "phrase": "欧雷",
+        "input": [
+            "oulei",
+            "ol"
+        ]
+    },
+    {
+        "phrase": "坚铁",
+        "input": [
+            "jiantie",
+            "jt"
+        ]
+    },
+    {
+        "phrase": "蓝蒂尔",
+        "input": [
+            "landier",
+            "lde"
+        ]
+    },
+    {
+        "phrase": "嘉门泰岛",
+        "input": [
+            "jiamentaidao",
+            "jmtd"
+        ]
+    },
+    {
+        "phrase": "跳跃镇",
+        "input": [
+            "tiaoyuezhen",
+            "tyz"
+        ]
+    },
+    {
+        "phrase": "莱姆市",
+        "input": [
+            "laimushi",
+            "lms"
+        ]
+    },
+    {
+        "phrase": "方可乐岛",
+        "input": [
+            "fangkeledao",
+            "fkld"
+        ]
+    },
+    {
+        "phrase": "帕希欧",
+        "input": [
+            "paxiou",
+            "pxo"
+        ]
+    },
+    {
+        "phrase": "亿奥斯岛",
+        "input": [
+            "yiaosidao",
+            "yasd"
+        ]
+    },
+    {
+        "phrase": "真新镇",
+        "input": [
+            "zhenxinzhen",
+            "zxz"
+        ]
+    },
+    {
+        "phrase": "常青市",
+        "input": [
+            "changqingshi",
+            "cqs"
+        ]
+    },
+    {
+        "phrase": "深灰市",
+        "input": [
+            "shenhuishi",
+            "shs"
+        ]
+    },
+    {
+        "phrase": "华蓝市",
+        "input": [
+            "hualanshi",
+            "hls"
+        ]
+    },
+    {
+        "phrase": "枯叶市",
+        "input": [
+            "kuyeshi",
+            "kys"
+        ]
+    },
+    {
+        "phrase": "玉虹市",
+        "input": [
+            "yuhongshi",
+            "yhs"
+        ]
+    },
+    {
+        "phrase": "紫苑镇",
+        "input": [
+            "ziyuanzhen",
+            "zyz"
+        ]
+    },
+    {
+        "phrase": "金黄市",
+        "input": [
+            "jinhuangshi",
+            "jhs"
+        ]
+    },
+    {
+        "phrase": "浅红市",
+        "input": [
+            "qianhongshi",
+            "qhs"
+        ]
+    },
+    {
+        "phrase": "红莲镇",
+        "input": [
+            "honglianzhen",
+            "hlz"
+        ]
+    },
+    {
+        "phrase": "华蓝洞窟",
+        "input": [
+            "hualandongku",
+            "hldk"
+        ]
+    },
+    {
+        "phrase": "石英高原",
+        "input": [
+            "shiyinggaoyuan",
+            "sygy"
+        ]
+    },
+    {
+        "phrase": "月见山",
+        "input": [
+            "yuejianshan",
+            "yjs"
+        ]
+    },
+    {
+        "phrase": "宝可梦塔",
+        "input": [
+            "baokemengta",
+            "bkmt"
+        ]
+    },
+    {
+        "phrase": "岩山隧道",
+        "input": [
+            "yanshansuidao",
+            "yssd"
+        ]
+    },
+    {
+        "phrase": "狩猎地带",
+        "input": [
+            "shouliedidai",
+            "sldd"
+        ]
+    },
+    {
+        "phrase": "双子岛",
+        "input": [
+            "shuangzidao",
+            "szd"
+        ]
+    },
+    {
+        "phrase": "寂静桥",
+        "input": [
+            "jijingqiao",
+            "jjq"
+        ]
+    },
+    {
+        "phrase": "西尔佛公司",
+        "input": [
+            "xierfugongsi",
+            "xefgs"
+        ]
+    },
+    {
+        "phrase": "圣特安努号",
+        "input": [
+            "shengteannuhao",
+            "stanh"
+        ]
+    },
+    {
+        "phrase": "都城瀑布",
+        "input": [
+            "duchengpubu",
+            "dcpb"
+        ]
+    },
+    {
+        "phrase": "地下通道",
+        "input": [
+            "dixiatongdao",
+            "dxtd"
+        ]
+    },
+    {
+        "phrase": "冠军之路",
+        "input": [
+            "guanjunzhilu",
+            "gjzl"
+        ]
+    },
+    {
+        "phrase": "常青森林",
+        "input": [
+            "changqingsenlin",
+            "cqsl"
+        ]
+    },
+    {
+        "phrase": "磁浮列车",
+        "input": [
+            "cifulieche",
+            "cflc"
+        ]
+    },
+    {
+        "phrase": "伙伴公园",
+        "input": [
+            "huobangongyuan",
+            "hbgy"
+        ]
+    },
+    {
+        "phrase": "肚脐岩",
+        "input": [
+            "duqiyan",
+            "dqy"
+        ]
+    },
+    {
+        "phrase": "诞生之岛",
+        "input": [
+            "danshengzhidao",
+            "dszd"
+        ]
+    },
+    {
+        "phrase": "火照山道",
+        "input": [
+            "huozhaoshandao",
+            "hzsd"
+        ]
+    },
+    {
+        "phrase": "灯火山",
+        "input": [
+            "denghuoshan",
+            "dhs"
+        ]
+    },
+    {
+        "phrase": "宝物海滩",
+        "input": [
+            "baowuhaitan",
+            "bwht"
+        ]
+    },
+    {
+        "phrase": "歧波海湾",
+        "input": [
+            "qibohaiwan",
+            "qbhw"
+        ]
+    },
+    {
+        "phrase": "果实森林",
+        "input": [
+            "guoshisenlin",
+            "gssl"
+        ]
+    },
+    {
+        "phrase": "冻瀑洞窟",
+        "input": [
+            "dongpudongku",
+            "dpdk"
+        ]
+    },
+    {
+        "phrase": "不归之穴",
+        "input": [
+            "buguizhixue",
+            "bgzx"
+        ]
+    },
+    {
+        "phrase": "回忆之塔",
+        "input": [
+            "huiyizhita",
+            "hyzt"
+        ]
+    },
+    {
+        "phrase": "记号树林",
+        "input": [
+            "jihaoshulin",
+            "jhsl"
+        ]
+    },
+    {
+        "phrase": "外岛",
+        "input": [
+            "waidao",
+            "wd"
+        ]
+    },
+    {
+        "phrase": "变化洞窟",
+        "input": [
+            "bianhuadongku",
+            "bhdk"
+        ]
+    },
+    {
+        "phrase": "遗迹山谷",
+        "input": [
+            "yijishangu",
+            "yjsg"
+        ]
+    },
+    {
+        "phrase": "点之穴",
+        "input": [
+            "dianzhixue",
+            "dzx"
+        ]
+    },
+    {
+        "phrase": "溪谷入口",
+        "input": [
+            "xigurukou",
+            "xgrk"
+        ]
+    },
+    {
+        "phrase": "七宝溪谷",
+        "input": [
+            "qibaoxigu",
+            "qbxg"
+        ]
+    },
+    {
+        "phrase": "阿斯卡纳",
+        "input": [
+            "asikana",
+            "askn"
+        ]
+    },
+    {
+        "phrase": "伊莱斯石室",
+        "input": [
+            "yilaisishishi",
+            "ylsss"
+        ]
+    },
+    {
+        "phrase": "那藏石室",
+        "input": [
+            "nacangshishi",
+            "ncss"
+        ]
+    },
+    {
+        "phrase": "由格石室",
+        "input": [
+            "yougeshishi",
+            "ygss"
+        ]
+    },
+    {
+        "phrase": "阿利波卡石室",
+        "input": [
+            "alibokashishi",
+            "albkss"
+        ]
+    },
+    {
+        "phrase": "科斗石室",
+        "input": [
+            "kedoushishi",
+            "kdss"
+        ]
+    },
+    {
+        "phrase": "阿努泽石室",
+        "input": [
+            "anuzeshishi",
+            "anzss"
+        ]
+    },
+    {
+        "phrase": "澳利弗石室",
+        "input": [
+            "aolifushishi",
+            "alfss"
+        ]
+    },
+    {
+        "phrase": "若叶镇",
+        "input": [
+            "ruoyezhen",
+            "ryz"
+        ]
+    },
+    {
+        "phrase": "吉花市",
+        "input": [
+            "jihuashi",
+            "jhs"
+        ]
+    },
+    {
+        "phrase": "桔梗市",
+        "input": [
+            "jiegengshi",
+            "jgs"
+        ]
+    },
+    {
+        "phrase": "桧皮镇",
+        "input": [
+            "guipizhen",
+            "gpz"
+        ]
+    },
+    {
+        "phrase": "满金市",
+        "input": [
+            "manjinshi",
+            "mjs"
+        ]
+    },
+    {
+        "phrase": "缘朱市",
+        "input": [
+            "yuanzhushi",
+            "yzs"
+        ]
+    },
+    {
+        "phrase": "浅葱市",
+        "input": [
+            "qiancongshi",
+            "qcs"
+        ]
+    },
+    {
+        "phrase": "湛蓝市",
+        "input": [
+            "zhanlanshi",
+            "zls"
+        ]
+    },
+    {
+        "phrase": "卡吉镇",
+        "input": [
+            "kajizhen",
+            "kjz"
+        ]
+    },
+    {
+        "phrase": "烟墨市",
+        "input": [
+            "yanmoshi",
+            "yms"
+        ]
+    },
+    {
+        "phrase": "铃音小道",
+        "input": [
+            "lingyinxiaodao",
+            "lyxd"
+        ]
+    },
+    {
+        "phrase": "烧焦塔",
+        "input": [
+            "shaojiaota",
+            "sjt"
+        ]
+    },
+    {
+        "phrase": "黑暗穴",
+        "input": [
+            "heianxue",
+            "hax"
+        ]
+    },
+    {
+        "phrase": "埋藏之塔",
+        "input": [
+            "maicangzhita",
+            "mczt"
+        ]
+    },
+    {
+        "phrase": "光辉灯塔",
+        "input": [
+            "guanghuidengta",
+            "ghdt"
+        ]
+    },
+    {
+        "phrase": "满金地道",
+        "input": [
+            "manjindidao",
+            "mjdd"
+        ]
+    },
+    {
+        "phrase": "冰雪小径",
+        "input": [
+            "bingxuexiaojing",
+            "bxxj"
+        ]
+    },
+    {
+        "phrase": "栎树林",
+        "input": [
+            "lishulin",
+            "lsl"
+        ]
+    },
+    {
+        "phrase": "愤怒之湖",
+        "input": [
+            "fennuzhihu",
+            "fnzh"
+        ]
+    },
+    {
+        "phrase": "哞哞牧场",
+        "input": [
+            "moumoumuchang",
+            "mmmc"
+        ]
+    },
+    {
+        "phrase": "擂钵山",
+        "input": [
+            "leiboshan",
+            "lbs"
+        ]
+    },
+    {
+        "phrase": "白银山",
+        "input": [
+            "baiyinshan",
+            "bys"
+        ]
+    },
+    {
+        "phrase": "满金电台",
+        "input": [
+            "manjindiantai",
+            "mjdt"
+        ]
+    },
+    {
+        "phrase": "阿露福遗迹",
+        "input": [
+            "alufuyiji",
+            "alfyj"
+        ]
+    },
+    {
+        "phrase": "铃铛塔",
+        "input": [
+            "lingdangta",
+            "ldt"
+        ]
+    },
+    {
+        "phrase": "互连洞",
+        "input": [
+            "huliandong",
+            "hld"
+        ]
+    },
+    {
+        "phrase": "漩涡岛",
+        "input": [
+            "xuanwodao",
+            "xwd"
+        ]
+    },
+    {
+        "phrase": "未白镇",
+        "input": [
+            "weibaizhen",
+            "wbz"
+        ]
+    },
+    {
+        "phrase": "古玫镇",
+        "input": [
+            "gumeizhen",
+            "gmz"
+        ]
+    },
+    {
+        "phrase": "橙华市",
+        "input": [
+            "chenghuashi",
+            "chs"
+        ]
+    },
+    {
+        "phrase": "卡那兹市",
+        "input": [
+            "kanazishi",
+            "knzs"
+        ]
+    },
+    {
+        "phrase": "武斗镇",
+        "input": [
+            "wudouzhen",
+            "wdz"
+        ]
+    },
+    {
+        "phrase": "凯那市",
+        "input": [
+            "kainashi",
+            "kns"
+        ]
+    },
+    {
+        "phrase": "紫堇市",
+        "input": [
+            "zijinshi",
+            "zjs"
+        ]
+    },
+    {
+        "phrase": "绿茵镇",
+        "input": [
+            "lvyinzhen",
+            "luyinzhen",
+            "lyz"
+        ]
+    },
+    {
+        "phrase": "秋叶镇",
+        "input": [
+            "qiuyezhen",
+            "qyz"
+        ]
+    },
+    {
+        "phrase": "釜炎镇",
+        "input": [
+            "fuyanzhen",
+            "fyz"
+        ]
+    },
+    {
+        "phrase": "茵郁市",
+        "input": [
+            "yinyushi",
+            "yys"
+        ]
+    },
+    {
+        "phrase": "水静市",
+        "input": [
+            "shuijingshi",
+            "sjs"
+        ]
+    },
+    {
+        "phrase": "绿岭市",
+        "input": [
+            "lvlingshi",
+            "lulingshi",
+            "lls"
+        ]
+    },
+    {
+        "phrase": "琉璃市",
+        "input": [
+            "liulishi",
+            "lls"
+        ]
+    },
+    {
+        "phrase": "暮水镇",
+        "input": [
+            "mushuizhen",
+            "msz"
+        ]
+    },
+    {
+        "phrase": "彩悠市",
+        "input": [
+            "caiyoushi",
+            "cys"
+        ]
+    },
+    {
+        "phrase": "工匠之穴",
+        "input": [
+            "gongjiangzhixue",
+            "gjzx"
+        ]
+    },
+    {
+        "phrase": "觉醒神殿",
+        "input": [
+            "juexingshendian",
+            "jxsd"
+        ]
+    },
+    {
+        "phrase": "沙漠遗迹",
+        "input": [
+            "shamoyiji",
+            "smyj"
+        ]
+    },
+    {
+        "phrase": "烈焰小径",
+        "input": [
+            "lieyanxiaojing",
+            "lyxj"
+        ]
+    },
+    {
+        "phrase": "凹凸山道",
+        "input": [
+            "aotushandao",
+            "atsd"
+        ]
+    },
+    {
+        "phrase": "海之窟",
+        "input": [
+            "haizhiku",
+            "hzk"
+        ]
+    },
+    {
+        "phrase": "流星瀑布",
+        "input": [
+            "liuxingpubu",
+            "lxpb"
+        ]
+    },
+    {
+        "phrase": "幻之岛",
+        "input": [
+            "huanzhidao",
+            "hzd"
+        ]
+    },
+    {
+        "phrase": "幻影之塔",
+        "input": [
+            "huanyingzhita",
+            "hyzt"
+        ]
+    },
+    {
+        "phrase": "烟囱山",
+        "input": [
+            "yancongshan",
+            "ycs"
+        ]
+    },
+    {
+        "phrase": "送神山",
+        "input": [
+            "songshenshan",
+            "sss"
+        ]
+    },
+    {
+        "phrase": "新紫堇",
+        "input": [
+            "xinzijin",
+            "xzj"
+        ]
+    },
+    {
+        "phrase": "橙华森林",
+        "input": [
+            "chenghuasenlin",
+            "chsl"
+        ]
+    },
+    {
+        "phrase": "卡绿隧道",
+        "input": [
+            "kalvsuidao",
+            "kalusuidao",
+            "klsd"
+        ]
+    },
+    {
+        "phrase": "天旱石窟",
+        "input": [
+            "tianhanshiku",
+            "thsk"
+        ]
+    },
+    {
+        "phrase": "海底洞窟",
+        "input": [
+            "haididongku",
+            "hddk"
+        ]
+    },
+    {
+        "phrase": "布告石室",
+        "input": [
+            "bugaoshishi",
+            "bgss"
+        ]
+    },
+    {
+        "phrase": "浅滩洞穴",
+        "input": [
+            "qiantandongxue",
+            "qtdx"
+        ]
+    },
+    {
+        "phrase": "天空之柱",
+        "input": [
+            "tiankongzhizhu",
+            "tkzz"
+        ]
+    },
+    {
+        "phrase": "南方孤岛",
+        "input": [
+            "nanfanggudao",
+            "nfgd"
+        ]
+    },
+    {
+        "phrase": "陆之窟",
+        "input": [
+            "luzhiku",
+            "lzk"
+        ]
+    },
+    {
+        "phrase": "海紫堇",
+        "input": [
+            "haizijin",
+            "hzj"
+        ]
+    },
+    {
+        "phrase": "朦胧洞窟",
+        "input": [
+            "menglongdongku",
+            "mldk"
+        ]
+    },
+    {
+        "phrase": "歪曲洞穴",
+        "input": [
+            "waiqudongxue",
+            "wqdx"
+        ]
+    },
+    {
+        "phrase": "弓形岛",
+        "input": [
+            "gongxingdao",
+            "gxd"
+        ]
+    },
+    {
+        "phrase": "双叶镇",
+        "input": [
+            "shuangyezhen",
+            "syz"
+        ]
+    },
+    {
+        "phrase": "真砂镇",
+        "input": [
+            "zhenshazhen",
+            "zsz"
+        ]
+    },
+    {
+        "phrase": "祝庆市",
+        "input": [
+            "zhuqingshi",
+            "zqs"
+        ]
+    },
+    {
+        "phrase": "黑金市",
+        "input": [
+            "heijinshi",
+            "hjs"
+        ]
+    },
+    {
+        "phrase": "花苑镇",
+        "input": [
+            "huayuanzhen",
+            "hyz"
+        ]
+    },
+    {
+        "phrase": "百代市",
+        "input": [
+            "baidaishi",
+            "bds"
+        ]
+    },
+    {
+        "phrase": "家缘市",
+        "input": [
+            "jiayuanshi",
+            "jys"
+        ]
+    },
+    {
+        "phrase": "随意镇",
+        "input": [
+            "suiyizhen",
+            "syz"
+        ]
+    },
+    {
+        "phrase": "帷幕市",
+        "input": [
+            "weimushi",
+            "wms"
+        ]
+    },
+    {
+        "phrase": "野原市",
+        "input": [
+            "yeyuanshi",
+            "yys"
+        ]
+    },
+    {
+        "phrase": "神和镇",
+        "input": [
+            "shenhezhen",
+            "shz"
+        ]
+    },
+    {
+        "phrase": "水脉市",
+        "input": [
+            "shuimaishi",
+            "sms"
+        ]
+    },
+    {
+        "phrase": "雪峰市",
+        "input": [
+            "xuefengshi",
+            "xfs"
+        ]
+    },
+    {
+        "phrase": "滨海市",
+        "input": [
+            "binhaishi",
+            "bhs"
+        ]
+    },
+    {
+        "phrase": "心齐湖",
+        "input": [
+            "xinqihu",
+            "xqh"
+        ]
+    },
+    {
+        "phrase": "全球终端",
+        "input": [
+            "quanqiuzhongduan",
+            "qqzd"
+        ]
+    },
+    {
+        "phrase": "祝庆公寓",
+        "input": [
+            "zhuqinggongyu",
+            "zqgy"
+        ]
+    },
+    {
+        "phrase": "荒芜小道",
+        "input": [
+            "huangwuxiaodao",
+            "hwxd"
+        ]
+    },
+    {
+        "phrase": "黑金闸口",
+        "input": [
+            "heijinzhakou",
+            "hjzk"
+        ]
+    },
+    {
+        "phrase": "黑金炭坑",
+        "input": [
+            "heijintankeng",
+            "hjtk"
+        ]
+    },
+    {
+        "phrase": "花苑花田",
+        "input": [
+            "huayuanhuatian",
+            "hyht"
+        ]
+    },
+    {
+        "phrase": "山谷发电厂",
+        "input": [
+            "shangufadianchang",
+            "sgfdc"
+        ]
+    },
+    {
+        "phrase": "百代森林",
+        "input": [
+            "baidaisenlin",
+            "bdsl"
+        ]
+    },
+    {
+        "phrase": "森之洋馆",
+        "input": [
+            "senzhiyangguan",
+            "szyg"
+        ]
+    },
+    {
+        "phrase": "百代公寓",
+        "input": [
+            "baidaigongyu",
+            "bdgy"
+        ]
+    },
+    {
+        "phrase": "银河百代大楼",
+        "input": [
+            "yinhebaidaidalou",
+            "yhbddl"
+        ]
+    },
+    {
+        "phrase": "地下大洞窟",
+        "input": [
+            "dixiadadongku",
+            "dxddk"
+        ]
+    },
+    {
+        "phrase": "迷幻洞窟",
+        "input": [
+            "mihuandongku",
+            "mhdk"
+        ]
+    },
+    {
+        "phrase": "天冠山",
+        "input": [
+            "tianguanshan",
+            "tgs"
+        ]
+    },
+    {
+        "phrase": "互动广场",
+        "input": [
+            "hudongguangchang",
+            "hdgc"
+        ]
+    },
+    {
+        "phrase": "宝芬料理厨房",
+        "input": [
+            "baofenliaolichufang",
+            "bfllcf"
+        ]
+    },
+    {
+        "phrase": "异文化建筑",
+        "input": [
+            "yiwenhuajianzhu",
+            "ywhjz"
+        ]
+    },
+    {
+        "phrase": "迷失塔",
+        "input": [
+            "mishita",
+            "mst"
+        ]
+    },
+    {
+        "phrase": "灵魂之塔",
+        "input": [
+            "linghunzhita",
+            "lhzt"
+        ]
+    },
+    {
+        "phrase": "随意遗迹",
+        "input": [
+            "suiyiyiji",
+            "syyj"
+        ]
+    },
+    {
+        "phrase": "帷幕百货",
+        "input": [
+            "weimubaihuo",
+            "wmbh"
+        ]
+    },
+    {
+        "phrase": "银河帷幕大楼",
+        "input": [
+            "yinheweimudalou",
+            "yhwmdl"
+        ]
+    },
+    {
+        "phrase": "银河队基地",
+        "input": [
+            "yinheduijidi",
+            "yhdjd"
+        ]
+    },
+    {
+        "phrase": "银河仓库",
+        "input": [
+            "yinhecangku",
+            "yhck"
+        ]
+    },
+    {
+        "phrase": "帷幕游戏城",
+        "input": [
+            "weimuyouxicheng",
+            "wmyxc"
+        ]
+    },
+    {
+        "phrase": "挥指时尚精品馆",
+        "input": [
+            "huizhishishangjingpinguan",
+            "hzssjpg"
+        ]
+    },
+    {
+        "phrase": "湖畔大饭店",
+        "input": [
+            "hupandafandian",
+            "hpdfd"
+        ]
+    },
+    {
+        "phrase": "遗迹迷洞穴",
+        "input": [
+            "yijimidongxue",
+            "yjmdx"
+        ]
+    },
+    {
+        "phrase": "遗迹迷隧道",
+        "input": [
+            "yijimisuidao",
+            "yjmsd"
+        ]
+    },
+    {
+        "phrase": "七星餐厅",
+        "input": [
+            "qixingcanting",
+            "qxct"
+        ]
+    },
+    {
+        "phrase": "大湿地",
+        "input": [
+            "dashidi",
+            "dsd"
+        ]
+    },
+    {
+        "phrase": "立志湖",
+        "input": [
+            "lizhihu",
+            "lzh"
+        ]
+    },
+    {
+        "phrase": "自豪的后院",
+        "input": [
+            "zihaodehouyuan",
+            "zhdhy"
+        ]
+    },
+    {
+        "phrase": "水脉图书馆",
+        "input": [
+            "shuimaitushuguan",
+            "smtsg"
+        ]
+    },
+    {
+        "phrase": "码头旅馆",
+        "input": [
+            "matoulvguan",
+            "matouluguan",
+            "mtlg"
+        ]
+    },
+    {
+        "phrase": "钢铁岛",
+        "input": [
+            "gangtiedao",
+            "gtd"
+        ]
+    },
+    {
+        "phrase": "睿智湖",
+        "input": [
+            "ruizhihu",
+            "rzh"
+        ]
+    },
+    {
+        "phrase": "雪峰神殿",
+        "input": [
+            "xuefengshendian",
+            "xfsd"
+        ]
+    },
+    {
+        "phrase": "岩山遗迹",
+        "input": [
+            "yanshanyiji",
+            "ysyj"
+        ]
+    },
+    {
+        "phrase": "黑金遗迹",
+        "input": [
+            "heijinyiji",
+            "hjyj"
+        ]
+    },
+    {
+        "phrase": "冰山遗迹",
+        "input": [
+            "bingshanyiji",
+            "bsyj"
+        ]
+    },
+    {
+        "phrase": "隐泉之路",
+        "input": [
+            "yinquanzhilu",
+            "yqzl"
+        ]
+    },
+    {
+        "phrase": "送行之泉",
+        "input": [
+            "songxingzhiquan",
+            "sxzq"
+        ]
+    },
+    {
+        "phrase": "归途洞窟",
+        "input": [
+            "guitudongku",
+            "gtdk"
+        ]
+    },
+    {
+        "phrase": "毁坏的世界",
+        "input": [
+            "huihuaideshijie",
+            "hhdsj"
+        ]
+    },
+    {
+        "phrase": "枪之柱",
+        "input": [
+            "qiangzhizhu",
+            "qzz"
+        ]
+    },
+    {
+        "phrase": "起始之殿",
+        "input": [
+            "qishizhidian",
+            "qszd"
+        ]
+    },
+    {
+        "phrase": "严酷山",
+        "input": [
+            "yankushan",
+            "yks"
+        ]
+    },
+    {
+        "phrase": "破海之路",
+        "input": [
+            "pohaizhilu",
+            "phzl"
+        ]
+    },
+    {
+        "phrase": "花之乐园",
+        "input": [
+            "huazhileyuan",
+            "hzly"
+        ]
+    },
+    {
+        "phrase": "新月岛",
+        "input": [
+            "xinyuedao",
+            "xyd"
+        ]
+    },
+    {
+        "phrase": "满月岛",
+        "input": [
+            "manyuedao",
+            "myd"
+        ]
+    },
+    {
+        "phrase": "多多罗钢铁厂",
+        "input": [
+            "duoduoluogangtiechang",
+            "ddlgtc"
+        ]
+    },
+    {
+        "phrase": "玫瑰公园",
+        "input": [
+            "meiguigongyuan",
+            "mggy"
+        ]
+    },
+    {
+        "phrase": "祝庆村",
+        "input": [
+            "zhuqingcun",
+            "zqc"
+        ]
+    },
+    {
+        "phrase": "易宝摊",
+        "input": [
+            "yibaotan",
+            "ybt"
+        ]
+    },
+    {
+        "phrase": "银杏商会",
+        "input": [
+            "yinxingshanghui",
+            "yxsh"
+        ]
+    },
+    {
+        "phrase": "起始海滩",
+        "input": [
+            "qishihaitan",
+            "qsht"
+        ]
+    },
+    {
+        "phrase": "野外训练场",
+        "input": [
+            "yewaixunlianchang",
+            "ywxlc"
+        ]
+    },
+    {
+        "phrase": "云雾遗迹",
+        "input": [
+            "yunwuyiji",
+            "ywyj"
+        ]
+    },
+    {
+        "phrase": "金刚聚落",
+        "input": [
+            "jingangjuluo",
+            "jgjl"
+        ]
+    },
+    {
+        "phrase": "神奥神殿",
+        "input": [
+            "shenaoshendian",
+            "sasd"
+        ]
+    },
+    {
+        "phrase": "珍珠聚落",
+        "input": [
+            "zhenzhujuluo",
+            "zzjl"
+        ]
+    },
+    {
+        "phrase": "古昔隐居地",
+        "input": [
+            "guxiyinjudi",
+            "gxyjd"
+        ]
+    },
+    {
+        "phrase": "黑曜原野",
+        "input": [
+            "heiyaoyuanye",
+            "hyyy"
+        ]
+    },
+    {
+        "phrase": "红莲湿地",
+        "input": [
+            "honglianshidi",
+            "hlsd"
+        ]
+    },
+    {
+        "phrase": "群青海岸",
+        "input": [
+            "qunqinghaian",
+            "qqha"
+        ]
+    },
+    {
+        "phrase": "天冠山麓",
+        "input": [
+            "tianguanshanlu",
+            "tgsl"
+        ]
+    },
+    {
+        "phrase": "纯白冻土",
+        "input": [
+            "chunbaidongtu",
+            "cbdt"
+        ]
+    },
+    {
+        "phrase": "大志坡",
+        "input": [
+            "dazhipo",
+            "dzp"
+        ]
+    },
+    {
+        "phrase": "蹄铁草原",
+        "input": [
+            "titiecaoyuan",
+            "ttcy"
+        ]
+    },
+    {
+        "phrase": "角鹿山道",
+        "input": [
+            "jiaolushandao",
+            "jlsd"
+        ]
+    },
+    {
+        "phrase": "角鹿高岗",
+        "input": [
+            "jiaolugaogang",
+            "jlgg"
+        ]
+    },
+    {
+        "phrase": "黑曜瀑布",
+        "input": [
+            "heiyaopubu",
+            "hypb"
+        ]
+    },
+    {
+        "phrase": "黑金隧道",
+        "input": [
+            "heijinsuidao",
+            "hjsd"
+        ]
+    },
+    {
+        "phrase": "森林膳房",
+        "input": [
+            "senlinshanfang",
+            "slsf"
+        ]
+    },
+    {
+        "phrase": "深幽森林",
+        "input": [
+            "shenyousenlin",
+            "sysl"
+        ]
+    },
+    {
+        "phrase": "险林",
+        "input": [
+            "xianlin",
+            "xl"
+        ]
+    },
+    {
+        "phrase": "真砂平原",
+        "input": [
+            "zhenshapingyuan",
+            "zspy"
+        ]
+    },
+    {
+        "phrase": "河口堤堰",
+        "input": [
+            "hekoudiyan",
+            "hkdy"
+        ]
+    },
+    {
+        "phrase": "荒园开垦地",
+        "input": [
+            "huangyuankaikendi",
+            "hykkd"
+        ]
+    },
+    {
+        "phrase": "驰风道",
+        "input": [
+            "chifengdao",
+            "cfd"
+        ]
+    },
+    {
+        "phrase": "削石桥",
+        "input": [
+            "xueshiqiao",
+            "xsq"
+        ]
+    },
+    {
+        "phrase": "苔岩",
+        "input": [
+            "taiyan",
+            "ty"
+        ]
+    },
+    {
+        "phrase": "金色平野",
+        "input": [
+            "jinsepingye",
+            "jspy"
+        ]
+    },
+    {
+        "phrase": "大嘴沼泽",
+        "input": [
+            "dazuizhaoze",
+            "dzzz"
+        ]
+    },
+    {
+        "phrase": "泥炭台地",
+        "input": [
+            "nitantaidi",
+            "nttd"
+        ]
+    },
+    {
+        "phrase": "绯红沼",
+        "input": [
+            "feihongzhao",
+            "fhz"
+        ]
+    },
+    {
+        "phrase": "隆隆坡",
+        "input": [
+            "longlongpo",
+            "llp"
+        ]
+    },
+    {
+        "phrase": "云海山道",
+        "input": [
+            "yunhaishandao",
+            "yhsd"
+        ]
+    },
+    {
+        "phrase": "试炼沙洲",
+        "input": [
+            "shilianshazhou",
+            "slsz"
+        ]
+    },
+    {
+        "phrase": "羽音原野",
+        "input": [
+            "yuyinyuanye",
+            "yyyy"
+        ]
+    },
+    {
+        "phrase": "羊胡草原",
+        "input": [
+            "yanghucaoyuan",
+            "yhcy"
+        ]
+    },
+    {
+        "phrase": "金刚后山",
+        "input": [
+            "jinganghoushan",
+            "jghs"
+        ]
+    },
+    {
+        "phrase": "熊的比武场",
+        "input": [
+            "xiongdebiwuchang",
+            "xdbwc"
+        ]
+    },
+    {
+        "phrase": "通海坡",
+        "input": [
+            "tonghaipo",
+            "thp"
+        ]
+    },
+    {
+        "phrase": "银杏沙滩",
+        "input": [
+            "yinxingshatan",
+            "yxst"
+        ]
+    },
+    {
+        "phrase": "鬼枯原",
+        "input": [
+            "guikuyuan",
+            "gky"
+        ]
+    },
+    {
+        "phrase": "后浦",
+        "input": [
+            "houpu",
+            "hp"
+        ]
+    },
+    {
+        "phrase": "沙洲道",
+        "input": [
+            "shazhoudao",
+            "szd"
+        ]
+    },
+    {
+        "phrase": "帷幕海角",
+        "input": [
+            "weimuhaijiao",
+            "wmhj"
+        ]
+    },
+    {
+        "phrase": "海草乐园",
+        "input": [
+            "haicaoleyuan",
+            "hcly"
+        ]
+    },
+    {
+        "phrase": "吹火岛",
+        "input": [
+            "chuihuodao",
+            "chd"
+        ]
+    },
+    {
+        "phrase": "大鱼隐岩",
+        "input": [
+            "dayuyinyan",
+            "dyyy"
+        ]
+    },
+    {
+        "phrase": "望岛滩",
+        "input": [
+            "wangdaotan",
+            "wdt"
+        ]
+    },
+    {
+        "phrase": "迎风林",
+        "input": [
+            "yingfenglin",
+            "yfl"
+        ]
+    },
+    {
+        "phrase": "潮路",
+        "input": [
+            "chaolu",
+            "cl"
+        ]
+    },
+    {
+        "phrase": "海边小洞",
+        "input": [
+            "haibianxiaodong",
+            "hbxd"
+        ]
+    },
+    {
+        "phrase": "火山口祠",
+        "input": [
+            "huoshankouci",
+            "hskc"
+        ]
+    },
+    {
+        "phrase": "沙手",
+        "input": [
+            "shashou",
+            "ss"
+        ]
+    },
+    {
+        "phrase": "离散石滩",
+        "input": [
+            "lisanshitan",
+            "lsst"
+        ]
+    },
+    {
+        "phrase": "宁静湾",
+        "input": [
+            "ningjingwan",
+            "njw"
+        ]
+    },
+    {
+        "phrase": "戏水潟湖",
+        "input": [
+            "xishuixihu",
+            "xsxh"
+        ]
+    },
+    {
+        "phrase": "神前高岗",
+        "input": [
+            "shenqiangaogang",
+            "sqgg"
+        ]
+    },
+    {
+        "phrase": "迷失山林",
+        "input": [
+            "mishishanlin",
+            "mssl"
+        ]
+    },
+    {
+        "phrase": "古代采石场",
+        "input": [
+            "gudaicaishichang",
+            "gdcsc"
+        ]
+    },
+    {
+        "phrase": "神阖山道",
+        "input": [
+            "shenheshandao",
+            "shsd"
+        ]
+    },
+    {
+        "phrase": "离泉",
+        "input": [
+            "liquan",
+            "lq"
+        ]
+    },
+    {
+        "phrase": "妖精之泉",
+        "input": [
+            "yaojingzhiquan",
+            "yjzq"
+        ]
+    },
+    {
+        "phrase": "隆隆山地",
+        "input": [
+            "longlongshandi",
+            "llsd"
+        ]
+    },
+    {
+        "phrase": "列石山道",
+        "input": [
+            "lieshishandao",
+            "lssd"
+        ]
+    },
+    {
+        "phrase": "太古洞穴",
+        "input": [
+            "taigudongxue",
+            "tgdx"
+        ]
+    },
+    {
+        "phrase": "攀崖崖",
+        "input": [
+            "panyaya",
+            "pyy"
+        ]
+    },
+    {
+        "phrase": "神阖寺院遗址",
+        "input": [
+            "shenhesiyuanyizhi",
+            "shsyyz"
+        ]
+    },
+    {
+        "phrase": "岩门",
+        "input": [
+            "yanmen",
+            "ym"
+        ]
+    },
+    {
+        "phrase": "笠云锥道",
+        "input": [
+            "liyunzhuidao",
+            "lyzd"
+        ]
+    },
+    {
+        "phrase": "巡礼者之路",
+        "input": [
+            "xunlizhezhilu",
+            "xlzzl"
+        ]
+    },
+    {
+        "phrase": "祈祷广场",
+        "input": [
+            "qidaoguangchang",
+            "qdgc"
+        ]
+    },
+    {
+        "phrase": "雪涛谷",
+        "input": [
+            "xuetaogu",
+            "xtg"
+        ]
+    },
+    {
+        "phrase": "冰隙小径",
+        "input": [
+            "bingxixiaojing",
+            "bxxj"
+        ]
+    },
+    {
+        "phrase": "酷寒荒地",
+        "input": [
+            "kuhanhuangdi",
+            "khhd"
+        ]
+    },
+    {
+        "phrase": "冰岩块",
+        "input": [
+            "bingyankuai",
+            "byk"
+        ]
+    },
+    {
+        "phrase": "冰河阶坡",
+        "input": [
+            "binghejiepo",
+            "bhjp"
+        ]
+    },
+    {
+        "phrase": "冰鬼瀑",
+        "input": [
+            "bingguipu",
+            "bgp"
+        ]
+    },
+    {
+        "phrase": "雪崩坡",
+        "input": [
+            "xuebengpo",
+            "xbp"
+        ]
+    },
+    {
+        "phrase": "往战场的路",
+        "input": [
+            "wangzhanchangdelu",
+            "wzcdl"
+        ]
+    },
+    {
+        "phrase": "冰柱窟",
+        "input": [
+            "bingzhuku",
+            "bzk"
+        ]
+    },
+    {
+        "phrase": "冻石",
+        "input": [
+            "dongshi",
+            "ds"
+        ]
+    },
+    {
+        "phrase": "冰山地道",
+        "input": [
+            "bingshandidao",
+            "bsdd"
+        ]
+    },
+    {
+        "phrase": "秘密小洞",
+        "input": [
+            "mimixiaodong",
+            "mmxd"
+        ]
+    },
+    {
+        "phrase": "观雪温泉",
+        "input": [
+            "guanxuewenquan",
+            "gxwq"
+        ]
+    },
+    {
+        "phrase": "冬蛰洞穴",
+        "input": [
+            "dongzhedongxue",
+            "dzdx"
+        ]
+    },
+    {
+        "phrase": "心形岩山",
+        "input": [
+            "xinxingyanshan",
+            "xxys"
+        ]
+    },
+    {
+        "phrase": "鹿子镇",
+        "input": [
+            "luzizhen",
+            "lzz"
+        ]
+    },
+    {
+        "phrase": "唐草镇",
+        "input": [
+            "tangcaozhen",
+            "tcz"
+        ]
+    },
+    {
+        "phrase": "三曜市",
+        "input": [
+            "sanyaoshi",
+            "sys"
+        ]
+    },
+    {
+        "phrase": "七宝市",
+        "input": [
+            "qibaoshi",
+            "qbs"
+        ]
+    },
+    {
+        "phrase": "飞云市",
+        "input": [
+            "feiyunshi",
+            "fys"
+        ]
+    },
+    {
+        "phrase": "雷文市",
+        "input": [
+            "leiwenshi",
+            "lws"
+        ]
+    },
+    {
+        "phrase": "帆巴市",
+        "input": [
+            "fanbashi",
+            "fbs"
+        ]
+    },
+    {
+        "phrase": "吹寄市",
+        "input": [
+            "chuijishi",
+            "cjs"
+        ]
+    },
+    {
+        "phrase": "雪花市",
+        "input": [
+            "xuehuashi",
+            "xhs"
+        ]
+    },
+    {
+        "phrase": "金轮镇",
+        "input": [
+            "jinlunzhen",
+            "jlz"
+        ]
+    },
+    {
+        "phrase": "双龙市",
+        "input": [
+            "shuanglongshi",
+            "sls"
+        ]
+    },
+    {
+        "phrase": "笼目镇",
+        "input": [
+            "longmuzhen",
+            "lmz"
+        ]
+    },
+    {
+        "phrase": "涟漪镇",
+        "input": [
+            "lianyizhen",
+            "lyz"
+        ]
+    },
+    {
+        "phrase": "黑色市",
+        "input": [
+            "heiseshi",
+            "hss"
+        ]
+    },
+    {
+        "phrase": "桧扇市",
+        "input": [
+            "guishanshi",
+            "gss"
+        ]
+    },
+    {
+        "phrase": "算木镇",
+        "input": [
+            "suanmuzhen",
+            "smz"
+        ]
+    },
+    {
+        "phrase": "立涌市",
+        "input": [
+            "liyongshi",
+            "lys"
+        ]
+    },
+    {
+        "phrase": "山路镇",
+        "input": [
+            "shanluzhen",
+            "slz"
+        ]
+    },
+    {
+        "phrase": "青海波市",
+        "input": [
+            "qinghaiboshi",
+            "qhbs"
+        ]
+    },
+    {
+        "phrase": "梦的遗址",
+        "input": [
+            "mengdeyizhi",
+            "mdyz"
+        ]
+    },
+    {
+        "phrase": "泉源洞穴",
+        "input": [
+            "quanyuandongxue",
+            "qydx"
+        ]
+    },
+    {
+        "phrase": "矢车森林",
+        "input": [
+            "shichesenlin",
+            "scsl"
+        ]
+    },
+    {
+        "phrase": "天箭桥",
+        "input": [
+            "tianjianqiao",
+            "tjq"
+        ]
+    },
+    {
+        "phrase": "自由庭园岛",
+        "input": [
+            "ziyoutingyuandao",
+            "zytyd"
+        ]
+    },
+    {
+        "phrase": "荒野名胜区",
+        "input": [
+            "huangyemingshengqu",
+            "hymsq"
+        ]
+    },
+    {
+        "phrase": "古代城",
+        "input": [
+            "gudaicheng",
+            "gdc"
+        ]
+    },
+    {
+        "phrase": "对战地下铁",
+        "input": [
+            "duizhandixiatie",
+            "dzdxt"
+        ]
+    },
+    {
+        "phrase": "迷幻森林",
+        "input": [
+            "mihuansenlin",
+            "mhsl"
+        ]
+    },
+    {
+        "phrase": "帆巴吊桥",
+        "input": [
+            "fanbadiaoqiao",
+            "fbdq"
+        ]
+    },
+    {
+        "phrase": "冷冻仓库",
+        "input": [
+            "lengdongcangku",
+            "ldck"
+        ]
+    },
+    {
+        "phrase": "吹寄洞穴",
+        "input": [
+            "chuijidongxue",
+            "cjdx"
+        ]
+    },
+    {
+        "phrase": "电气石洞穴",
+        "input": [
+            "dianqishidongxue",
+            "dqsdx"
+        ]
+    },
+    {
+        "phrase": "天堂之塔",
+        "input": [
+            "tiantangzhita",
+            "ttzt"
+        ]
+    },
+    {
+        "phrase": "罗斯山",
+        "input": [
+            "luosishan",
+            "lss"
+        ]
+    },
+    {
+        "phrase": "龙螺旋之塔",
+        "input": [
+            "longluoxuanzhita",
+            "llxzt"
+        ]
+    },
+    {
+        "phrase": "雪花湿地",
+        "input": [
+            "xuehuashidi",
+            "xhsd"
+        ]
+    },
+    {
+        "phrase": "圆筒桥",
+        "input": [
+            "yuantongqiao",
+            "ytq"
+        ]
+    },
+    {
+        "phrase": "修行岩屋",
+        "input": [
+            "xiuxingyanwu",
+            "xxyw"
+        ]
+    },
+    {
+        "phrase": "涟漪湾",
+        "input": [
+            "lianyiwan",
+            "lyw"
+        ]
+    },
+    {
+        "phrase": "海底遗迹",
+        "input": [
+            "haidiyiji",
+            "hdyj"
+        ]
+    },
+    {
+        "phrase": "丰饶之祠",
+        "input": [
+            "fengraozhici",
+            "frzc"
+        ]
+    },
+    {
+        "phrase": "传送工厂",
+        "input": [
+            "chuansonggongchang",
+            "csgc"
+        ]
+    },
+    {
+        "phrase": "白森林",
+        "input": [
+            "baisenlin",
+            "bsl"
+        ]
+    },
+    {
+        "phrase": "巨人洞窟",
+        "input": [
+            "jurendongku",
+            "jrdk"
+        ]
+    },
+    {
+        "phrase": "村庄桥",
+        "input": [
+            "cunzhuangqiao",
+            "czq"
+        ]
+    },
+    {
+        "phrase": "奇幻桥",
+        "input": [
+            "qihuanqiao",
+            "qhq"
+        ]
+    },
+    {
+        "phrase": "联合塔",
+        "input": [
+            "lianheta",
+            "lht"
+        ]
+    },
+    {
+        "phrase": "算木牧场",
+        "input": [
+            "suanmumuchang",
+            "smmc"
+        ]
+    },
+    {
+        "phrase": "心之空洞",
+        "input": [
+            "xinzhikongdong",
+            "xzkd"
+        ]
+    },
+    {
+        "phrase": "誓约之林",
+        "input": [
+            "shiyuezhilin",
+            "syzl"
+        ]
+    },
+    {
+        "phrase": "宝可梦好莱坞",
+        "input": [
+            "baokemenghaolaiwu",
+            "bkmhlw"
+        ]
+    },
+    {
+        "phrase": "立涌联合工业区",
+        "input": [
+            "liyonglianhegongyequ",
+            "lylhgyq"
+        ]
+    },
+    {
+        "phrase": "飞云下水道",
+        "input": [
+            "feiyunxiashuidao",
+            "fyxsd"
+        ]
+    },
+    {
+        "phrase": "古代秘道",
+        "input": [
+            "gudaimidao",
+            "gdmd"
+        ]
+    },
+    {
+        "phrase": "菊老大之路",
+        "input": [
+            "julaodazhilu",
+            "jldzl"
+        ]
+    },
+    {
+        "phrase": "地底遗迹",
+        "input": [
+            "didiyiji",
+            "ddyj"
+        ]
+    },
+    {
+        "phrase": "反转山",
+        "input": [
+            "fanzhuanshan",
+            "fzs"
+        ]
+    },
+    {
+        "phrase": "海洋隧道",
+        "input": [
+            "haiyangsuidao",
+            "hysd"
+        ]
+    },
+    {
+        "phrase": "海边洞穴",
+        "input": [
+            "haibiandongxue",
+            "hbdx"
+        ]
+    },
+    {
+        "phrase": "等离子驱逐舰",
+        "input": [
+            "dengliziquzhujian",
+            "dlzqzj"
+        ]
+    },
+    {
+        "phrase": "宝可梦世界锦标赛",
+        "input": [
+            "baokemengshijiejinbiaosai",
+            "bkmsjjbs"
+        ]
+    },
+    {
+        "phrase": "汇合大道",
+        "input": [
+            "huihedadao",
+            "hhdd"
+        ]
+    },
+    {
+        "phrase": "朝香镇",
+        "input": [
+            "chaoxiangzhen",
+            "cxz"
+        ]
+    },
+    {
+        "phrase": "名水镇",
+        "input": [
+            "mingshuizhen",
+            "msz"
+        ]
+    },
+    {
+        "phrase": "白檀市",
+        "input": [
+            "baitanshi",
+            "bts"
+        ]
+    },
+    {
+        "phrase": "古木镇",
+        "input": [
+            "gumuzhen",
+            "gmz"
+        ]
+    },
+    {
+        "phrase": "遥香市",
+        "input": [
+            "yaoxiangshi",
+            "yxs"
+        ]
+    },
+    {
+        "phrase": "石香镇",
+        "input": [
+            "shixiangzhen",
+            "sxz"
+        ]
+    },
+    {
+        "phrase": "古香镇",
+        "input": [
+            "guxiangzhen",
+            "gxz"
+        ]
+    },
+    {
+        "phrase": "娑罗市",
+        "input": [
+            "suoluoshi",
+            "sls"
+        ]
+    },
+    {
+        "phrase": "比翼市",
+        "input": [
+            "biyishi",
+            "bys"
+        ]
+    },
+    {
+        "phrase": "密阿雷市",
+        "input": [
+            "mialeishi",
+            "mals"
+        ]
+    },
+    {
+        "phrase": "香薰市",
+        "input": [
+            "xiangxunshi",
+            "xxs"
+        ]
+    },
+    {
+        "phrase": "风絮镇",
+        "input": [
+            "fengxuzhen",
+            "fxz"
+        ]
+    },
+    {
+        "phrase": "百刻市",
+        "input": [
+            "baikeshi",
+            "bks"
+        ]
+    },
+    {
+        "phrase": "连理镇",
+        "input": [
+            "lianlizhen",
+            "llz"
+        ]
+    },
+    {
+        "phrase": "映雪市",
+        "input": [
+            "yingxueshi",
+            "yxs"
+        ]
+    },
+    {
+        "phrase": "奇楠市",
+        "input": [
+            "qinanshi",
+            "qns"
+        ]
+    },
+    {
+        "phrase": "朝香小径",
+        "input": [
+            "chaoxiangxiaojing",
+            "cxxj"
+        ]
+    },
+    {
+        "phrase": "宫殿林荫道",
+        "input": [
+            "gongdianlinyindao",
+            "gdlyd"
+        ]
+    },
+    {
+        "phrase": "环河小径",
+        "input": [
+            "huanhexiaojing",
+            "hhxj"
+        ]
+    },
+    {
+        "phrase": "岩壁海岸",
+        "input": [
+            "yanbihaian",
+            "ybha"
+        ]
+    },
+    {
+        "phrase": "尖尖山道",
+        "input": [
+            "jianjianshandao",
+            "jjsd"
+        ]
+    },
+    {
+        "phrase": "巨石之路",
+        "input": [
+            "jushizhilu",
+            "jszl"
+        ]
+    },
+    {
+        "phrase": "密阿雷荒野",
+        "input": [
+            "mialeihuangye",
+            "malhy"
+        ]
+    },
+    {
+        "phrase": "香薰林道",
+        "input": [
+            "xiangxunlindao",
+            "xxld"
+        ]
+    },
+    {
+        "phrase": "白檀森林",
+        "input": [
+            "baitansenlin",
+            "btsl"
+        ]
+    },
+    {
+        "phrase": "虚空之室",
+        "input": [
+            "xukongzhishi",
+            "xkzs"
+        ]
+    },
+    {
+        "phrase": "巴尔法姆香殿",
+        "input": [
+            "baerfamuxiangdian",
+            "befmxd"
+        ]
+    },
+    {
+        "phrase": "对战城塞",
+        "input": [
+            "duizhanchengsai",
+            "dzcs"
+        ]
+    },
+    {
+        "phrase": "树果园",
+        "input": [
+            "shuguoyuan",
+            "sgy"
+        ]
+    },
+    {
+        "phrase": "串连地洞",
+        "input": [
+            "chuanliandidong",
+            "cldd"
+        ]
+    },
+    {
+        "phrase": "闪耀洞窟",
+        "input": [
+            "shanyaodongku",
+            "sydk"
+        ]
+    },
+    {
+        "phrase": "镜穴",
+        "input": [
+            "jingxue",
+            "jx"
+        ]
+    },
+    {
+        "phrase": "精练之塔",
+        "input": [
+            "jinglianzhita",
+            "jlzt"
+        ]
+    },
+    {
+        "phrase": "蔚蓝湾",
+        "input": [
+            "weilanwan",
+            "wlw"
+        ]
+    },
+    {
+        "phrase": "海神之穴",
+        "input": [
+            "haishenzhixue",
+            "hszx"
+        ]
+    },
+    {
+        "phrase": "卡洛斯发电厂",
+        "input": [
+            "kaluosifadianchang",
+            "klsfdc"
+        ]
+    },
+    {
+        "phrase": "精灵球工厂",
+        "input": [
+            "jinglingqiugongchang",
+            "jlqgc"
+        ]
+    },
+    {
+        "phrase": "荒废酒店",
+        "input": [
+            "huangfeijiudian",
+            "hfjd"
+        ]
+    },
+    {
+        "phrase": "冰结洞窟",
+        "input": [
+            "bingjiedongku",
+            "bjdk"
+        ]
+    },
+    {
+        "phrase": "弗拉达利研究所",
+        "input": [
+            "fuladaliyanjiusuo",
+            "fldlyjs"
+        ]
+    },
+    {
+        "phrase": "闪焰队",
+        "input": [
+            "shanyandui",
+            "syd"
+        ]
+    },
+    {
+        "phrase": "终结洞窟",
+        "input": [
+            "zhongjiedongku",
+            "zjdk"
+        ]
+    },
+    {
+        "phrase": "朋友狩猎",
+        "input": [
+            "pengyoushoulie",
+            "pysl"
+        ]
+    },
+    {
+        "phrase": "美乐美乐岛",
+        "input": [
+            "meilemeiledao",
+            "mlmld"
+        ]
+    },
+    {
+        "phrase": "阿卡拉岛",
+        "input": [
+            "akaladao",
+            "akld"
+        ]
+    },
+    {
+        "phrase": "乌拉乌拉岛",
+        "input": [
+            "wulawuladao",
+            "wlwld"
+        ]
+    },
+    {
+        "phrase": "波尼岛",
+        "input": [
+            "bonidao",
+            "bnd"
+        ]
+    },
+    {
+        "phrase": "以太乐园",
+        "input": [
+            "yitaileyuan",
+            "ytly"
+        ]
+    },
+    {
+        "phrase": "利利小镇",
+        "input": [
+            "lilixiaozhen",
+            "llxz"
+        ]
+    },
+    {
+        "phrase": "好奥乐市",
+        "input": [
+            "haoaoleshi",
+            "hals"
+        ]
+    },
+    {
+        "phrase": "慷待市",
+        "input": [
+            "kangdaishi",
+            "kds"
+        ]
+    },
+    {
+        "phrase": "欧哈纳镇",
+        "input": [
+            "ouhanazhen",
+            "ohnz"
+        ]
+    },
+    {
+        "phrase": "可霓可市",
+        "input": [
+            "kenikeshi",
+            "knks"
+        ]
+    },
+    {
+        "phrase": "魄镇",
+        "input": [
+            "pozhen",
+            "pz"
+        ]
+    },
+    {
+        "phrase": "卡璞村",
+        "input": [
+            "kapucun",
+            "kpc"
+        ]
+    },
+    {
+        "phrase": "马利埃静市",
+        "input": [
+            "maliaijingshi",
+            "mlajs"
+        ]
+    },
+    {
+        "phrase": "海洋居民之村",
+        "input": [
+            "haiyangjuminzhicun",
+            "hyjmzc"
+        ]
+    },
+    {
+        "phrase": "波尼古道",
+        "input": [
+            "bonigudao",
+            "bngd"
+        ]
+    },
+    {
+        "phrase": "波尼险路",
+        "input": [
+            "bonixianlu",
+            "bnxl"
+        ]
+    },
+    {
+        "phrase": "葱郁洞窟",
+        "input": [
+            "congyudongku",
+            "cydk"
+        ]
+    },
+    {
+        "phrase": "维拉火山公园",
+        "input": [
+            "weilahuoshangongyuan",
+            "wlhsgy"
+        ]
+    },
+    {
+        "phrase": "潺潺之丘",
+        "input": [
+            "chanchanzhiqiu",
+            "cczq"
+        ]
+    },
+    {
+        "phrase": "树荫丛林",
+        "input": [
+            "shuyinconglin",
+            "sycl"
+        ]
+    },
+    {
+        "phrase": "超值超市旧址",
+        "input": [
+            "chaozhichaoshijiuzhi",
+            "czcsjz"
+        ]
+    },
+    {
+        "phrase": "辉克拉尼天文台",
+        "input": [
+            "huikelanitianwentai",
+            "hklntwt"
+        ]
+    },
+    {
+        "phrase": "波尼大峡谷",
+        "input": [
+            "bonidaxiagu",
+            "bndxg"
+        ]
+    },
+    {
+        "phrase": "卡拉蔚湾",
+        "input": [
+            "kalaweiwan",
+            "klww"
+        ]
+    },
+    {
+        "phrase": "美乐美乐海",
+        "input": [
+            "meilemeilehai",
+            "mlmlh"
+        ]
+    },
+    {
+        "phrase": "马哈罗山路",
+        "input": [
+            "mahaluoshanlu",
+            "mhlsl"
+        ]
+    },
+    {
+        "phrase": "战争遗迹",
+        "input": [
+            "zhanzhengyiji",
+            "zzyj"
+        ]
+    },
+    {
+        "phrase": "十克拉山丘",
+        "input": [
+            "shikelashanqiu",
+            "sklsq"
+        ]
+    },
+    {
+        "phrase": "好奥乐墓园",
+        "input": [
+            "haoaolemuyuan",
+            "halmy"
+        ]
+    },
+    {
+        "phrase": "美乐美乐花园",
+        "input": [
+            "meilemeilehuayuan",
+            "mlmlhy"
+        ]
+    },
+    {
+        "phrase": "通海洞穴",
+        "input": [
+            "tonghaidongxue",
+            "thdx"
+        ]
+    },
+    {
+        "phrase": "大浪海滩",
+        "input": [
+            "dalanghaitan",
+            "dlht"
+        ]
+    },
+    {
+        "phrase": "豪诺豪诺度假地",
+        "input": [
+            "haonuohaonuodujiadi",
+            "hnhndjd"
+        ]
+    },
+    {
+        "phrase": "豪诺豪诺海滩",
+        "input": [
+            "haonuohaonuohaitan",
+            "hnhnht"
+        ]
+    },
+    {
+        "phrase": "皇家大道",
+        "input": [
+            "huangjiadadao",
+            "hjdd"
+        ]
+    },
+    {
+        "phrase": "回忆之丘",
+        "input": [
+            "huiyizhiqiu",
+            "hyzq"
+        ]
+    },
+    {
+        "phrase": "欧哈纳牧场",
+        "input": [
+            "ouhanamuchang",
+            "ohnmc"
+        ]
+    },
+    {
+        "phrase": "分隔岭隧道",
+        "input": [
+            "fengelingsuidao",
+            "fglsd"
+        ]
+    },
+    {
+        "phrase": "生命遗迹",
+        "input": [
+            "shengmingyiji",
+            "smyj"
+        ]
+    },
+    {
+        "phrase": "阿卡拉岛郊外",
+        "input": [
+            "akaladaojiaowai",
+            "akldjw"
+        ]
+    },
+    {
+        "phrase": "皇家巨蛋",
+        "input": [
+            "huangjiajudan",
+            "hjjd"
+        ]
+    },
+    {
+        "phrase": "慷待海滩",
+        "input": [
+            "kangdaihaitan",
+            "kdht"
+        ]
+    },
+    {
+        "phrase": "乌拉乌拉后海岸",
+        "input": [
+            "wulawulahouhaian",
+            "wlwlhha"
+        ]
+    },
+    {
+        "phrase": "哈伊纳沙漠",
+        "input": [
+            "hayinashamo",
+            "hynsm"
+        ]
+    },
+    {
+        "phrase": "以太基地",
+        "input": [
+            "yitaijidi",
+            "ytjd"
+        ]
+    },
+    {
+        "phrase": "乌拉乌拉花园",
+        "input": [
+            "wulawulahuayuan",
+            "wlwlhy"
+        ]
+    },
+    {
+        "phrase": "马利埃庭园",
+        "input": [
+            "maliaitingyuan",
+            "mlaty"
+        ]
+    },
+    {
+        "phrase": "辉克拉尼山",
+        "input": [
+            "huikelanishan",
+            "hklns"
+        ]
+    },
+    {
+        "phrase": "火特力山",
+        "input": [
+            "huotelishan",
+            "htls"
+        ]
+    },
+    {
+        "phrase": "丰收遗迹",
+        "input": [
+            "fengshouyiji",
+            "fsyj"
+        ]
+    },
+    {
+        "phrase": "日轮湖",
+        "input": [
+            "rilunhu",
+            "rlh"
+        ]
+    },
+    {
+        "phrase": "月轮湖",
+        "input": [
+            "yuelunhu",
+            "ylh"
+        ]
+    },
+    {
+        "phrase": "拉纳基拉山",
+        "input": [
+            "lanajilashan",
+            "lnjls"
+        ]
+    },
+    {
+        "phrase": "波尼花园",
+        "input": [
+            "bonihuayuan",
+            "bnhy"
+        ]
+    },
+    {
+        "phrase": "波尼原野",
+        "input": [
+            "boniyuanye",
+            "bnyy"
+        ]
+    },
+    {
+        "phrase": "波尼鼓浪岩岸",
+        "input": [
+            "bonigulangyanan",
+            "bnglya"
+        ]
+    },
+    {
+        "phrase": "波尼树林",
+        "input": [
+            "bonishulin",
+            "bnsl"
+        ]
+    },
+    {
+        "phrase": "波尼旷野",
+        "input": [
+            "bonikuangye",
+            "bnky"
+        ]
+    },
+    {
+        "phrase": "波尼海岸",
+        "input": [
+            "bonihaian",
+            "bnha"
+        ]
+    },
+    {
+        "phrase": "波尼海滩",
+        "input": [
+            "bonihaitan",
+            "bnht"
+        ]
+    },
+    {
+        "phrase": "日轮祭坛",
+        "input": [
+            "rilunjitan",
+            "rljt"
+        ]
+    },
+    {
+        "phrase": "月轮祭坛",
+        "input": [
+            "yuelunjitan",
+            "yljt"
+        ]
+    },
+    {
+        "phrase": "彼岸遗迹",
+        "input": [
+            "bianyiji",
+            "bayj"
+        ]
+    },
+    {
+        "phrase": "对战树",
+        "input": [
+            "duizhanshu",
+            "dzs"
+        ]
+    },
+    {
+        "phrase": "以太之家",
+        "input": [
+            "yitaizhijia",
+            "ytzj"
+        ]
+    },
+    {
+        "phrase": "化朗镇",
+        "input": [
+            "hualangzhen",
+            "hlz"
+        ]
+    },
+    {
+        "phrase": "木杆镇",
+        "input": [
+            "muganzhen",
+            "mgz"
+        ]
+    },
+    {
+        "phrase": "机擎市",
+        "input": [
+            "jiqingshi",
+            "jqs"
+        ]
+    },
+    {
+        "phrase": "草路镇",
+        "input": [
+            "caoluzhen",
+            "clz"
+        ]
+    },
+    {
+        "phrase": "水舟镇",
+        "input": [
+            "shuizhouzhen",
+            "szz"
+        ]
+    },
+    {
+        "phrase": "拳关市",
+        "input": [
+            "quanguanshi",
+            "qgs"
+        ]
+    },
+    {
+        "phrase": "溯传镇",
+        "input": [
+            "suchuanzhen",
+            "scz"
+        ]
+    },
+    {
+        "phrase": "舞姿镇",
+        "input": [
+            "wuzizhen",
+            "wzz"
+        ]
+    },
+    {
+        "phrase": "战竞镇",
+        "input": [
+            "zhanjingzhen",
+            "zjz"
+        ]
+    },
+    {
+        "phrase": "尖钉镇",
+        "input": [
+            "jiandingzhen",
+            "jdz"
+        ]
+    },
+    {
+        "phrase": "宫门市",
+        "input": [
+            "gongmenshi",
+            "gms"
+        ]
+    },
+    {
+        "phrase": "微寐森林",
+        "input": [
+            "weimeisenlin",
+            "wmsl"
+        ]
+    },
+    {
+        "phrase": "机擎市郊外",
+        "input": [
+            "jiqingshijiaowai",
+            "jqsjw"
+        ]
+    },
+    {
+        "phrase": "迷光森林",
+        "input": [
+            "miguangsenlin",
+            "mgsl"
+        ]
+    },
+    {
+        "phrase": "泉烟小路",
+        "input": [
+            "quanyanxiaolu",
+            "qyxl"
+        ]
+    },
+    {
+        "phrase": "战竞湾",
+        "input": [
+            "zhanjingwan",
+            "zjw"
+        ]
+    },
+    {
+        "phrase": "九路隧道",
+        "input": [
+            "jiulusuidao",
+            "jlsd"
+        ]
+    },
+    {
+        "phrase": "宝物库",
+        "input": [
+            "baowuku",
+            "bwk"
+        ]
+    },
+    {
+        "phrase": "宫门竞技场",
+        "input": [
+            "gongmenjingjichang",
+            "gmjjc"
+        ]
+    },
+    {
+        "phrase": "对战咖啡馆",
+        "input": [
+            "duizhankafeiguan",
+            "dzkfg"
+        ]
+    },
+    {
+        "phrase": "洛兹大厦",
+        "input": [
+            "luozidasha",
+            "lzds"
+        ]
+    },
+    {
+        "phrase": "集汇空地",
+        "input": [
+            "jihuikongdi",
+            "jhkd"
+        ]
+    },
+    {
+        "phrase": "煦丽草原",
+        "input": [
+            "xulicaoyuan",
+            "xlcy"
+        ]
+    },
+    {
+        "phrase": "沐光森林",
+        "input": [
+            "muguangsenlin",
+            "mgsl"
+        ]
+    },
+    {
+        "phrase": "瞭望塔旧址",
+        "input": [
+            "liaowangtajiuzhi",
+            "lwtjz"
+        ]
+    },
+    {
+        "phrase": "巨人凳岩",
+        "input": [
+            "jurendengyan",
+            "jrdy"
+        ]
+    },
+    {
+        "phrase": "机擎河岸",
+        "input": [
+            "jiqinghean",
+            "jqha"
+        ]
+    },
+    {
+        "phrase": "桥间空地",
+        "input": [
+            "qiaojiankongdi",
+            "qjkd"
+        ]
+    },
+    {
+        "phrase": "巨石原野",
+        "input": [
+            "jushiyuanye",
+            "jsyy"
+        ]
+    },
+    {
+        "phrase": "沙尘洼地",
+        "input": [
+            "shachenwadi",
+            "scwd"
+        ]
+    },
+    {
+        "phrase": "巨人镜池",
+        "input": [
+            "jurenjingchi",
+            "jrjc"
+        ]
+    },
+    {
+        "phrase": "拳关丘陵",
+        "input": [
+            "quanguanqiuling",
+            "qgql"
+        ]
+    },
+    {
+        "phrase": "巨人帽岩",
+        "input": [
+            "jurenmaoyan",
+            "jrmy"
+        ]
+    },
+    {
+        "phrase": "逆鳞湖",
+        "input": [
+            "nilinhu",
+            "nlh"
+        ]
+    },
+    {
+        "phrase": "揖礼原野",
+        "input": [
+            "yiliyuanye",
+            "ylyy"
+        ]
+    },
+    {
+        "phrase": "清凉湿原",
+        "input": [
+            "qingliangshiyuan",
+            "qlsy"
+        ]
+    },
+    {
+        "phrase": "专注森林",
+        "input": [
+            "zhuanzhusenlin",
+            "zzsl"
+        ]
+    },
+    {
+        "phrase": "挑战海滩",
+        "input": [
+            "tiaozhanhaitan",
+            "tzht"
+        ]
+    },
+    {
+        "phrase": "战斗洞窟",
+        "input": [
+            "zhandoudongku",
+            "zddk"
+        ]
+    },
+    {
+        "phrase": "斗志洞窟",
+        "input": [
+            "douzhidongku",
+            "dzdk"
+        ]
+    },
+    {
+        "phrase": "圆环海湾",
+        "input": [
+            "yuanhuanhaiwan",
+            "yhhw"
+        ]
+    },
+    {
+        "phrase": "锻炼平原",
+        "input": [
+            "duanlianpingyuan",
+            "dlpy"
+        ]
+    },
+    {
+        "phrase": "热身洞穴",
+        "input": [
+            "reshendongxue",
+            "rsdx"
+        ]
+    },
+    {
+        "phrase": "锅底沙漠",
+        "input": [
+            "guodishamo",
+            "gdsm"
+        ]
+    },
+    {
+        "phrase": "健身之海",
+        "input": [
+            "jianshenzhihai",
+            "jszh"
+        ]
+    },
+    {
+        "phrase": "列岛海域",
+        "input": [
+            "liedaohaiyu",
+            "ldhy"
+        ]
+    },
+    {
+        "phrase": "离岛海域",
+        "input": [
+            "lidaohaiyu",
+            "ldhy"
+        ]
+    },
+    {
+        "phrase": "蜂巢海",
+        "input": [
+            "fengchaohai",
+            "fch"
+        ]
+    },
+    {
+        "phrase": "蜂巢岛",
+        "input": [
+            "fengchaodao",
+            "fcd"
+        ]
+    },
+    {
+        "phrase": "马师傅武馆",
+        "input": [
+            "mashifuwuguan",
+            "msfwg"
+        ]
+    },
+    {
+        "phrase": "恶之塔",
+        "input": [
+            "ezhita",
+            "ezt"
+        ]
+    },
+    {
+        "phrase": "水之塔",
+        "input": [
+            "shuizhita",
+            "szt"
+        ]
+    },
+    {
+        "phrase": "起橇雪原",
+        "input": [
+            "qiqiaoxueyuan",
+            "qqxy"
+        ]
+    },
+    {
+        "phrase": "冻凝村",
+        "input": [
+            "dongningcun",
+            "dnc"
+        ]
+    },
+    {
+        "phrase": "冰点雪原",
+        "input": [
+            "bingdianxueyuan",
+            "bdxy"
+        ]
+    },
+    {
+        "phrase": "巨人睡榻",
+        "input": [
+            "jurenshuita",
+            "jrst"
+        ]
+    },
+    {
+        "phrase": "远古墓地",
+        "input": [
+            "yuangumudi",
+            "ygmd"
+        ]
+    },
+    {
+        "phrase": "雪中溪谷",
+        "input": [
+            "xuezhongxigu",
+            "xzxg"
+        ]
+    },
+    {
+        "phrase": "登顶隧道",
+        "input": [
+            "dengdingsuidao",
+            "ddsd"
+        ]
+    },
+    {
+        "phrase": "通顶雪道",
+        "input": [
+            "tongdingxuedao",
+            "tdxd"
+        ]
+    },
+    {
+        "phrase": "王冠神殿",
+        "input": [
+            "wangguanshendian",
+            "wgsd"
+        ]
+    },
+    {
+        "phrase": "巨人鞋底",
+        "input": [
+            "jurenxiedi",
+            "jrxd"
+        ]
+    },
+    {
+        "phrase": "海鸣洞窟",
+        "input": [
+            "haimingdongku",
+            "hmdk"
+        ]
+    },
+    {
+        "phrase": "冻海",
+        "input": [
+            "donghai",
+            "dh"
+        ]
+    },
+    {
+        "phrase": "三岔平原",
+        "input": [
+            "sanchapingyuan",
+            "scpy"
+        ]
+    },
+    {
+        "phrase": "球湖湖畔",
+        "input": [
+            "qiuhuhupan",
+            "qhhp"
+        ]
+    },
+    {
+        "phrase": "湖畔洞窟",
+        "input": [
+            "hupandongku",
+            "hpdk"
+        ]
+    },
+    {
+        "phrase": "巨树丘陵",
+        "input": [
+            "jushuqiuling",
+            "jsql"
+        ]
+    },
+    {
+        "phrase": "抉择遗迹",
+        "input": [
+            "juezeyiji",
+            "jzyj"
+        ]
+    },
+    {
+        "phrase": "极巨巢穴",
+        "input": [
+            "jijuchaoxue",
+            "jjcx"
+        ]
+    },
+    {
+        "phrase": "小匙镇",
+        "input": [
+            "xiaoshizhen",
+            "xsz"
+        ]
+    },
+    {
+        "phrase": "平碟镇",
+        "input": [
+            "pingdiezhen",
+            "pdz"
+        ]
+    },
+    {
+        "phrase": "桌台市",
+        "input": [
+            "zhuotaishi",
+            "zts"
+        ]
+    },
+    {
+        "phrase": "深钵镇",
+        "input": [
+            "shenbozhen",
+            "sbz"
+        ]
+    },
+    {
+        "phrase": "酿光市",
+        "input": [
+            "niangguangshi",
+            "ngs"
+        ]
+    },
+    {
+        "phrase": "焙固镇",
+        "input": [
+            "beiguzhen",
+            "bgz"
+        ]
+    },
+    {
+        "phrase": "圆模镇",
+        "input": [
+            "yuanmozhen",
+            "ymz"
+        ]
+    },
+    {
+        "phrase": "玻瓶市",
+        "input": [
+            "bopingshi",
+            "bps"
+        ]
+    },
+    {
+        "phrase": "渍沁镇",
+        "input": [
+            "ziqinzhen",
+            "zqz"
+        ]
+    },
+    {
+        "phrase": "穴扎镇",
+        "input": [
+            "xuezhazhen",
+            "xzz"
+        ]
+    },
+    {
+        "phrase": "锦汇镇",
+        "input": [
+            "jinhuizhen",
+            "jhz"
+        ]
+    },
+    {
+        "phrase": "清爽草原",
+        "input": [
+            "qingshuangcaoyuan",
+            "qscy"
+        ]
+    },
+    {
+        "phrase": "喧闹森林",
+        "input": [
+            "xuannaosenlin",
+            "xnsl"
+        ]
+    },
+    {
+        "phrase": "崎岖小道",
+        "input": [
+            "qiquxiaodao",
+            "qqxd"
+        ]
+    },
+    {
+        "phrase": "绮丽海边",
+        "input": [
+            "qilihaibian",
+            "qlhb"
+        ]
+    },
+    {
+        "phrase": "黑暗洞窟",
+        "input": [
+            "heiandongku",
+            "hadk"
+        ]
+    },
+    {
+        "phrase": "蓝色湖泊",
+        "input": [
+            "lansehupo",
+            "lshp"
+        ]
+    },
+    {
+        "phrase": "城镇郊外",
+        "input": [
+            "chengzhenjiaowai",
+            "czjw"
+        ]
+    },
+    {
+        "phrase": "丰缘之原",
+        "input": [
+            "fengyuanzhiyuan",
+            "fyzy"
+        ]
+    },
+    {
+        "phrase": "火山小道",
+        "input": [
+            "huoshanxiaodao",
+            "hsxd"
+        ]
+    },
+    {
+        "phrase": "树上小屋",
+        "input": [
+            "shushangxiaowu",
+            "ssxw"
+        ]
+    },
+    {
+        "phrase": "恐怖洞窟",
+        "input": [
+            "kongbudongku",
+            "kbdk"
+        ]
+    },
+    {
+        "phrase": "神奥之原",
+        "input": [
+            "shenaozhiyuan",
+            "sazy"
+        ]
+    },
+    {
+        "phrase": "寒冷山道",
+        "input": [
+            "hanlengshandao",
+            "hlsd"
+        ]
+    },
+    {
+        "phrase": "白色湖泊",
+        "input": [
+            "baisehupo",
+            "bshp"
+        ]
+    },
+    {
+        "phrase": "荒凉海边",
+        "input": [
+            "huanglianghaibian",
+            "hlhb"
+        ]
+    },
+    {
+        "phrase": "安静洞窟",
+        "input": [
+            "anjingdongku",
+            "ajdk"
+        ]
+    },
+    {
+        "phrase": "海之彼岸",
+        "input": [
+            "haizhibian",
+            "hzba"
+        ]
+    },
+    {
+        "phrase": "夜空边际",
+        "input": [
+            "yekongbianji",
+            "ykbj"
+        ]
+    },
+    {
+        "phrase": "交流之原",
+        "input": [
+            "jiaoliuzhiyuan",
+            "jlzy"
+        ]
+    },
+    {
+        "phrase": "神都遗迹",
+        "input": [
+            "shendouyiji",
+            "sdyj"
+        ]
+    },
+    {
+        "phrase": "究极空间",
+        "input": [
+            "jiujikongjian",
+            "jjkj"
+        ]
+    },
+    {
+        "phrase": "春临镇",
+        "input": [
+            "chunlinzhen",
+            "clz"
+        ]
+    },
+    {
+        "phrase": "夏漫岛",
+        "input": [
+            "xiamandao",
+            "xmd"
+        ]
+    },
+    {
+        "phrase": "秋露市",
+        "input": [
+            "qiulushi",
+            "qls"
+        ]
+    },
+    {
+        "phrase": "冬迎镇",
+        "input": [
+            "dongyingzhen",
+            "dyz"
+        ]
+    },
+    {
+        "phrase": "藏红隧道",
+        "input": [
+            "canghongsuidao",
+            "chsd"
+        ]
+    },
+    {
+        "phrase": "风铃洞窟",
+        "input": [
+            "fenglingdongku",
+            "fldk"
+        ]
+    },
+    {
+        "phrase": "丁香森林",
+        "input": [
+            "dingxiangsenlin",
+            "dxsl"
+        ]
+    },
+    {
+        "phrase": "橄榄丛林",
+        "input": [
+            "ganlanconglin",
+            "glcl"
+        ]
+    },
+    {
+        "phrase": "丛林遗迹",
+        "input": [
+            "conglinyiji",
+            "clyj"
+        ]
+    },
+    {
+        "phrase": "夜班工厂",
+        "input": [
+            "yebangongchang",
+            "ybgc"
+        ]
+    },
+    {
+        "phrase": "仙客来山脉",
+        "input": [
+            "xiankelaishanmai",
+            "xklsm"
+        ]
+    },
+    {
+        "phrase": "冲冲队",
+        "input": [
+            "chongchongdui",
+            "ccd"
+        ]
+    },
+    {
+        "phrase": "菲蕾神殿",
+        "input": [
+            "feileishendian",
+            "flsd"
+        ]
+    },
+    {
+        "phrase": "塌菜草原",
+        "input": [
+            "tacaicaoyuan",
+            "tccy"
+        ]
+    },
+    {
+        "phrase": "番红海",
+        "input": [
+            "fanhonghai",
+            "fhh"
+        ]
+    },
+    {
+        "phrase": "菊苣村",
+        "input": [
+            "jujucun",
+            "jjc"
+        ]
+    },
+    {
+        "phrase": "风绕镇",
+        "input": [
+            "fengraozhen",
+            "frz"
+        ]
+    },
+    {
+        "phrase": "港泊镇",
+        "input": [
+            "gangpozhen",
+            "gpz"
+        ]
+    },
+    {
+        "phrase": "锅陆岛",
+        "input": [
+            "guoludao",
+            "gld"
+        ]
+    },
+    {
+        "phrase": "渺远村",
+        "input": [
+            "miaoyuancun",
+            "myc"
+        ]
+    },
+    {
+        "phrase": "凛冽研究营",
+        "input": [
+            "linlieyanjiuying",
+            "llyjy"
+        ]
+    },
+    {
+        "phrase": "阿尔米亚古城",
+        "input": [
+            "aermiyagucheng",
+            "aemygc"
+        ]
+    },
+    {
+        "phrase": "菊苣小道",
+        "input": [
+            "jujuxiaodao",
+            "jjxd"
+        ]
+    },
+    {
+        "phrase": "线绘高原",
+        "input": [
+            "xianhuigaoyuan",
+            "xhgy"
+        ]
+    },
+    {
+        "phrase": "线绘小路",
+        "input": [
+            "xianhuixiaolu",
+            "xhxl"
+        ]
+    },
+    {
+        "phrase": "线绘遗迹",
+        "input": [
+            "xianhuiyiji",
+            "xhyj"
+        ]
+    },
+    {
+        "phrase": "水精洞窟",
+        "input": [
+            "shuijingdongku",
+            "sjdk"
+        ]
+    },
+    {
+        "phrase": "渺远沙漠",
+        "input": [
+            "miaoyuanshamo",
+            "mysm"
+        ]
+    },
+    {
+        "phrase": "冷水谷",
+        "input": [
+            "lengshuigu",
+            "lsg"
+        ]
+    },
+    {
+        "phrase": "冰之湖",
+        "input": [
+            "bingzhihu",
+            "bzh"
+        ]
+    },
+    {
+        "phrase": "港泊海",
+        "input": [
+            "gangpohai",
+            "gph"
+        ]
+    },
+    {
+        "phrase": "致命悬崖",
+        "input": [
+            "zhimingxuanya",
+            "zmxy"
+        ]
+    },
+    {
+        "phrase": "风绕森林",
+        "input": [
+            "fengraosenlin",
+            "frsl"
+        ]
+    },
+    {
+        "phrase": "哆露宝岛",
+        "input": [
+            "duolubaodao",
+            "dlbd"
+        ]
+    },
+    {
+        "phrase": "唻映虹岛",
+        "input": [
+            "laiyinghongdao",
+            "lyhd"
+        ]
+    },
+    {
+        "phrase": "咪轮陀岛",
+        "input": [
+            "miluntuodao",
+            "mltd"
+        ]
+    },
+    {
+        "phrase": "发地热岛",
+        "input": [
+            "fadiredao",
+            "fdrd"
+        ]
+    },
+    {
+        "phrase": "索慧原岛",
+        "input": [
+            "suohuiyuandao",
+            "shyd"
+        ]
+    },
+    {
+        "phrase": "拉雷云岛",
+        "input": [
+            "laleiyundao",
+            "llyd"
+        ]
+    },
+    {
+        "phrase": "嘻可丽丽岛",
+        "input": [
+            "xikelilidao",
+            "xklld"
+        ]
+    },
+    {
+        "phrase": "椰林村",
+        "input": [
+            "yelincun",
+            "ylc"
+        ]
+    },
+    {
+        "phrase": "斜坡村",
+        "input": [
+            "xiepocun",
+            "xpc"
+        ]
+    },
+    {
+        "phrase": "水流度假地",
+        "input": [
+            "shuiliudujiadi",
+            "sldjd"
+        ]
+    },
+    {
+        "phrase": "珊瑚之海",
+        "input": [
+            "shanhuzhihai",
+            "shzh"
+        ]
+    },
+    {
+        "phrase": "运河遗迹",
+        "input": [
+            "yunheyiji",
+            "yhyj"
+        ]
+    },
+    {
+        "phrase": "柚木森林",
+        "input": [
+            "youmusenlin",
+            "ymsl"
+        ]
+    },
+    {
+        "phrase": "旋转小湾",
+        "input": [
+            "xuanzhuanxiaowan",
+            "xzxw"
+        ]
+    },
+    {
+        "phrase": "塔尔加的家",
+        "input": [
+            "taerjiadejia",
+            "tejdj"
+        ]
+    },
+    {
+        "phrase": "拉拖拉拖山道",
+        "input": [
+            "latuolatuoshandao",
+            "ltltsd"
+        ]
+    },
+    {
+        "phrase": "拉拖拉拖山",
+        "input": [
+            "latuolatuoshan",
+            "ltlts"
+        ]
+    },
+    {
+        "phrase": "无线基地",
+        "input": [
+            "wuxianjidi",
+            "wxjd"
+        ]
+    },
+    {
+        "phrase": "堵塞海角",
+        "input": [
+            "dusehaijiao",
+            "dshj"
+        ]
+    },
+    {
+        "phrase": "咪轮陀街道",
+        "input": [
+            "miluntuojiedao",
+            "mltjd"
+        ]
+    },
+    {
+        "phrase": "彷徨森林",
+        "input": [
+            "panghuangsenlin",
+            "phsl"
+        ]
+    },
+    {
+        "phrase": "危险悬崖",
+        "input": [
+            "weixianxuanya",
+            "wxxy"
+        ]
+    },
+    {
+        "phrase": "索慧原街道",
+        "input": [
+            "suohuiyuanjiedao",
+            "shyjd"
+        ]
+    },
+    {
+        "phrase": "雪葩酪山",
+        "input": [
+            "xuepalaoshan",
+            "xpls"
+        ]
+    },
+    {
+        "phrase": "彩虹祭坛",
+        "input": [
+            "caihongjitan",
+            "chjt"
+        ]
+    },
+    {
+        "phrase": "锉刀洞窟",
+        "input": [
+            "cuodaodongku",
+            "cddk"
+        ]
+    },
+    {
+        "phrase": "古老大宅",
+        "input": [
+            "gulaodazhai",
+            "gldz"
+        ]
+    },
+    {
+        "phrase": "朝阳遗迹",
+        "input": [
+            "zhaoyangyiji",
+            "zyyj"
+        ]
+    },
+    {
+        "phrase": "白银瀑布",
+        "input": [
+            "baiyinpubu",
+            "bypb"
+        ]
+    },
+    {
+        "phrase": "奥卜利比亚遗迹",
+        "input": [
+            "aobolibiyayiji",
+            "ablbyyj"
+        ]
+    },
+    {
+        "phrase": "白色市",
+        "input": [
+            "baiseshi",
+            "bss"
+        ]
+    },
+    {
+        "phrase": "优胜者宫殿",
+        "input": [
+            "youshengzhegongdian",
+            "yszgd"
+        ]
+    },
+    {
+        "phrase": "玛瑙村",
+        "input": [
+            "manaocun",
+            "mnc"
+        ]
+    },
+    {
+        "phrase": "堇青港",
+        "input": [
+            "jinqinggang",
+            "jqg"
+        ]
+    },
+    {
+        "phrase": "硅铍市",
+        "input": [
+            "guipishi",
+            "gps"
+        ]
+    },
+    {
+        "phrase": "黄铁镇",
+        "input": [
+            "huangtiezhen",
+            "htz"
+        ]
+    },
+    {
+        "phrase": "地下城",
+        "input": [
+            "dixiacheng",
+            "dxc"
+        ]
+    },
+    {
+        "phrase": "雄黄塔",
+        "input": [
+            "xionghuangta",
+            "xht"
+        ]
+    },
+    {
+        "phrase": "榴辉峡谷",
+        "input": [
+            "liuhuixiagu",
+            "lhxg"
+        ]
+    },
+    {
+        "phrase": "镍暗岛",
+        "input": [
+            "nieandao",
+            "nad"
+        ]
+    },
+    {
+        "phrase": "郊外站",
+        "input": [
+            "jiaowaizhan",
+            "jwz"
+        ]
+    },
+    {
+        "phrase": "黑暗列线",
+        "input": [
+            "heianliexian",
+            "halx"
+        ]
+    },
+    {
+        "phrase": "黄铁大楼",
+        "input": [
+            "huangtiedalou",
+            "htdl"
+        ]
+    },
+    {
+        "phrase": "黄铁洞窟",
+        "input": [
+            "huangtiedongku",
+            "htdk"
+        ]
+    },
+    {
+        "phrase": "宝可场所",
+        "input": [
+            "baokechangsuo",
+            "bkcs"
+        ]
+    },
+    {
+        "phrase": "暗影研究所",
+        "input": [
+            "anyingyanjiusuo",
+            "ayyjs"
+        ]
+    },
+    {
+        "phrase": "天秤座号",
+        "input": [
+            "tianchengzuohao",
+            "tczh"
+        ]
+    },
+    {
+        "phrase": "夺取队",
+        "input": [
+            "duoqudui",
+            "dqd"
+        ]
+    },
+    {
+        "phrase": "暗影秘密工厂",
+        "input": [
+            "anyingmimigongchang",
+            "aymmgc"
+        ]
+    },
+    {
+        "phrase": "底下竞技场",
+        "input": [
+            "dixiajingjichang",
+            "dxjjc"
+        ]
+    },
+    {
+        "phrase": "对战山",
+        "input": [
+            "duizhanshan",
+            "dzs"
+        ]
+    },
+    {
+        "phrase": "初始之国",
+        "input": [
+            "chushizhiguo",
+            "cszg"
+        ]
+    },
+    {
+        "phrase": "火焰之国",
+        "input": [
+            "huoyanzhiguo",
+            "hyzg"
+        ]
+    },
+    {
+        "phrase": "青叶之国",
+        "input": [
+            "qingyezhiguo",
+            "qyzg"
+        ]
+    },
+    {
+        "phrase": "泉水之国",
+        "input": [
+            "quanshuizhiguo",
+            "qszg"
+        ]
+    },
+    {
+        "phrase": "紫电之国",
+        "input": [
+            "zidianzhiguo",
+            "zdzg"
+        ]
+    },
+    {
+        "phrase": "虫蛹之国",
+        "input": [
+            "chongyongzhiguo",
+            "cyzg"
+        ]
+    },
+    {
+        "phrase": "拳斗之国",
+        "input": [
+            "quandouzhiguo",
+            "qdzg"
+        ]
+    },
+    {
+        "phrase": "幻梦之国",
+        "input": [
+            "huanmengzhiguo",
+            "hmzg"
+        ]
+    },
+    {
+        "phrase": "大地之国",
+        "input": [
+            "dadizhiguo",
+            "ddzg"
+        ]
+    },
+    {
+        "phrase": "奇岩之国",
+        "input": [
+            "qiyanzhiguo",
+            "qyzg"
+        ]
+    },
+    {
+        "phrase": "毒牙之国",
+        "input": [
+            "duyazhiguo",
+            "dyzg"
+        ]
+    },
+    {
+        "phrase": "夜叉之国",
+        "input": [
+            "yechazhiguo",
+            "yczg"
+        ]
+    },
+    {
+        "phrase": "飞翼之国",
+        "input": [
+            "feiyizhiguo",
+            "fyzg"
+        ]
+    },
+    {
+        "phrase": "不屈之国",
+        "input": [
+            "buquzhiguo",
+            "bqzg"
+        ]
+    },
+    {
+        "phrase": "御灵之国",
+        "input": [
+            "yulingzhiguo",
+            "ylzg"
+        ]
+    },
+    {
+        "phrase": "吹雪之国",
+        "input": [
+            "chuixuezhiguo",
+            "cxzg"
+        ]
+    },
+    {
+        "phrase": "神龙之国",
+        "input": [
+            "shenlongzhiguo",
+            "slzg"
+        ]
+    },
+    {
+        "phrase": "碲陆镇",
+        "input": [
+            "diluzhen",
+            "dlz"
+        ]
+    },
+    {
+        "phrase": "坚铁旧城街",
+        "input": [
+            "jiantiejiuchengjie",
+            "jtjcj"
+        ]
+    },
+    {
+        "phrase": "新氖市",
+        "input": [
+            "xinnaishi",
+            "xns"
+        ]
+    },
+    {
+        "phrase": "磷矿火山",
+        "input": [
+            "linkuanghuoshan",
+            "lkhs"
+        ]
+    },
+    {
+        "phrase": "沧蓝巨蛋",
+        "input": [
+            "canglanjudan",
+            "cljd"
+        ]
+    },
+    {
+        "phrase": "坚铁竞技场",
+        "input": [
+            "jiantiejingjichang",
+            "jtjjc"
+        ]
+    },
+    {
+        "phrase": "硒月岛",
+        "input": [
+            "xiyuedao",
+            "xyd"
+        ]
+    },
+    {
+        "phrase": "锝技市",
+        "input": [
+            "dejishi",
+            "djs"
+        ]
+    },
+    {
+        "phrase": "雷吉遗迹",
+        "input": [
+            "leijiyiji",
+            "ljyj"
+        ]
+    },
+    {
+        "phrase": "黑暗竞技场",
+        "input": [
+            "heianjingjichang",
+            "hajjc"
+        ]
+    },
+    {
+        "phrase": "无之祭坛",
+        "input": [
+            "wuzhijitan",
+            "wzjt"
+        ]
+    },
+    {
+        "phrase": "挑战之屋",
+        "input": [
+            "tiaozhanzhiwu",
+            "tzzw"
+        ]
+    },
+    {
+        "phrase": "大山研究所",
+        "input": [
+            "dashanyanjiusuo",
+            "dsyjs"
+        ]
+    },
+    {
+        "phrase": "彩虹云",
+        "input": [
+            "caihongyun",
+            "chy"
+        ]
+    },
+    {
+        "phrase": "常青郊外",
+        "input": [
+            "changqingjiaowai",
+            "cqjw"
+        ]
+    },
+    {
+        "phrase": "草绿草原",
+        "input": [
+            "caolvcaoyuan",
+            "caolucaoyuan",
+            "clcy"
+        ]
+    },
+    {
+        "phrase": "苏芳岛",
+        "input": [
+            "sufangdao",
+            "sfd"
+        ]
+    },
+    {
+        "phrase": "苏芳海岸",
+        "input": [
+            "sufanghaian",
+            "sfha"
+        ]
+    },
+    {
+        "phrase": "茜红森林",
+        "input": [
+            "qianhongsenlin",
+            "qhsl"
+        ]
+    },
+    {
+        "phrase": "浅葱湖",
+        "input": [
+            "qianconghu",
+            "qch"
+        ]
+    },
+    {
+        "phrase": "薄荷镇",
+        "input": [
+            "bohezhen",
+            "bhz"
+        ]
+    },
+    {
+        "phrase": "赏雪山",
+        "input": [
+            "shangxueshan",
+            "sxs"
+        ]
+    },
+    {
+        "phrase": "苏芳钓场",
+        "input": [
+            "sufangdiaochang",
+            "sfdc"
+        ]
+    },
+    {
+        "phrase": "茜红钓场",
+        "input": [
+            "qianhongdiaochang",
+            "qhdc"
+        ]
+    },
+    {
+        "phrase": "浅葱钓场",
+        "input": [
+            "qiancongdiaochang",
+            "qcdc"
+        ]
+    },
+    {
+        "phrase": "野营地",
+        "input": [
+            "yeyingdi",
+            "yyd"
+        ]
+    },
+    {
+        "phrase": "星空营地",
+        "input": [
+            "xingkongyingdi",
+            "xkyd"
+        ]
+    },
+    {
+        "phrase": "秘密钓场",
+        "input": [
+            "mimidiaochang",
+            "mmdc"
+        ]
+    },
+    {
+        "phrase": "真相遗迹",
+        "input": [
+            "zhenxiangyiji",
+            "zxyj"
+        ]
+    },
+    {
+        "phrase": "集会广场",
+        "input": [
+            "jihuiguangchang",
+            "jhgc"
+        ]
+    },
+    {
+        "phrase": "愿望公园",
+        "input": [
+            "yuanwanggongyuan",
+            "ywgy"
+        ]
+    },
+    {
+        "phrase": "福波斯火车",
+        "input": [
+            "fubosihuoche",
+            "fbshc"
+        ]
+    },
+    {
+        "phrase": "福波斯喷气式飞机",
+        "input": [
+            "fubosipenqishifeiji",
+            "fbspqsfj"
+        ]
+    },
+    {
+        "phrase": "福波斯钻头",
+        "input": [
+            "fubosizuantou",
+            "fbszt"
+        ]
+    },
+    {
+        "phrase": "福波斯深海号",
+        "input": [
+            "fubosishenhaihao",
+            "fbsshh"
+        ]
+    },
+    {
+        "phrase": "福波斯徒步者",
+        "input": [
+            "fubositubuzhe",
+            "fbstbz"
+        ]
+    },
+    {
+        "phrase": "福波斯之月",
+        "input": [
+            "fubosizhiyue",
+            "fbszy"
+        ]
+    },
+    {
+        "phrase": "粗暴草原",
+        "input": [
+            "cubaocaoyuan",
+            "cbcy"
+        ]
+    },
+    {
+        "phrase": "剑盾之路",
+        "input": [
+            "jiandunzhilu",
+            "jdzl"
+        ]
+    },
+    {
+        "phrase": "巨大森林",
+        "input": [
+            "judasenlin",
+            "jdsl"
+        ]
+    },
+    {
+        "phrase": "天空遗迹",
+        "input": [
+            "tiankongyiji",
+            "tkyj"
+        ]
+    },
+    {
+        "phrase": "神秘之泉",
+        "input": [
+            "shenmizhiquan",
+            "smzq"
+        ]
+    },
+    {
+        "phrase": "漆黑洞穴",
+        "input": [
+            "qiheidongxue",
+            "qhdx"
+        ]
+    },
+    {
+        "phrase": "神圣荒野",
+        "input": [
+            "shenshenghuangye",
+            "sshy"
+        ]
+    },
+    {
+        "phrase": "破碎岛",
+        "input": [
+            "posuidao",
+            "psd"
+        ]
+    },
+    {
+        "phrase": "龙之丘",
+        "input": [
+            "longzhiqiu",
+            "lzq"
+        ]
+    },
+    {
+        "phrase": "秩序之山",
+        "input": [
+            "zhixuzhishan",
+            "zxzs"
+        ]
+    },
+    {
+        "phrase": "游猎丛林",
+        "input": [
+            "youlieconglin",
+            "ylcl"
+        ]
+    },
+    {
+        "phrase": "时光之岛",
+        "input": [
+            "shiguangzhidao",
+            "sgzd"
+        ]
+    },
+    {
+        "phrase": "永恒遗迹",
+        "input": [
+            "yonghengyiji",
+            "yhyj"
+        ]
+    },
+    {
+        "phrase": "纯白港湾",
+        "input": [
+            "chunbaigangwan",
+            "cbgw"
+        ]
+    },
+    {
+        "phrase": "米黄市场",
+        "input": [
+            "mihuangshichang",
+            "mhsc"
+        ]
+    },
+    {
+        "phrase": "黑炭祭典",
+        "input": [
+            "heitanjidian",
+            "htjd"
+        ]
+    },
+    {
+        "phrase": "蔚蓝海滩",
+        "input": [
+            "weilanhaitan",
+            "wlht"
+        ]
+    },
+    {
+        "phrase": "彩虹公园",
+        "input": [
+            "caihonggongyuan",
+            "chgy"
+        ]
+    },
+    {
+        "phrase": "胭红画廊",
+        "input": [
+            "yanhonghualang",
+            "yhhl"
+        ]
+    },
+    {
+        "phrase": "夹心糖小屋",
+        "input": [
+            "jiaxintangxiaowu",
+            "jxtxw"
+        ]
+    },
+    {
+        "phrase": "白银博物馆",
+        "input": [
+            "baiyinbowuguan",
+            "bybwg"
+        ]
+    },
+    {
+        "phrase": "白皑冬峰",
+        "input": [
+            "baiaidongfeng",
+            "badf"
+        ]
+    },
+    {
+        "phrase": "晚夜城堡",
+        "input": [
+            "wanyechengbao",
+            "wycb"
+        ]
+    },
+    {
+        "phrase": "茂青丛林",
+        "input": [
+            "maoqingconglin",
+            "mqcl"
+        ]
+    },
+    {
+        "phrase": "磐石山谷",
+        "input": [
+            "panshishangu",
+            "pssg"
+        ]
+    },
+    {
+        "phrase": "精白镇",
+        "input": [
+            "jingbaizhen",
+            "jbz"
+        ]
+    },
+    {
+        "phrase": "玫红中心",
+        "input": [
+            "meihongzhongxin",
+            "mhzx"
+        ]
+    },
+    {
+        "phrase": "灰影荒野",
+        "input": [
+            "huiyinghuangye",
+            "hyhy"
+        ]
+    },
+    {
+        "phrase": "紫罗兰宫殿",
+        "input": [
+            "ziluolangongdian",
+            "zllgd"
+        ]
+    },
+    {
+        "phrase": "天蓝沙龙",
+        "input": [
+            "tianlanshalong",
+            "tlsl"
+        ]
+    },
+    {
+        "phrase": "茶褐殿堂",
+        "input": [
+            "chahediantang",
+            "chdt"
+        ]
+    },
+    {
+        "phrase": "夜嘉年华",
+        "input": [
+            "yejianianhua",
+            "yjnh"
+        ]
+    },
+    {
+        "phrase": "葱翠树林",
+        "input": [
+            "congcuishulin",
+            "ccsl"
+        ]
+    },
+    {
+        "phrase": "附加舞台",
+        "input": [
+            "fujiawutai",
+            "fjwt"
+        ]
+    },
+    {
+        "phrase": "事件舞台",
+        "input": [
+            "shijianwutai",
+            "sjwt"
+        ]
+    },
+    {
+        "phrase": "金雀楼",
+        "input": [
+            "jinquelou",
+            "jql"
+        ]
+    },
+    {
+        "phrase": "玫瑰堡",
+        "input": [
+            "meiguibao",
+            "mgb"
+        ]
+    },
+    {
+        "phrase": "大西洲",
+        "input": [
+            "daxizhou",
+            "dxz"
+        ]
+    },
+    {
+        "phrase": "玉榄宫",
+        "input": [
+            "yulangong",
+            "ylg"
+        ]
+    },
+    {
+        "phrase": "熔心汇",
+        "input": [
+            "rongxinhui",
+            "rxh"
+        ]
+    },
+    {
+        "phrase": "铱缕亭",
+        "input": [
+            "yilvting",
+            "yiluting",
+            "ylt"
+        ]
+    },
+    {
+        "phrase": "探堤公园",
+        "input": [
+            "tandigongyuan",
+            "tdgy"
+        ]
+    },
+    {
+        "phrase": "贝克侦探事务所",
+        "input": [
+            "beikezhentanshiwusuo",
+            "bkztsws"
+        ]
+    },
+    {
+        "phrase": "古德曼公寓",
+        "input": [
+            "gudemangongyu",
+            "gdmgy"
+        ]
+    },
+    {
+        "phrase": "踩镲咖啡馆",
+        "input": [
+            "caichakafeiguan",
+            "cckfg"
+        ]
+    },
+    {
+        "phrase": "宝可梦综合研究所",
+        "input": [
+            "baokemengzongheyanjiusuo",
+            "bkmzhyjs"
+        ]
+    },
+    {
+        "phrase": "卡布奇岛",
+        "input": [
+            "kabuqidao",
+            "kbqd"
+        ]
+    },
+    {
+        "phrase": "莱姆码头",
+        "input": [
+            "laimumatou",
+            "lmmt"
+        ]
+    },
+    {
+        "phrase": "法茵乐园",
+        "input": [
+            "fayinleyuan",
+            "fyly"
+        ]
+    }
+]
