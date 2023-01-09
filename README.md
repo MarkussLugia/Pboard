@@ -1,6 +1,8 @@
 # Pboard
 用于中文输入法的宝可梦相关词汇辅助输入词库。   
 
+*** 
+
 当前支持的输入法
 ---
 **PC:**
@@ -13,12 +15,14 @@
 * Gboard
 * QQ输入法
 
+*** 
+
 我要如何使用呢？
 ---
 [Wiki页面](https://github.com/MarkussLugia/Pboard/wiki)有详细的步骤指南。   
 **还有疑问？有个讨论用的QQ群：[830318808](https://jq.qq.com/?_wv=1027&k=yJ8r3TwW)**  
 
-<br>   
+*** 
 
 致谢
 ---
