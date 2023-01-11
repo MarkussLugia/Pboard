@@ -1,14 +1,16 @@
 # Pboard
 用于中文输入法的宝可梦相关词汇辅助输入词库。   
+使用**[DictBuilder](https://github.com/MarkussLugia/DictBuilder)**构建。
 
 *** 
 
 当前支持的输入法
 ---
-**PC:**
+
+**Windows:**
 * 搜狗拼音输入法
 * QQ拼音输入法
-* 微软拼音（Windows 10 默认输入法）
+* 微软拼音（Windows 10/11 默认输入法）
 
 **Android:**
 * 百度输入法
@@ -19,8 +21,9 @@
 
 我要如何使用呢？
 ---
-[Wiki页面](https://github.com/MarkussLugia/Pboard/wiki)有详细的步骤指南。   
-**还有疑问？有个讨论用的QQ群：[830318808](https://jq.qq.com/?_wv=1027&k=yJ8r3TwW)**  
+
+**[Wiki页面](https://github.com/MarkussLugia/Pboard/wiki)**有详细的步骤指南。   
+还有疑问？有个讨论用的QQ群：**[830318808](https://jq.qq.com/?_wv=1027&k=yJ8r3TwW)**  
 
 *** 
 
@@ -32,7 +35,7 @@
 完成第一/三世代的宝可梦词库。 
 
 **MarkussLugia**   
-完成第二世代的宝可梦词库。<sub><sup><sub><sup><sub>*并且夹了点私货彩蛋。*</sub></sup></sub></sup></sub> 
+完成第二世代的宝可梦词库。
 
 **机智的卡比兽**   
 完成第四世代的宝可梦词库。  
