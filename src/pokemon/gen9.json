@@ -934,5 +934,123 @@
             "tiedashe",
             "miraidon"
         ]
+    },
+    {
+        "phrase": "波荡水",
+        "input": [
+            "bodangshui",
+            "bds",
+            "uneruminamo",
+            "walkingwake"
+        ]
+    },
+    {
+        "phrase": "铁斑叶",
+        "input": [
+            "tiebanye",
+            "tby",
+            "tetsunoisaha",
+            "ironleaves"
+        ]
+    },
+    {
+        "phrase": "裹蜜虫",
+        "input": [
+            "guomichong",
+            "gmc",
+            "kamicchu",
+            "dipplin"
+        ]
+    },
+    {
+        "phrase": "斯魔茶",
+        "input": [
+            "simocha",
+            "smc",
+            "chadesu",
+            "poltchageist"
+        ]
+    },
+    {
+        "phrase": "来悲粗茶",
+        "input": [
+            "laibeicucha",
+            "lbcc",
+            "yabasocha",
+            "sinistcha"
+        ]
+    },
+    {
+        "phrase": "够赞狗",
+        "input": [
+            "gouzangou",
+            "gzg",
+            "iineinu",
+            "okidogi"
+        ]
+    },
+    {
+        "phrase": "愿增猿",
+        "input": [
+            "yuanzengyuan",
+            "yzy",
+            "mashimashira",
+            "munkidori"
+        ]
+    },
+    {
+        "phrase": "吉雉鸡",
+        "input": [
+            "jizhiji",
+            "jzj",
+            "kichikigisu",
+            "fezandipiti"
+        ]
+    },
+    {
+        "phrase": "厄鬼椪",
+        "input": [
+            "eguipeng",
+            "egp",
+            "ogerpon"
+        ]
+    },
+    {
+        "phrase": "铝钢桥龙",
+        "input": [
+            "lvgangqiaolong",
+            "lugangqiaolong",
+            "lgql",
+            "briduras",
+            "archaludon"
+        ]
+    },
+    {
+        "phrase": "猛雷鼓",
+        "input": [
+            "mengleigu",
+            "mlg",
+            "takeruraiko",
+            "ragingbolt"
+        ]
+    },
+    {
+        "phrase": "铁头壳",
+        "input": [
+            "tietouke",
+            "tietouqiao",
+            "ttk",
+            "tetsunokashira",
+            "ironcrown"
+        ]
+    },
+    {
+        "phrase": "太乐巴戈斯",
+        "input": [
+            "tailebagesi",
+            "tailebugs",
+            "tlbgs",
+            "terapagos"
+        ]
     }
 ]
