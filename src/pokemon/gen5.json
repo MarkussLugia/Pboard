@@ -1412,12 +1412,16 @@
     {
         "phrase": "闇黑酋雷姆",
         "input": [
+            "anheiqiuleimu",
+            "ahqlm",
             "heibing"
         ]
     },
     {
         "phrase": "焰白酋雷姆",
         "input": [
+            "yanbaiqiuleimu",
+            "ybqlm",
             "baibing"
         ]
     },

@@ -896,30 +896,40 @@
     {
         "phrase": "清洗洛托姆",
         "input": [
-            "xiyiji"
+            "qingxiluotuomu",
+            "qxltm"
         ]
     },
     {
         "phrase": "加热洛托姆",
         "input": [
+            "jiareluotuomu",
+            "jrltm",
             "huoyiji"
         ]
     },
     {
         "phrase": "切割洛托姆",
         "input": [
+            "qiegeluotuomu",
+            "qgltm",
             "caoyiji"
         ]
     },
     {
         "phrase": "旋转洛托姆",
         "input": [
+            "xuanzhuanluotuomu",
+            "xvanzhuanluotuomu",
+            "xzltm",
             "feiyiji"
         ]
     },
     {
         "phrase": "结冰洛托姆",
         "input": [
+            "jiebingluotuomu",
+            "jbltm",
             "bingyiji"
         ]
     },
@@ -959,10 +969,8 @@
             "diyaluka",
             "dylk",
             "diyalujia",
-            "ganglong",
             "shijianlong",
             "shijianshen",
-            "zuanshi",
             "dialga"
         ]
     },
@@ -973,7 +981,6 @@
             "plqy",
             "kongjianlong",
             "kongjianshen",
-            "zhenzhu",
             "palkia"
         ]
     },
@@ -1001,7 +1008,7 @@
         "input": [
             "qiladina",
             "qldn",
-            "guilong",
+            "mingwanglong",
             "giratina"
         ]
     },
