@@ -1026,12 +1026,39 @@
         ]
     },
     {
+        "phrase": "蜜集大蛇",
+        "input": [
+            "mijidashe",
+            "mjds",
+            "kamitsuorochi",
+            "hydrapple"
+        ]
+    },
+    {
+        "phrase": "破空焰",
+        "input": [
+            "pokongyan",
+            "pky",
+            "ugatsuhomura",
+            "gougingfire"
+        ]
+    },
+    {
         "phrase": "猛雷鼓",
         "input": [
             "mengleigu",
             "mlg",
             "takeruraiko",
             "ragingbolt"
+        ]
+    },
+    {
+        "phrase": "铁磐岩",
+        "input": [
+            "tiepanyan",
+            "tpy",
+            "tetsunoiwao",
+            "ironboulder"
         ]
     },
     {
@@ -1051,6 +1078,15 @@
             "tailebugs",
             "tlbgs",
             "terapagos"
+        ]
+    },
+    {
+        "phrase": "桃歹郎",
+        "input": [
+            "taodailang",
+            "tdl",
+            "momowarou",
+            "pecharunt"
         ]
     }
 ]
